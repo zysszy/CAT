@@ -1,0 +1,3100 @@
+Acceptability of the Ori.
+Since they cannot often see their daughter , they carefully keep her paintings finished in her childhood and honors received in the past .
+Original:
+由于 他们 常常 看不到 他们 的 女儿 ， 他们 小心 地 保持 了 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Repaired:
+由于 他们 常常 看不到 他们 的 女儿 ， 他们 小心 地 保持 了 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Diff:
+由于 他们 常常 看不到 他们 的 女儿 ， 他们 小心 地 保持 了 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Because they cannot often see their daughter , they carefully keep her paintings finished in her childhood and honors received in the past .
+Original:
+因为 他们 常常 看不到 他们 的 女儿 ， 所以 他们 小心 地 保持 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Repaired:
+因为 他们 常常 看不到 他们 的 女儿 ， 他们 小心 地 保持 了 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Diff:
+因为 他们 常常 看不到 他们 的 女儿 ， [-所以-] 他们 小心 地 保持 {+了+} 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-Since-]{+Because+} they cannot often see their daughter , they carefully keep her paintings finished in her childhood and honors received in the past .
+Original:
+[-由于-]{+因为+} 他们 常常 看不到 他们 的 女儿 ， {+所以+} 他们 小心 地 保持 [-了-] 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Repaired:
+[-由于-]{+因为+} 他们 常常 看不到 他们 的 女儿 ， 他们 小心 地 保持 了 她 童年 的 绘画 和 过去 所 得到 的 荣誉 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+US Defense Secretary Carter , US Secretary of State Kerry , Japanese Foreign Minister Fumio Kishida and Japanese Minister of Defense Gen Nakatani attended the press conference in New York on that day .
+Original:
+美国 国防部长 卡特 、 美国 国务卿 克里 、 日本 外交部长 福米奥 · 基希达 和 日本国防部长 中塔尼 于 当天 在 纽约 参加 了 新闻 发布会 。
+Repaired:
+美国 国防部长 卡特 、 美国 国务卿 克里 、 日本 外交部长 福米奥 · 基希达 和 日本国防部长 中塔尼 于 当天 在 纽约 参加 了 新闻 发布会 。
+Diff:
+美国 国防部长 卡特 、 美国 国务卿 克里 、 日本 外交部长 福米奥 · 基希达 和 日本国防部长 中塔尼 于 当天 在 纽约 参加 了 新闻 发布会 。
+Label: Unchanged
+
+Acceptability of the Mut.
+US Treasury Secretary Carter , US Secretary of State Kerry , Japanese Foreign Minister Fumio Kishida and Japanese Minister of Defense Gen Nakatani attended the press conference in New York on that day .
+Original:
+美国 财政部长 卡特 ( Carter ) 、 美国 国务卿 克里 ( Kerry ) 、 日本 外交部长 福米奥 ? 基希达 ( Fumio Kishida ) 和 日本国防部长 中塔尼 ( Nakatani ) 于 当天 出席 了 在 纽约 举行 的 新闻 发布会 。
+Repaired:
+美国 财政部长 卡特 、 美国 国务卿 克里 、 日本 外交部长 福米奥 · 基希达 和 日本国防部长 中塔尼 于 当天 在 纽约 参加 了 新闻 发布会 。
+Diff:
+美国 财政部长 卡特 [-( Carter )-] 、 美国 国务卿 克里 [-( Kerry )-] 、 日本 外交部长 福米奥 [-?-] {+·+} 基希达 [-( Fumio Kishida )-] 和 日本国防部长 中塔尼 [-( Nakatani )-] 于 当天 [-出席 了-] 在 纽约 [-举行 的-] {+参加 了+} 新闻 发布会 。
+Label: Unchanged
+
+Consistency
+Diff:
+US [-Defense-] {+Treasury+} Secretary Carter , US Secretary of State Kerry , Japanese Foreign Minister Fumio Kishida and Japanese Minister of Defense Gen Nakatani attended the press conference in New York on that day .
+Original:
+美国 [-国防部长-] {+财政部长+} 卡特 {+( Carter )+} 、 美国 国务卿 克里 {+( Kerry )+} 、 日本 外交部长 福米奥 [-·-] {+?+} 基希达 {+( Fumio Kishida )+} 和 日本国防部长 中塔尼 {+( Nakatani )+} 于 当天 {+出席 了+} 在 纽约 [-参加 了-] {+举行 的+} 新闻 发布会 。
+Repaired:
+美国 [-国防部长-] {+财政部长+} 卡特 、 美国 国务卿 克里 、 日本 外交部长 福米奥 · 基希达 和 日本国防部长 中塔尼 于 当天 在 纽约 参加 了 新闻 发布会 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+CBC Olympics commentator apologizes for saying Chinese swimmer ' died like a pig '
+Original:
+CBC 奥运会 评论员 为 中国 游泳 者 “ 死 于 猪 ” 表示歉意 。
+Repaired:
+CBC 奥运会 评论员 为 中国 游泳 者 “ 像 猪 一样 死 ” 表示歉意 。
+Diff:
+CBC 奥运会 评论员 为 中国 游泳 者 “ [-死 于-] {+像+} 猪 {+一样 死+} ” 表示歉意 。
+Label: Improved
+
+Acceptability of the Mut.
+Beijing Olympics commentator apologizes for saying Chinese swimmer ' died like a pig '
+Original:
+北京 奥运会 评论员 为 中国 游泳 者 “ 像 猪 一样 死 ” 表示歉意 。
+Repaired:
+北京 奥运会 评论员 为 中国 游泳 者 “ 像 猪 一样 死 ” 表示歉意 。
+Diff:
+北京 奥运会 评论员 为 中国 游泳 者 “ 像 猪 一样 死 ” 表示歉意 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-CBC-]{+Beijing+} Olympics commentator apologizes for saying Chinese swimmer ' died like a pig '
+Original:
+[-CBC-]{+北京+} 奥运会 评论员 为 中国 游泳 者 “ [-死 于-] {+像+} 猪 {+一样 死+} ” 表示歉意 。
+Repaired:
+[-CBC-]{+北京+} 奥运会 评论员 为 中国 游泳 者 “ 像 猪 一样 死 ” 表示歉意 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Later he managed presidential protocol and government staff , the Kremlin website says ( in Russian ) .
+Original:
+后来 他 管理 了 总统 协议 和 政府 工作人员 ， 克里姆林宫 网站 说 （ 俄文 ） 。
+Repaired:
+后来 他 管理 了 总统 协议 和 政府 工作人员 ， 克里姆林宫 网站 说 （ 俄文 ） 。
+Diff:
+后来 他 管理 了 总统 协议 和 政府 工作人员 ， 克里姆林宫 网站 说 （ 俄文 ） 。
+Label: Unchanged
+
+Acceptability of the Mut.
+There he managed presidential protocol and government staff , the Kremlin website says ( in Russian ) .
+Original:
+克里姆林宫 网站 说 ， 他 在 那里 管理 着 总统 协议 和 政府 工作人员 。
+Repaired:
+那里 ， 他 管理 了 总统 协议 和 政府 工作人员 ， 克里姆林宫 网站 说 （ 俄文 ） 。
+Diff:
+[-克里姆林宫 网站 说-]{+那里+} ， 他 [-在 那里-] 管理 [-着-] {+了+} 总统 协议 和 政府 工作人员 {+， 克里姆林宫 网站 说 （ 俄文 ）+} 。
+Label: Improved
+
+Consistency
+Diff:
+[-Later-]{+There+} he managed presidential protocol and government staff , the Kremlin website says ( in Russian ) .
+Original:
+[-后来-]{+克里姆林宫 网站 说 ，+} 他 {+在 那里+} 管理 [-了-] {+着+} 总统 协议 和 政府 工作人员 [-， 克里姆林宫 网站 说 （ 俄文 ）-] 。
+Repaired:
+[-后来-]{+那里 ，+} 他 管理 了 总统 协议 和 政府 工作人员 ， 克里姆林宫 网站 说 （ 俄文 ） 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+' She didn ' t seem to care who was watching - or think about the person who would eventually buy the knickers she ' d been trying on . '
+Original:
+她 似乎 并 不 关心 谁 在 监视 她 ， 也 不 关心 谁 最终 会 买 她 想 买 的 那个 骑士 。
+Repaired:
+“ 她 似乎 并 不 关心 谁 在 监视 ， 或者 想到 那个 最终 会 买 她 想 买 的 那个 骑士 的 人 。 ”
+Diff:
+{+“+} 她 似乎 并 不 关心 谁 在 监视 [-她-] ， [-也 不 关心 谁-] {+或者 想到 那个+} 最终 会 买 她 想 买 的 那个 骑士 {+的 人+} 。 {+”+}
+Label: Unchanged
+
+Acceptability of the Mut.
+' She didn ' t seem to care who was watching - or think about the person who would eventually buy the knickers she ' d been putting on . '
+Original:
+她 似乎 并 不 关心 谁 在 监视 她 ， 也 不 关心 谁 最终 会 买 她 所 穿 的 针织衫 。
+Repaired:
+“ 她 似乎 并 不 关心 谁 在 监视 ， 或者 想到 那个 最终 会 买 她 所 穿 的 那个 骑士 的 人 。 ”
+Diff:
+{+“+} 她 似乎 并 不 关心 谁 在 监视 [-她-] ， [-也 不 关心 谁-] {+或者 想到 那个+} 最终 会 买 她 所 穿 的 [-针织衫-] {+那个 骑士 的 人+} 。 {+”+}
+Label: Decreased
+
+Consistency
+Diff:
+' She didn ' t seem to care who was watching - or think about the person who would eventually buy the knickers she ' d been [-trying-] {+putting+} on . '
+Original:
+她 似乎 并 不 关心 谁 在 监视 她 ， 也 不 关心 谁 最终 会 买 她 [-想 买-] {+所 穿+} 的 [-那个 骑士-] {+针织衫+} 。
+Repaired:
+“ 她 似乎 并 不 关心 谁 在 监视 ， 或者 想到 那个 最终 会 买 她 [-想 买-] {+所 穿+} 的 那个 骑士 的 人 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+I ' m not really one of those people who keeps track of their goals .
+Original:
+我 不是 那些 追求 自己 目标 的 人 。
+Repaired:
+我 不是 那些 追求 自己 目标 的 人 。
+Diff:
+我 不是 那些 追求 自己 目标 的 人 。
+Label: Unchanged
+
+Acceptability of the Mut.
+I ' m not really one of those people who keeps track of your goals .
+Original:
+我 不是 真正 了解 你 目标 的 人 之一 。
+Repaired:
+我 不是 那些 追踪 你 目标 的 人 。
+Diff:
+我 不是 [-真正 了解-] {+那些 追踪+} 你 目标 的 人 [-之一-] 。
+Label: Improved
+
+Consistency
+Diff:
+I ' m not really one of those people who keeps track of [-their-] {+your+} goals .
+Original:
+我 不是 [-那些 追求 自己-] {+真正 了解 你+} 目标 的 人 {+之一+} 。
+Repaired:
+我 不是 那些 [-追求 自己-] {+追踪 你+} 目标 的 人 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+A brilliant late tackle from Marcus Watson , brother of England ' s 15 - aside team , Anthony , secured the win - and ultimately the silver medal .
+Original:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 球员 安东尼 ( Anthony ) 获得 了 冠军 ， 并 最终 获得 了 银牌 。
+Repaired:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 球员 安东尼 ( Anthony ) 获得 了 冠军 ， 并 最终 获得 了 银牌 。
+Diff:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 球员 安东尼 ( Anthony ) 获得 了 冠军 ， 并 最终 获得 了 银牌 。
+Label: Unchanged
+
+Acceptability of the Mut.
+A brilliant late tackle from Marcus Watson , brother of England ' s 15 - aside team , Anthony , secured the victory - and ultimately the silver medal .
+Original:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 前锋 安东尼 ( Anthony ) 获得 了 胜利 ， 最终 获得 了 银牌 。
+Repaired:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 队员 安东尼 ( Anthony ) 获得 了 胜利 ， 并 最终 获得 了 银牌 。
+Diff:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 [-前锋-] {+队员+} 安东尼 ( Anthony ) 获得 了 胜利 ， {+并+} 最终 获得 了 银牌 。
+Label: Decreased
+
+Consistency
+Diff:
+A brilliant late tackle from Marcus Watson , brother of England ' s 15 - aside team , Anthony , secured the [-win-] {+victory+} - and ultimately the silver medal .
+Original:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 [-球员-] {+前锋+} 安东尼 ( Anthony ) 获得 了 [-冠军-] {+胜利+} ， [-并-] 最终 获得 了 银牌 。
+Repaired:
+来自 英国 15 派 球队 的 兄弟 马库斯 ? 沃森 ( Marcus Watson ) 的 一位 杰出 的 已故 [-球员-] {+队员+} 安东尼 ( Anthony ) 获得 了 [-冠军-] {+胜利+} ， 并 最终 获得 了 银牌 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+In addition , the female Greenland shark is alleged to be sexually matured at about 4 meters in length . That is , it cannot reach adulthood until the age of 156 at least .
+Original:
+此外 ， 据称 格陵兰 女性 鲨鱼 的 性成熟 时间 约 为 4 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Repaired:
+此外 ， 据称 格陵兰 的 雌性 鲨鱼 的 性成熟 时间 约 为 4 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Diff:
+此外 ， 据称 格陵兰 [-女性-] {+的 雌性+} 鲨鱼 的 性成熟 时间 约 为 4 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Label: Improved
+
+Acceptability of the Mut.
+In addition , the female Greenland shark is alleged to be sexually matured at about 5 meters in length . That is , it cannot reach adulthood until the age of 156 at least .
+Original:
+此外 ， 据称 格陵兰 雌性 鲨鱼 的 性成熟 时间 约 为 5 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Repaired:
+此外 ， 据称 格陵兰 的 雌性 鲨鱼 的 性成熟 时间 约 为 5 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Diff:
+此外 ， 据称 格陵兰 {+的+} 雌性 鲨鱼 的 性成熟 时间 约 为 5 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Label: Unchanged
+
+Consistency
+Diff:
+In addition , the female Greenland shark is alleged to be sexually matured at about [-4-] {+5+} meters in length . That is , it cannot reach adulthood until the age of 156 at least .
+Original:
+此外 ， 据称 格陵兰 [-女性-] {+雌性+} 鲨鱼 的 性成熟 时间 约 为 [-4-] {+5+} 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Repaired:
+此外 ， 据称 格陵兰 的 雌性 鲨鱼 的 性成熟 时间 约 为 [-4-] {+5+} 米 ， 即 至少 在 156 岁 之前 不能 成年 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+" We had hoped that the pool would return to normal color in the morning , but the speed of recovery was affected by the rain . "
+Original:
+“ 我们 曾 希望 游泳池 在 早上 恢复 正常 的 颜色 ， 但 恢复 的 速度 受到 雨水 的 影响 。 ”
+Repaired:
+“ 我们 曾 希望 游泳池 在 早上 恢复 正常 的 颜色 ， 但 恢复 的 速度 受到 雨水 的 影响 。 ”
+Diff:
+“ 我们 曾 希望 游泳池 在 早上 恢复 正常 的 颜色 ， 但 恢复 的 速度 受到 雨水 的 影响 。 ”
+Label: Unchanged
+
+Acceptability of the Mut.
+" I had hoped that the pool would return to normal color in the morning , but the speed of recovery was affected by the rain . "
+Original:
+“ 我 原本 希望 这个 游泳池 在 早上 恢复 正常 的 颜色 ， 但是 恢复 的 速度 受到 雨水 的 影响 。 ”
+Repaired:
+“ 我 原本 希望 游泳池 在 早上 恢复 正常 的 颜色 ， 但 恢复 的 速度 受到 雨水 的 影响 。 ”
+Diff:
+“ 我 原本 希望 [-这个-] 游泳池 在 早上 恢复 正常 的 颜色 ， [-但是-] {+但+} 恢复 的 速度 受到 雨水 的 影响 。 ”
+Label: Unchanged
+
+Consistency
+Diff:
+" [-We-] {+I+} had hoped that the pool would return to normal color in the morning , but the speed of recovery was affected by the rain . "
+Original:
+“ [-我们 曾-] {+我 原本+} 希望 {+这个+} 游泳池 在 早上 恢复 正常 的 颜色 ， [-但-] {+但是+} 恢复 的 速度 受到 雨水 的 影响 。 ”
+Repaired:
+“ [-我们 曾-] {+我 原本+} 希望 游泳池 在 早上 恢复 正常 的 颜色 ， 但 恢复 的 速度 受到 雨水 的 影响 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Most serious were accusations from top officials that Mr Erdogan ' s own family has profited from an illegal trade in oil from areas of Syria controlled by the so - called Islamic State .
+Original:
+最 严重 的 是 高级官员 指控 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Repaired:
+最 严重 的 是 高级官员 指控 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Diff:
+最 严重 的 是 高级官员 指控 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Especially serious were accusations from top officials that Mr Erdogan ' s own family has profited from an illegal trade in oil from areas of Syria controlled by the so - called Islamic State .
+Original:
+特别 严重 的 是 ， 一些 高级官员 指责 埃 尔多 安 自己 的 家庭 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Repaired:
+特别 严重 的 是 高级官员 指控 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Diff:
+特别 严重 的 是 [-， 一些-] 高级官员 [-指责-] {+指控+} 埃 尔多 安 [-自己-] 的 [-家庭-] {+家人+} 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Label: Improved
+
+Consistency
+Diff:
+[-Most-]{+Especially+} serious were accusations from top officials that Mr Erdogan ' s own family has profited from an illegal trade in oil from areas of Syria controlled by the so - called Islamic State .
+Original:
+[-最-]{+特别+} 严重 的 是 {+， 一些+} 高级官员 [-指控-] {+指责+} 埃 尔多 安 {+自己+} 的 [-家人-] {+家庭+} 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Repaired:
+[-最-]{+特别+} 严重 的 是 高级官员 指控 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+He and his teammate Lopez will compete for gold medals with Romanian player Tecau and Meggia in the men ' s doubles final .
+Original:
+他 和 他 的 队友 洛佩兹 将 在 男人 的 双重赛 决赛 中 与 罗马尼亚 选手 特考 和 梅格 加吉 竞争 金牌 。
+Repaired:
+他 和 他 的 队友 洛佩兹 将 在 男人 的 双倍 决赛 中 与 罗马尼亚 选手 Tecau 和 Megia 竞争 金牌 。
+Diff:
+他 和 他 的 队友 洛佩兹 将 在 男人 的 [-双重赛-] {+双倍+} 决赛 中 与 罗马尼亚 选手 [-特考-] {+Tecau+} 和 [-梅格 加吉-] {+Megia+} 竞争 金牌 。
+Label: Decreased
+
+Acceptability of the Mut.
+He and his teammate Lopez also compete for gold medals with Romanian player Tecau and Meggia in the men ' s doubles final .
+Original:
+他 和 他 的 队友 洛佩兹 还 与 罗马尼亚 选手 特科 和 梅格 吉 在 男人 的 双倍 决赛 中 争夺 金牌 。
+Repaired:
+他 和 他 的 队友 洛佩兹 还 在 男人 的 双倍 决赛 中 与 罗马尼亚 选手 Tecau 和 Megia 竞争 金牌 。
+Diff:
+他 和 他 的 队友 洛佩兹 还 [-与 罗马尼亚 选手 特科 和 梅格 吉-] 在 男人 的 双倍 决赛 中 [-争夺-] {+与 罗马尼亚 选手 Tecau 和 Megia 竞争+} 金牌 。
+Label: Unchanged
+
+Consistency
+Diff:
+He and his teammate Lopez [-will-] {+also+} compete for gold medals with Romanian player Tecau and Meggia in the men ' s doubles final .
+Original:
+他 和 他 的 队友 洛佩兹 [-将 在 男人 的 双重赛 决赛 中-] {+还+} 与 罗马尼亚 选手 [-特考-] {+特科+} 和 梅格 [-加吉 竞争-] {+吉 在 男人 的 双倍 决赛 中 争夺+} 金牌 。
+Repaired:
+他 和 他 的 队友 洛佩兹 [-将-] {+还+} 在 男人 的 双倍 决赛 中 与 罗马尼亚 选手 Tecau 和 Megia 竞争 金牌 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+" We have been following the normal procedure these days , but we may have overlooked the impact of more athletes on water quality . "
+Original:
+“ 这 几天 我们 一直 遵循 正常 的 程序 ， 但 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 。 ”
+Repaired:
+“ 这 几天 我们 一直 遵循 正常 的 程序 ， 但 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 。 ”
+Diff:
+“ 这 几天 我们 一直 遵循 正常 的 程序 ， 但 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 。 ”
+Label: Unchanged
+
+Acceptability of the Mut.
+" We have been following the normal procedure these days , though we may have overlooked the impact of more athletes on water quality . "
+Original:
+尽管 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 ， 但 目前 我们 一直 在 遵循 正常 的 程序 。
+Repaired:
+“ 这 几天 我们 一直 遵循 正常 的 程序 ， 尽管 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 。 ”
+Diff:
+{+“ 这 几天 我们 一直 遵循 正常 的 程序 ，+} 尽管 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 [-， 但 目前 我们 一直 在 遵循 正常 的 程序-] 。 {+”+}
+Label: Improved
+
+Consistency
+Diff:
+" We have been following the normal procedure these days , [-but-] {+though+} we may have overlooked the impact of more athletes on water quality . "
+Original:
+[-“ 这 几天 我们 一直 遵循 正常 的 程序 ， 但-]{+尽管+} 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 {+， 但 目前 我们 一直 在 遵循 正常 的 程序+} 。 [-”-]
+Repaired:
+“ 这 几天 我们 一直 遵循 正常 的 程序 ， [-但-] {+尽管+} 我们 可能 忽视 了 更 多 运动员 对 水质 的 影响 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Professor Carole Longson , director at the NICE health technology evaluation centre , said : " Despite the availability of effective secondary prevention treatments , as many as a quarter of people who have had a heart attack go on to have another heart attack or stroke - often with devastating consequences . "
+Original:
+NICE 保健 技术 评价 中心 主任 卡罗尔 · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 的 人 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 的 后果 。
+Repaired:
+NICE 保健 技术 评价 中心 主任 卡罗尔 · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 的 人 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 后果 。
+Diff:
+NICE 保健 技术 评价 中心 主任 卡罗尔 · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 的 人 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 [-的-] 后果 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Professor David Longson , director at the NICE health technology evaluation centre , said : " Despite the availability of effective secondary prevention treatments , as many as a quarter of people who have had a heart attack go on to have another heart attack or stroke - often with devastating consequences . "
+Original:
+NICE 保健 技术 评价 中心 主任 大卫 · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 者 仍 在 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 后果 。
+Repaired:
+NICE 保健 技术 评价 中心 主任 大卫 · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 者 仍 在 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 后果 。
+Diff:
+NICE 保健 技术 评价 中心 主任 大卫 · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 者 仍 在 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 后果 。
+Label: Unchanged
+
+Consistency
+Diff:
+Professor [-Carole-] {+David+} Longson , director at the NICE health technology evaluation centre , said : " Despite the availability of effective secondary prevention treatments , as many as a quarter of people who have had a heart attack go on to have another heart attack or stroke - often with devastating consequences . "
+Original:
+NICE 保健 技术 评价 中心 主任 [-卡罗尔-] {+大卫+} · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 [-的 人-] {+者 仍 在+} 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 [-的-] 后果 。
+Repaired:
+NICE 保健 技术 评价 中心 主任 [-卡罗尔-] {+大卫+} · 朗森 教授 说 ： " 尽管 有 有效 的 次级 预防 治疗 ， 但 有 多达 四分之一 的 心脏病 发作 [-的 人-] {+者 仍 在+} 继续 进行 另 一次 心脏病 发作 或 中风 - - - - 通常 会 带来 毁灭性 后果 。
+Label: Unchanged
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The 150 mu ( a unit of area , one " mu " = 0 . 0667 hectares ) of orchards and more than 10 species only require 12 workers plus a technical engineer to do the job .
+Original:
+150 亩 （ 一个 面积 单位 ， 一个 " 亩 " = 0.0676 公顷 ） 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Repaired:
+150 亩 （ 一个 面积 单位 ， 一个 " 亩 " = 0.0676 公顷 ） 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Diff:
+150 亩 （ 一个 面积 单位 ， 一个 " 亩 " = 0.0676 公顷 ） 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The 150 mu ( a unit of area , one " mu " = 0 . 0677 hectares ) of orchards and more than 10 species only require 12 workers plus a technical engineer to do the job .
+Original:
+150 亩 ( 一个 面积 单位 ， 一个 " 亩 " = 0.0677 公顷 ) 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Repaired:
+150 亩 （ 一个 面积 单位 ， 一个 " 亩 " = 0.0677 公顷 ） 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Diff:
+150 亩 [-(-] {+（+} 一个 面积 单位 ， 一个 " 亩 " = 0.0677 公顷 [-)-] {+）+} 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Label: Unchanged
+
+Consistency
+Diff:
+The 150 mu ( a unit of area , one " mu " = 0 . [-0667-] {+0677+} hectares ) of orchards and more than 10 species only require 12 workers plus a technical engineer to do the job .
+Original:
+150 亩 [-（-] {+(+} 一个 面积 单位 ， 一个 " 亩 " = [-0.0676-] {+0.0677+} 公顷 [-）-] {+)+} 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Repaired:
+150 亩 （ 一个 面积 单位 ， 一个 " 亩 " = [-0.0676-] {+0.0677+} 公顷 ） 的 果园 和 10 多个 物种 只 需要 12 名 工人 和 1 名 技术 工程师 来 完成 这项 工作 。
+Label: Unchanged
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Biles has spent the last three years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1984 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+Original:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 他们 的 雄心壮志 和 精确度 让 人 非常 惊讶 ， 1984 年 的 奥运冠军 玛丽 · 路易 · 雷顿 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Repaired:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 他们 的 雄心壮志 和 精确度 让 人 非常 惊讶 ， 1984 年 的 奥运冠军 玛丽 · 路易 · 雷顿 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Diff:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 他们 的 雄心壮志 和 精确度 让 人 非常 惊讶 ， 1984 年 的 奥运冠军 玛丽 · 路易 · 雷顿 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Biles has spent the last three years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that 1988 Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+Original:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 而 1988 年 奥运冠军 路易 ? 雷顿 ( Mary Lou Retton ) 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Repaired:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 他们 的 雄心壮志 和 精确 组合 让 人 非常 惊讶 ， 1988 年 奥运冠军 玛丽 · 路易 · 雷顿 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Diff:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， [-而-] {+他们 的 雄心壮志 和 精确 组合 让 人 非常 惊讶 ，+} 1988 年 奥运冠军 {+玛丽 ·+} 路易 [-?-] {+·+} 雷顿 [-( Mary Lou Retton )-] 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Label: Improved
+
+Consistency
+Diff:
+Biles has spent the last three years dominating her sport , winning 15 world championship medals - including 10 gold - with routines so astonishing in their mix of ambition and precision that [-1984-] {+1988+} Olympic champion Mary Lou Retton called her " the greatest gymnast I ' ve ever seen . "
+Original:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， [-他们 的 雄心壮志 和 精确度 让 人 非常 惊讶 ， 1984-] {+而 1988+} 年 [-的-] 奥运冠军 [-玛丽 ·-] 路易 [-·-] {+?+} 雷顿 {+( Mary Lou Retton )+} 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Repaired:
+比尔 在 过去 三年 中 在 她 的 运动 中 占 主导地位 ， 赢得 了 15 枚 世界冠军 奖牌 ， 其中 包括 10 枚 金牌 ， 他们 的 雄心壮志 和 [-精确度-] {+精确 组合+} 让 人 非常 惊讶 ， [-1984-] {+1988+} 年 [-的-] 奥运冠军 玛丽 · 路易 · 雷顿 称 她 为 “ 我 见 过 的 最 伟大 的 体操 运动员 ” 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+But he said that " experts sometimes disagree on the interpretation of complex data , and the intelligence community and Department of Defense welcome healthy dialogue on these vital national security topics . "
+Original:
+但 他 说 ， " 专家 有时 不 同意 对 复杂 数据 的 解释 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Repaired:
+但 他 说 ， " 专家 有时 不 同意 对 复杂 数据 的 解释 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Diff:
+但 他 说 ， " 专家 有时 不 同意 对 复杂 数据 的 解释 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Label: Unchanged
+
+Acceptability of the Mut.
+But he said that " experts often disagree on the interpretation of complex data , and the intelligence community and Department of Defense welcome healthy dialogue on these vital national security topics . "
+Original:
+但 他 说 ， " 专家 们 常常 对 复杂 数据 的 解释 意见 不 一 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Repaired:
+但 他 说 ， " 专家 往往 不 同意 复杂 数据 的 解释 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Diff:
+但 他 说 ， " 专家 [-们 常常 对-] {+往往 不 同意+} 复杂 数据 的 解释 [-意见 不 一-] ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Label: Improved
+
+Consistency
+Diff:
+But he said that " experts [-sometimes-] {+often+} disagree on the interpretation of complex data , and the intelligence community and Department of Defense welcome healthy dialogue on these vital national security topics . "
+Original:
+但 他 说 ， " 专家 [-有时 不 同意-] {+们 常常+} 对 复杂 数据 的 解释 {+意见 不 一+} ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Repaired:
+但 他 说 ， " 专家 [-有时-] {+往往+} 不 同意 [-对-] 复杂 数据 的 解释 ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Kyle Brown put the Boks ahead in the first half but Dan Norton with some dazzling footwork broke the line and scored under the posts in the second half .
+Original:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 脚步声 打破 了 这 条线 ， 在 后 半场 的 位置 上 得分 。
+Repaired:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 脚步声 打破 了 这 条线 ， 在 后 半场 的 位置 上 得分 。
+Diff:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 脚步声 打破 了 这 条线 ， 在 后 半场 的 位置 上 得分 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Kyle Brown put the Boks ahead in the first half but Dan Norton with some dazzling footwork crossed the line and scored under the posts in the second half .
+Original:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 足球 划线 ， 在 后 半场 的 位置 上 得分 。
+Repaired:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 脚步声 越过 了 这 条线 ， 在 后 半场 的 位置 上 得分 击打 。
+Diff:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 [-足球 划线-] {+脚步声 越过 了 这 条线+} ， 在 后 半场 的 位置 上 得分 {+击打+} 。
+Label: Decreased
+
+Consistency
+Diff:
+Kyle Brown put the Boks ahead in the first half but Dan Norton with some dazzling footwork [-broke-] {+crossed+} the line and scored under the posts in the second half .
+Original:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 [-脚步声 打破 了 这 条线-] {+足球 划线+} ， 在 后 半场 的 位置 上 得分 。
+Repaired:
+在 上半场 ， 凯尔 · 布朗 将 博 克斯 放在 前面 ， 但丹 · 诺顿 和 一些 令人 眼花缭乱 的 脚步声 [-打破-] {+越过+} 了 这 条线 ， 在 后 半场 的 位置 上 得分 {+击打+} 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+In the microblogging with real - name certification , Wang Zhi ' an also said that the reason for Lan Yuefeng to become this is his stubborn characters and paranoid personality " .
+Original:
+在 有 真名 认证 的 微观 博客 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Repaired:
+在 有 真名 认证 的 微观 博客 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Diff:
+在 有 真名 认证 的 微观 博客 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Label: Unchanged
+
+Acceptability of the Mut.
+In his microblogging with real - name certification , Wang Zhi ' an also said that the reason for Lan Yuefeng to become this is his stubborn characters and paranoid personality " .
+Original:
+在 他 用 真名 认证 写 的 微博 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Repaired:
+在 他 有 真名 认证 的 微观 博客 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Diff:
+在 他 [-用-] {+有+} 真名 认证 [-写-] 的 [-微博-] {+微观 博客+} 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Label: Unchanged
+
+Consistency
+Diff:
+In [-the-] {+his+} microblogging with real - name certification , Wang Zhi ' an also said that the reason for Lan Yuefeng to become this is his stubborn characters and paranoid personality " .
+Original:
+在 [-有-] {+他 用+} 真名 认证 {+写+} 的 [-微观 博客-] {+微博+} 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Repaired:
+在 {+他+} 有 真名 认证 的 微观 博客 中 ， 王智安 还 说 ， 兰玉生 之所以 成为 这个 人 的 原因 是 他 固执 的 性格 和 偏执狂 的 性格 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Fresh fruit was replaced with cheaper dried fruit .
+Original:
+新鲜 水果 被 更 便宜 的 干果 取代 .
+Repaired:
+新鲜 水果 被 更 便宜 的 干果 取代 .
+Diff:
+新鲜 水果 被 更 便宜 的 干果 取代 .
+Label: Unchanged
+
+Acceptability of the Mut.
+Raw fruit was replaced with cheaper dried fruit .
+Original:
+原料 水果 被 较 便宜 的 干果 取代 .
+Repaired:
+原料 水果 被 更 便宜 的 干果 取代 .
+Diff:
+原料 水果 被 [-较-] {+更+} 便宜 的 干果 取代 .
+Label: Unchanged
+
+Consistency
+Diff:
+[-Fresh-]{+Raw+} fruit was replaced with cheaper dried fruit .
+Original:
+[-新鲜-]{+原料+} 水果 被 [-更-] {+较+} 便宜 的 干果 取代 .
+Repaired:
+[-新鲜-]{+原料+} 水果 被 更 便宜 的 干果 取代 .
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+With the form Kenny demonstrated , it is not beyond the realms of possibility to imagine him repeating Hoy ' s feat of winning three Olympic golds in one Games .
+Original:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 夺得 三枚 奥运 金牌 并 不是 完全 有 可能 的 。
+Repaired:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 夺得 三枚 奥运 金牌 并 不是 完全 有 可能 的 。
+Diff:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 夺得 三枚 奥运 金牌 并 不是 完全 有 可能 的 。
+Label: Unchanged
+
+Acceptability of the Mut.
+With the form Kenny demonstrated , it is not beyond the realms of possibility to imagine him repeating Hoy ' s feat of winning four Olympic golds in one Games .
+Original:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 重获 四个 奥运 金牌 ， 这 并 不是 完全 有 可能 的 。
+Repaired:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 重获 四个 奥运 金牌 并 不是 完全 有 可能 的 。
+Diff:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 重获 四个 奥运 金牌 [-， 这-] 并 不是 完全 有 可能 的 。
+Label: Unchanged
+
+Consistency
+Diff:
+With the form Kenny demonstrated , it is not beyond the realms of possibility to imagine him repeating Hoy ' s feat of winning [-three-] {+four+} Olympic golds in one Games .
+Original:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 [-夺得 三枚-] {+重获 四个+} 奥运 金牌 {+， 这+} 并 不是 完全 有 可能 的 。
+Repaired:
+以 肯尼 的 表现出色 表现 ， 想象 他 在 一次 奥运会 上 [-夺得 三枚-] {+重获 四个+} 奥运 金牌 并 不是 完全 有 可能 的 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The latest catalog of spin rates suggests more massive stars spin more slowly than less massive stars .
+Original:
+最新 的 自旋 率 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 恒星 慢 。
+Repaired:
+最新 的 自旋 率 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 恒星 慢 。
+Diff:
+最新 的 自旋 率 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 恒星 慢 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The latest catalog of spin rates suggests more massive stars spin more slowly than less massive ones .
+Original:
+最新 的 旋转 速率 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 。
+Repaired:
+最新 的 自旋 率 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 。
+Diff:
+最新 的 [-旋转 速率-] {+自旋 率+} 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 。
+Label: Unchanged
+
+Consistency
+Diff:
+The latest catalog of spin rates suggests more massive stars spin more slowly than less massive [-stars-] {+ones+} .
+Original:
+最新 的 [-自旋 率-] {+旋转 速率+} 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 [-恒星 慢-] 。
+Repaired:
+最新 的 自旋 率 目录 显示 ， 更 多 的 大 质量 恒星 的 旋转 速度 比 不 那么 大 的 大 [-恒星 慢-] 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The latest mission by the Kepler space telescope has helped astronomers collect the most complete catalog of spin rates among the stars of the Pleiades cluster .
+Original:
+Kepler 太空 望远镜 的 最新 飞行 任务 帮助 天文学家 收集 了 最 完整 的 环球团 恒星 自旋 率 目录 。
+Repaired:
+Kepler 太空 望远镜 的 最新 飞行 任务 帮助 天文学家 收集 了 最 完整 的 环球团 恒星 自旋 率 目录 。
+Diff:
+Kepler 太空 望远镜 的 最新 飞行 任务 帮助 天文学家 收集 了 最 完整 的 环球团 恒星 自旋 率 目录 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The latest mission by the Kepler space telescope has helped astronomers find the most complete catalog of spin rates among the stars of the Pleiades cluster .
+Original:
+Kepler 太空 望远镜 的 最近 一次 飞行 任务 帮助 天文学家 发现 了 最 完整 的 环球星 中 自旋 速率 的 目录 。
+Repaired:
+Kepler 太空 望远镜 的 最新 飞行 任务 帮助 天文学家 发现 了 最 完整 的 环球团 恒星 自旋 率 目录 。
+Diff:
+Kepler 太空 望远镜 的 [-最近 一次-] {+最新+} 飞行 任务 帮助 天文学家 发现 了 最 完整 的 [-环球星 中-] {+环球团 恒星+} 自旋 [-速率 的-] {+率+} 目录 。
+Label: Unchanged
+
+Consistency
+Diff:
+The latest mission by the Kepler space telescope has helped astronomers [-collect-] {+find+} the most complete catalog of spin rates among the stars of the Pleiades cluster .
+Original:
+Kepler 太空 望远镜 的 [-最新-] {+最近 一次+} 飞行 任务 帮助 天文学家 [-收集-] {+发现+} 了 最 完整 的 [-环球团 恒星-] {+环球星 中+} 自旋 [-率-] {+速率 的+} 目录 。
+Repaired:
+Kepler 太空 望远镜 的 最新 飞行 任务 帮助 天文学家 [-收集-] {+发现+} 了 最 完整 的 环球团 恒星 自旋 率 目录 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The attending leaders worked together to award a tablet for the second " Love Yuanshan " Lei Feng private car fleet .
+Original:
+与会 的 领导人 一起 为 “ 爱 玉兰 ” 二号 私人 车队 颁发 了 一块 平板 电脑 。
+Repaired:
+与会 的 领导人 一起 为 “ 爱 玉兰 ” 二号 私人 车队 颁发 了 一块 平板 电脑 。
+Diff:
+与会 的 领导人 一起 为 “ 爱 玉兰 ” 二号 私人 车队 颁发 了 一块 平板 电脑 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The attending leaders joined together to award a tablet for the second " Love Yuanshan " Lei Feng private car fleet .
+Original:
+与会 的 领导人 一起 颁发 了 第二台 “ 爱乐山 ” 私人 汽车 车队 的 药片 。
+Repaired:
+与会 的 领导人 一起 起来 ， 为 “ 爱 玉兰 ” 二号 私人 车队 颁发 了 一块 平板 电脑 。
+Diff:
+与会 的 领导人 一起 [-颁发 了 第二台-] {+起来 ， 为+} “ [-爱乐山-] {+爱 玉兰+} ” {+二号+} 私人 [-汽车-] 车队 [-的 药片-] {+颁发 了 一块 平板 电脑+} 。
+Label: Unchanged
+
+Consistency
+Diff:
+The attending leaders [-worked-] {+joined+} together to award a tablet for the second " Love Yuanshan " Lei Feng private car fleet .
+Original:
+与会 的 领导人 一起 [-为-] {+颁发 了 第二台+} “ [-爱 玉兰-] {+爱乐山+} ” [-二号-] 私人 {+汽车+} 车队 [-颁发 了 一块 平板 电脑-] {+的 药片+} 。
+Repaired:
+与会 的 领导人 一起 {+起来 ，+} 为 “ 爱 玉兰 ” 二号 私人 车队 颁发 了 一块 平板 电脑 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Whether you ' re approached from in front or behind , this video will show you how to turn the tables on your mugger .
+Original:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 显示 你 如何 把 桌子 放在 你 的 杯子 上 。
+Repaired:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 显示 你 如何 把 桌子 放在 你 的 杯子 上 。
+Diff:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 显示 你 如何 把 桌子 放在 你 的 杯子 上 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Whether you ' re approached from in front or behind , this video will teach you how to turn the tables on your mugger .
+Original:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 教 你 如何 把 桌子 转 到 你 的 杯子 上 。
+Repaired:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 教 你 如何 把 桌子 放在 你 的 杯子 上 。
+Diff:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 教 你 如何 把 桌子 [-转 到-] {+放在+} 你 的 杯子 上 。
+Label: Unchanged
+
+Consistency
+Diff:
+Whether you ' re approached from in front or behind , this video will [-show-] {+teach+} you how to turn the tables on your mugger .
+Original:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 [-显示-] {+教+} 你 如何 把 桌子 [-放在-] {+转 到+} 你 的 杯子 上 。
+Repaired:
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 [-显示-] {+教+} 你 如何 把 桌子 放在 你 的 杯子 上 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The taxi was dispatched to the Dreyfus before the police arrived , according to the taxi company .
+Original:
+据 出租车 公司 称 ， 在 警察 到达 前 ， 出租车 被 派 到 了 Dreyfus 。
+Repaired:
+据 出租车 公司 称 ， 在 警察 到达 前 ， 出租车 被 派 到 了 Dreyfus 。
+Diff:
+据 出租车 公司 称 ， 在 警察 到达 前 ， 出租车 被 派 到 了 Dreyfus 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The taxi was dispatched to the Dreyfus when the police arrived , according to the taxi company .
+Original:
+据 出租车 公司 称 ， 当 警察 到达 的 时候 ， 出租车 被 派 到 了 Dreyfus 。
+Repaired:
+据 出租车 公司 称 ， 在 警察 到达 当 ， 出租车 被 派 到 了 Dreyfus 。
+Diff:
+据 出租车 公司 称 ， [-当-] {+在+} 警察 到达 [-的 时候-] {+当+} ， 出租车 被 派 到 了 Dreyfus 。
+Label: Decreased
+
+Consistency
+Diff:
+The taxi was dispatched to the Dreyfus [-before-] {+when+} the police arrived , according to the taxi company .
+Original:
+据 出租车 公司 称 ， [-在-] {+当+} 警察 到达 [-前-] {+的 时候+} ， 出租车 被 派 到 了 Dreyfus 。
+Repaired:
+据 出租车 公司 称 ， 在 警察 到达 [-前-] {+当+} ， 出租车 被 派 到 了 Dreyfus 。
+Label: Unchanged
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Remember to apply sunblock half an hour in advance , because sunscreen products take time to be completely absorbed into the skin .
+Original:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 才能 完全 吸收 皮肤 。
+Repaired:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 才能 完全 吸收 皮肤 。
+Diff:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 才能 完全 吸收 皮肤 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Remember to apply sunblock half an hour in advance , because sunscreen products need time to be completely absorbed into the skin .
+Original:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 被 完全 吸收 到 皮肤 中 。
+Repaired:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 才能 完全 吸收 皮肤 。
+Diff:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 [-被-] {+才能+} 完全 吸收 [-到-] 皮肤 [-中-] 。
+Label: Decreased
+
+Consistency
+Diff:
+Remember to apply sunblock half an hour in advance , because sunscreen products [-take-] {+need+} time to be completely absorbed into the skin .
+Original:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 [-才能-] {+被+} 完全 吸收 {+到+} 皮肤 {+中+} 。
+Repaired:
+记住 提前 半小时 使用 防晒霜 ， 因为 防晒 产品 需要 时间 才能 完全 吸收 皮肤 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+He also said that this time a total of 24 teams participated in " Sacrificial Offering Grabbing " , which is not only organized by communities but also held in cooperation with schools and attended by students .
+Original:
+他 还 说 ， 这 一次 共有 24 个 团队 参加 了 " 医疗 捐赠 " 活动 ， 这 不仅 是 由 社区 组织 的 ， 也 是 与 学校 合作 举办 的 ， 并 有 学生 参加 。
+Repaired:
+他 还 说 ， 这 一次 共有 24 个 团队 参加 了 " 医疗 捐赠 " 活动 ， 这 不仅 是 由 社区 组织 的 ， 而且 也 是 与 学校 合作 举办 的 ， 并 有 学生 参加 。
+Diff:
+他 还 说 ， 这 一次 共有 24 个 团队 参加 了 " 医疗 捐赠 " 活动 ， 这 不仅 是 由 社区 组织 的 ， {+而且+} 也 是 与 学校 合作 举办 的 ， 并 有 学生 参加 。
+Label: Unchanged
+
+Acceptability of the Mut.
+He also said that this time a total of 24 teams participate in " Sacrificial Offering Grabbing " , which is not only organized by communities but also held in cooperation with schools and attended by students .
+Original:
+他 还 说 ， 这次 共有 24 个 团队 参加 了 " 祭祀 募捐 " ， 这 不仅 是 由 社区 组织 的 ， 而且 还 与 学校 合作 举办 ， 并 有 学生 参加 。
+Repaired:
+他 还 说 ， 这 一次 共有 24 个 团队 参加 了 " 圣餐 " ， 这 不仅 是 由 社区 组织 的 ， 而且 也 是 与 学校 合作 举办 的 ， 并 有 学生 参加 。
+Diff:
+他 还 说 ， [-这次-] {+这 一次+} 共有 24 个 团队 参加 了 " [-祭祀 募捐-] {+圣餐+} " ， 这 不仅 是 由 社区 组织 的 ， 而且 [-还-] {+也 是+} 与 学校 合作 举办 {+的+} ， 并 有 学生 参加 。
+Label: Unchanged
+
+Consistency
+Diff:
+He also said that this time a total of 24 teams [-participated-] {+participate+} in " Sacrificial Offering Grabbing " , which is not only organized by communities but also held in cooperation with schools and attended by students .
+Original:
+他 还 说 ， [-这 一次-] {+这次+} 共有 24 个 团队 参加 了 " [-医疗 捐赠-] {+祭祀 募捐+} " [-活动-] ， 这 不仅 是 由 社区 组织 的 ， [-也 是-] {+而且 还+} 与 学校 合作 举办 [-的-] ， 并 有 学生 参加 。
+Repaired:
+他 还 说 ， 这 一次 共有 24 个 团队 参加 了 " [-医疗 捐赠-] {+圣餐+} " [-活动-] ， 这 不仅 是 由 社区 组织 的 ， 而且 也 是 与 学校 合作 举办 的 ， 并 有 学生 参加 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Representatives of junior doctors have called on their union to authorise fresh industrial action in their dispute about a new contract .
+Original:
+初级 医生 的 代表 呼吁 他们 的 工会 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Repaired:
+初级 医生 的 代表 呼吁 他们 的 工会 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Diff:
+初级 医生 的 代表 呼吁 他们 的 工会 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Thousands of junior doctors have called on their union to authorise fresh industrial action in their dispute about a new contract .
+Original:
+成千上万 的 初级 医生 呼吁 他们 的 联盟 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Repaired:
+初级 医生 成千上万 呼吁 他们 的 工会 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Diff:
+[-成千上万 的-]初级 医生 {+成千上万+} 呼吁 他们 的 [-联盟-] {+工会+} 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Label: Decreased
+
+Consistency
+Diff:
+[-Representatives-]{+Thousands+} of junior doctors have called on their union to authorise fresh industrial action in their dispute about a new contract .
+Original:
+{+成千上万 的+} 初级 医生 [-的 代表-] 呼吁 他们 的 [-工会-] {+联盟+} 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Repaired:
+初级 医生 [-的 代表-] {+成千上万+} 呼吁 他们 的 工会 在 他们 关于 新 合同 的 争论 中 授权 采取 新 的 工业 行动 。
+Label: Unchanged
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+On the other hand , for those who refuse to move and have illegal parking or obstruction , the Xi ' an traffic control department said the traffic police will take different measures to handle based on the actual situation .
+Original:
+另一方面 ， 对于 拒绝 搬迁 、 非法 停车 、 阻碍 的 ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 处理 。
+Repaired:
+另一方面 ， 对于 拒绝 搬迁 、 非法 停车 、 阻碍 的 ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 处理 。
+Diff:
+另一方面 ， 对于 拒绝 搬迁 、 非法 停车 、 阻碍 的 ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 处理 。
+Label: Unchanged
+
+Acceptability of the Mut.
+On the other hand , for those who refuse to move and have illegal parking or obstruction , the Xi ' an traffic control department said the traffic police would take different measures to handle based on the actual situation .
+Original:
+另一方面 ， 对于 拒绝 搬迁 和 非法 停车 或 阻碍 的 人 ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 来 处理 。
+Repaired:
+另一方面 ， 对于 拒绝 搬迁 、 非法 停车 、 阻碍 的 ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 处理 。
+Diff:
+另一方面 ， 对于 拒绝 搬迁 [-和-] {+、+} 非法 停车 [-或-] {+、+} 阻碍 的 [-人-] ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 [-来-] 处理 。
+Label: Unchanged
+
+Consistency
+Diff:
+On the other hand , for those who refuse to move and have illegal parking or obstruction , the Xi ' an traffic control department said the traffic police [-will-] {+would+} take different measures to handle based on the actual situation .
+Original:
+另一方面 ， 对于 拒绝 搬迁 [-、-] {+和+} 非法 停车 [-、-] {+或+} 阻碍 的 {+人+} ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 {+来+} 处理 。
+Repaired:
+另一方面 ， 对于 拒绝 搬迁 、 非法 停车 、 阻碍 的 ， 西安市 交通管理 部门 表示 ， 交通 警察 将 根据 实际 情况 采取 不同 的 措施 处理 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Twitter users did not hold back when the heard how insensitive Byron Macdonlad was being
+Original:
+当 听到 拜伦 · 麦克唐纳 的 声音 时 ， Twitter 用户 没有 停下 脚步 。
+Repaired:
+当 听到 拜伦 · 麦克唐纳 的 声音 时 ， Twitter 用户 没有 停下 脚步 。
+Diff:
+当 听到 拜伦 · 麦克唐纳 的 声音 时 ， Twitter 用户 没有 停下 脚步 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Many users did not hold back when the heard how insensitive Byron Macdonlad was being
+Original:
+许多 用户 在 听到 拜伦 · 麦克唐纳 的 声音 时 没有 停下 脚步 。
+Repaired:
+当 听到 拜伦 · 麦克唐纳 的 声音 时 ， 许多 用户 没有 停下 脚步 。
+Diff:
+[-许多 用户 在-]{+当+} 听到 拜伦 · 麦克唐纳 的 声音 时 {+， 许多 用户+} 没有 停下 脚步 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-Twitter-]{+Many+} users did not hold back when the heard how insensitive Byron Macdonlad was being
+Original:
+[-当-]{+许多 用户 在+} 听到 拜伦 · 麦克唐纳 的 声音 时 [-， Twitter 用户-] 没有 停下 脚步 。
+Repaired:
+当 听到 拜伦 · 麦克唐纳 的 声音 时 ， [-Twitter-] {+许多+} 用户 没有 停下 脚步 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+There is no fixed pattern of rural development , but it is quite difficult to just rely on spontaneous rural changes . A critical thing is to encourage the right people to go to villages .
+Original:
+没有 固定 的 农村 发展 模式 ， 但 很 难 仅仅 依靠 自发 的 农村 变革 ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Repaired:
+没有 固定 的 农村 发展 模式 ， 但 很 难 仅仅 依靠 自发 的 农村 变革 ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Diff:
+没有 固定 的 农村 发展 模式 ， 但 很 难 仅仅 依靠 自发 的 农村 变革 ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Label: Unchanged
+
+Acceptability of the Mut.
+There is no fixed pattern of rural development , but it is extremely difficult to just rely on spontaneous rural changes . A critical thing is to encourage the right people to go to villages .
+Original:
+没有 固定 的 农村 发展 模式 ， 但 要 依靠 自发 的 农村 变革 是 非常 困难 的 ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Repaired:
+没有 固定 的 农村 发展 模式 ， 但 非常 难 仅仅 依靠 自发 的 农村 变革 ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Diff:
+没有 固定 的 农村 发展 模式 ， 但 [-要-] {+非常 难 仅仅+} 依靠 自发 的 农村 变革 [-是 非常 困难 的-] ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Label: Decreased
+
+Consistency
+Diff:
+There is no fixed pattern of rural development , but it is [-quite-] {+extremely+} difficult to just rely on spontaneous rural changes . A critical thing is to encourage the right people to go to villages .
+Original:
+没有 固定 的 农村 发展 模式 ， 但 [-很 难 仅仅-] {+要+} 依靠 自发 的 农村 变革 {+是 非常 困难 的+} ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Repaired:
+没有 固定 的 农村 发展 模式 ， 但 [-很-] {+非常+} 难 仅仅 依靠 自发 的 农村 变革 ， 关键 的 是 要 鼓励 合适 的 人 去 乡村 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The 45 - year - old Italian is the sixth jockey to reach the landmark in Flat racing .
+Original:
+这位 45 岁 的 意大利人 是 第六 骑师 , 以 达到 平盘 比赛 的 标志性 .
+Repaired:
+这位 45 岁 的 意大利人 是 第六 骑师 , 以 达到 平盘 比赛 的 标志性 .
+Diff:
+这位 45 岁 的 意大利人 是 第六 骑师 , 以 达到 平盘 比赛 的 标志性 .
+Label: Unchanged
+
+Acceptability of the Mut.
+The 45 - year - old Italian was the sixth jockey to reach the landmark in Flat racing .
+Original:
+这位 45 岁 的 意大利人 是 第六 骑师 ， 以 达到 Flat 赛车 的 标志性 。
+Repaired:
+这位 45 岁 的 意大利人 是 第六 骑师 , 以 达到 平盘 比赛 的 标志性 .
+Diff:
+这位 45 岁 的 意大利人 是 第六 骑师 [-，-] {+,+} 以 达到 [-Flat 赛车-] {+平盘 比赛+} 的 标志性 [-。-] {+.+}
+Label: Improved
+
+Consistency
+Diff:
+The 45 - year - old Italian [-is-] {+was+} the sixth jockey to reach the landmark in Flat racing .
+Original:
+这位 45 岁 的 意大利人 是 第六 骑师 [-,-] {+，+} 以 达到 [-平盘 比赛-] {+Flat 赛车+} 的 标志性 [-.-] {+。+}
+Repaired:
+这位 45 岁 的 意大利人 是 第六 骑师 , 以 达到 平盘 比赛 的 标志性 .
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Our nation has a proud heritage as the mother of parliaments , yet the worrying and covert spread of electoral fraud and state of denial by some bodies threatens that good reputation .
+Original:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 拒绝 选举 的 状况 威胁 到 这种 良好 的 声誉 。
+Repaired:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 拒绝 选举 的 状况 威胁 到 这种 良好 的 声誉 。
+Diff:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 拒绝 选举 的 状况 威胁 到 这种 良好 的 声誉 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Our nation has a proud heritage as the mother of parliaments , yet the worrying and covert spread of electoral fraud and state of denial by some bodies destroys that good reputation .
+Original:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 否认 的 状况 破坏 了 这种 良好 的 声誉 。
+Repaired:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 拒绝 选举 的 状况 破坏 了 这种 良好 的 声誉 。
+Diff:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 [-否认-] {+拒绝 选举+} 的 状况 破坏 了 这种 良好 的 声誉 。
+Label: Improved
+
+Consistency
+Diff:
+Our nation has a proud heritage as the mother of parliaments , yet the worrying and covert spread of electoral fraud and state of denial by some bodies [-threatens-] {+destroys+} that good reputation .
+Original:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 [-拒绝 选举-] {+否认+} 的 状况 [-威胁 到-] {+破坏 了+} 这种 良好 的 声誉 。
+Repaired:
+我国 作为 议会 的 母亲 拥有 自豪 的 遗产 ， 但 选举 舞弊 的 令人担忧 和 隐蔽 的 蔓延 以及 一些 机构 拒绝 选举 的 状况 [-威胁 到-] {+破坏 了+} 这种 良好 的 声誉 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The Nicaraguan government agencies are working together to work with the HKND Group to promote environmental management plans and carry out tree planting activities , said by Rivas Mayor Vilfredo Lopez at the teacher training scene .
+Original:
+尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， 并 开展 植树 活动 ， 里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 。
+Repaired:
+里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 ， 尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， 开展 植树 活动 。
+Diff:
+{+里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 ，+} 尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， [-并-] 开展 植树 活动 [-， 里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说-] 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The Nicaraguan government agencies are working together to work with the HKND Group to promote environmental management plans and carry out tree planting activities , said by Rivas Mayor Vilfredo Lopez in the teacher training scene .
+Original:
+里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 ， 尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， 开展 植树 活动 。
+Repaired:
+里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 ， 尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， 开展 植树 活动 。
+Diff:
+里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 ， 尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， 开展 植树 活动 。
+Label: Unchanged
+
+Consistency
+Diff:
+The Nicaraguan government agencies are working together to work with the HKND Group to promote environmental management plans and carry out tree planting activities , said by Rivas Mayor Vilfredo Lopez [-at-] {+in+} the teacher training scene .
+Original:
+{+里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 ，+} 尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， [-并-] 开展 植树 活动 [-， 里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说-] 。
+Repaired:
+里瓦斯 市长 Vilfredo Lopez 在 教师 培训 现场 说 ， 尼加拉瓜 政府 机构 正 与 香港 发展 集团 合作 ， 推动 环境 管理 计划 ， 开展 植树 活动 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+" We learned about a series of causes that may trigger the discoloration of water and result in the alkalinity of water quality . "
+Original:
+“ 我们 了解 到 了 可能 引发 水 变色 并 导致 水质 碱化 的 一系列 原因 。 ”
+Repaired:
+“ 我们 了解 到 了 可能 引发 水 变色 并 导致 水质 碱化 的 一系列 原因 。 ”
+Diff:
+“ 我们 了解 到 了 可能 引发 水 变色 并 导致 水质 碱化 的 一系列 原因 。 ”
+Label: Unchanged
+
+Acceptability of the Mut.
+" We learned about a series of causes that may trigger the discoloration of water or result in the alkalinity of water quality . "
+Original:
+“ 我们 了解 了 可能 引发 水 变色 或 导致 水质 碱化 的 一系列 原因 。 ”
+Repaired:
+“ 我们 了解 到 了 可能 引发 水 变色 或 导致 水质 碱化 的 一系列 原因 。 ”
+Diff:
+“ 我们 了解 {+到+} 了 可能 引发 水 变色 或 导致 水质 碱化 的 一系列 原因 。 ”
+Label: Unchanged
+
+Consistency
+Diff:
+" We learned about a series of causes that may trigger the discoloration of water [-and-] {+or+} result in the alkalinity of water quality . "
+Original:
+“ 我们 了解 [-到-] 了 可能 引发 水 变色 [-并-] {+或+} 导致 水质 碱化 的 一系列 原因 。 ”
+Repaired:
+“ 我们 了解 到 了 可能 引发 水 变色 [-并-] {+或+} 导致 水质 碱化 的 一系列 原因 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The quality of China ' s oil products is gradually close to those of their Japanese counterparts because the Chinese government has strengthened environmental protection regulations .
+Original:
+由于 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 逐渐 接近 日本 石油 产品 的 质量 。
+Repaired:
+由于 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 逐渐 接近 日本 石油 产品 的 质量 。
+Diff:
+由于 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 逐渐 接近 日本 石油 产品 的 质量 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The quality of China ' s oil products is gradually close to those of their Japanese counterparts as the Chinese government has strengthened environmental protection regulations .
+Original:
+随着 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 逐步 接近 日本 石油 产品 的 质量 。
+Repaired:
+随着 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 逐渐 接近 日本 石油 产品 的 质量 。
+Diff:
+随着 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 [-逐步-] {+逐渐+} 接近 日本 石油 产品 的 质量 。
+Label: Unchanged
+
+Consistency
+Diff:
+The quality of China ' s oil products is gradually close to those of their Japanese counterparts [-because-] {+as+} the Chinese government has strengthened environmental protection regulations .
+Original:
+[-由于-]{+随着+} 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 [-逐渐-] {+逐步+} 接近 日本 石油 产品 的 质量 。
+Repaired:
+[-由于-]{+随着+} 中国政府 加强 了 环境保护 法规 ， 中国 石油 产品 的 质量 逐渐 接近 日本 石油 产品 的 质量 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+He ' s a lively character which is good for British racing but more than that , he ' s an incredible jockey .
+Original:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 比赛 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 难以置信 的 骑师 。
+Repaired:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 比赛 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 难以置信 的 骑师 。
+Diff:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 比赛 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 难以置信 的 骑师 。
+Label: Unchanged
+
+Acceptability of the Mut.
+He ' s a lively character which is good for British racing but more than that , he ' s an amazing jockey .
+Original:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 赛车 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 惊人 的 骑师 。
+Repaired:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 比赛 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 惊人 的 骑师 。
+Diff:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 [-赛车-] {+比赛+} 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 惊人 的 骑师 。
+Label: Improved
+
+Consistency
+Diff:
+He ' s a lively character which is good for British racing but more than that , he ' s an [-incredible-] {+amazing+} jockey .
+Original:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 [-比赛-] {+赛车+} 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 [-难以置信-] {+惊人+} 的 骑师 。
+Repaired:
+他 是 一个 生机勃勃 的 人物 ， 对 英国 的 比赛 有 好处 ， 但 更 重要 的 是 ， 他 是 一个 [-难以置信-] {+惊人+} 的 骑师 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+After the occurrence of this case and a number of media reports , this has become the focus of the case , with extremely bad social impact .
+Original:
+在 发生 这一 案件 和 一些 媒体 报告 之后 ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Repaired:
+在 发生 这一 案件 和 一些 媒体 报告 之后 ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Diff:
+在 发生 这一 案件 和 一些 媒体 报告 之后 ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Since the occurrence of this case and a number of media reports , this has become the focus of the case , with extremely bad social impact .
+Original:
+自 本案 和 一些 媒体 报告 发生 以来 ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Repaired:
+在 发生 这一 案件 和 一些 媒体 报告 自 ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Diff:
+[-自 本案-]{+在 发生 这一 案件+} 和 一些 媒体 报告 [-发生 以来-] {+自+} ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Label: Decreased
+
+Consistency
+Diff:
+[-After-]{+Since+} the occurrence of this case and a number of media reports , this has become the focus of the case , with extremely bad social impact .
+Original:
+[-在 发生 这一 案件-]{+自 本案+} 和 一些 媒体 报告 [-之后-] {+发生 以来+} ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Repaired:
+在 发生 这一 案件 和 一些 媒体 报告 [-之后-] {+自+} ， 这 已 成为 案件 的 重点 ， 对 社会 产生 了 极其 不利 的 影响 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Mr . Hooker also played a key part in the insurrection over the Islamic State intelligence .
+Original:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 发挥 了 关键作用 。
+Repaired:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 发挥 了 关键作用 。
+Diff:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 发挥 了 关键作用 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Mr . Hooker also played a large part in the insurrection over the Islamic State intelligence .
+Original:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 扮演 了 很大 的 角色 。
+Repaired:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 发挥 了 重要 角色 。
+Diff:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 [-扮演-] {+发挥+} 了 [-很大 的-] {+重要+} 角色 。
+Label: Improved
+
+Consistency
+Diff:
+Mr . Hooker also played a [-key-] {+large+} part in the insurrection over the Islamic State intelligence .
+Original:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 [-发挥-] {+扮演+} 了 [-关键作用-] {+很大 的 角色+} 。
+Repaired:
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 发挥 了 [-关键作用-] {+重要 角色+} 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The couple had three sons who lived at the property intermittently and police say the reign of terror the family inflicted included fighting in the street with baseball bats , intimidating nearby residents , drug use , drug dealing and excessive shouting , arguing and swearing .
+Original:
+这 对 夫妇 有 三个 儿子 在 财产 上 断断续续 地 生活 ， 警察 说 ， 这个 家族 所 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Repaired:
+这 对 夫妇 有 三个 儿子 在 财产 上 断断续续 地 生活 ， 警察 说 ， 这个 家族 所 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Diff:
+这 对 夫妇 有 三个 儿子 在 财产 上 断断续续 地 生活 ， 警察 说 ， 这个 家族 所 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The couple had three sons who resided at the property intermittently and police say the reign of terror the family inflicted included fighting in the street with baseball bats , intimidating nearby residents , drug use , drug dealing and excessive shouting , arguing and swearing .
+Original:
+这 对 夫妇 有 三个 儿子 断断续续 地 居住 在 财产 上 ， 警察 说 ， 家人 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Repaired:
+这 对 夫妇 有 三个 儿子 在 财产 上 断断续续 地 居住 ， 警察 说 ， 这个 家族 所 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Diff:
+这 对 夫妇 有 三个 儿子 [-断断续续 地 居住-] 在 财产 上 {+断断续续 地 居住+} ， 警察 说 ， [-家人-] {+这个 家族 所+} 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Label: Improved
+
+Consistency
+Diff:
+The couple had three sons who [-lived-] {+resided+} at the property intermittently and police say the reign of terror the family inflicted included fighting in the street with baseball bats , intimidating nearby residents , drug use , drug dealing and excessive shouting , arguing and swearing .
+Original:
+这 对 夫妇 有 三个 儿子 {+断断续续 地 居住+} 在 财产 上 [-断断续续 地 生活-] ， 警察 说 ， [-这个 家族 所-] {+家人+} 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Repaired:
+这 对 夫妇 有 三个 儿子 在 财产 上 断断续续 地 [-生活-] {+居住+} ， 警察 说 ， 这个 家族 所 施加 的 恐怖 统治 包括 与 棒球 棍 在 街上 作战 、 恐吓 附近 的 居民 、 吸毒 、 毒品 交易 和 过度 叫喊 、 争吵 和 宣誓 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+A family of yobs left their council house with £ 50 , 000 worth of damage after they were evicted for terrorising their neighbours .
+Original:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， 一群 侏儒 离开 了 他们 的 议会 ， 遭受 了 5 万 英镑 的 损失 。
+Repaired:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， 一群 侏儒 离开 了 他们 的 议会 ， 遭受 了 5 万 英镑 的 损失 。
+Diff:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， 一群 侏儒 离开 了 他们 的 议会 ， 遭受 了 5 万 英镑 的 损失 。
+Label: Unchanged
+
+Acceptability of the Mut.
+A couple of yobs left their council house with £ 50 , 000 worth of damage after they were evicted for terrorising their neighbours .
+Original:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， 一对 瑜伽 队员 离开 了 他们 的 议会 ， 造成 5 万 英镑 的 损失 。
+Repaired:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， 一对 侏儒 离开 了 他们 的 议会 ， 遭受 了 5 万 英镑 的 损失 。
+Diff:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， 一对 [-瑜伽 队员-] {+侏儒+} 离开 了 他们 的 议会 ， [-造成-] {+遭受 了+} 5 万 英镑 的 损失 。
+Label: Unchanged
+
+Consistency
+Diff:
+A [-family-] {+couple+} of yobs left their council house with £ 50 , 000 worth of damage after they were evicted for terrorising their neighbours .
+Original:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， [-一群 侏儒-] {+一对 瑜伽 队员+} 离开 了 他们 的 议会 ， [-遭受 了-] {+造成+} 5 万 英镑 的 损失 。
+Repaired:
+在 他们 因 恐吓 邻居 而 被 驱逐 后 ， [-一群-] {+一对+} 侏儒 离开 了 他们 的 议会 ， 遭受 了 5 万 英镑 的 损失 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Especially savory are the accounts of the government ' s response to its hungry citizenry , like President Herbert Hoover ' s let - me - eat - cake attitude .
+Original:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Repaired:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Diff:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Especially savory are the accounts of the government ' s response to its hungry citizenry , like President Herbert Hoover ' s make - me - eat - cake attitude .
+Original:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 “ 吃 蛋糕 ” 态度 。
+Repaired:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 态度 。
+Diff:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 [-“-] 吃 蛋糕 [-”-] 态度 。
+Label: Unchanged
+
+Consistency
+Diff:
+Especially savory are the accounts of the government ' s response to its hungry citizenry , like President Herbert Hoover ' s [-let-] {+make+} - me - eat - cake attitude .
+Original:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 {+“+} 吃 蛋糕 [-的-] {+”+} 态度 。
+Repaired:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 [-的-] 态度 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Why we need Simone , Gabby and Laurie
+Original:
+为什么 我们 需要 西蒙 、 加 比 和 劳里
+Repaired:
+为什么 我们 需要 西蒙 、 加比 和 劳里
+Diff:
+为什么 我们 需要 西蒙 、 [-加 比-] {+加比+} 和 劳里
+Label: Unchanged
+
+Acceptability of the Mut.
+And we need Simone , Gabby and Laurie
+Original:
+我们 需要 西蒙 、 加比 和 劳里
+Repaired:
+我们 需要 西蒙 、 加比 和 劳里
+Diff:
+我们 需要 西蒙 、 加比 和 劳里
+Label: Unchanged
+
+Consistency
+Diff:
+[-Why-]{+And+} we need Simone , Gabby and Laurie
+Original:
+[-为什么-]我们 需要 西蒙 、 [-加 比-] {+加比+} 和 劳里
+Repaired:
+[-为什么-]我们 需要 西蒙 、 加比 和 劳里
+Label: Unchanged
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+A dirty mattress left on the floor of one of the bedrooms in the house after the eviction
+Original:
+搬迁 后 ， 一个 肮脏 的 床垫 留在 屋内 的 一个 卧室 的 地板 上
+Repaired:
+一个 肮脏 的 床垫 ， 在 被 驱逐 后 留在 屋内 的 一个 卧室 的 地板 上
+Diff:
+[-搬迁 后 ，-]一个 肮脏 的 床垫 {+， 在 被 驱逐 后+} 留在 屋内 的 一个 卧室 的 地板 上
+Label: Unchanged
+
+Acceptability of the Mut.
+A dirty mattress left on the floor of one of the bedrooms in the house before the eviction
+Original:
+一个 肮脏 的 床垫 在 被 驱逐 前 留在 屋内 的 一个 卧室 的 地板 上
+Repaired:
+一个 肮脏 的 床垫 ， 在 被 驱逐 前 留在 屋内 的 一个 卧室 的 地板 上
+Diff:
+一个 肮脏 的 床垫 {+，+} 在 被 驱逐 前 留在 屋内 的 一个 卧室 的 地板 上
+Label: Unchanged
+
+Consistency
+Diff:
+A dirty mattress left on the floor of one of the bedrooms in the house [-after-] {+before+} the eviction
+Original:
+[-搬迁 后 ，-]一个 肮脏 的 床垫 {+在 被 驱逐 前+} 留在 屋内 的 一个 卧室 的 地板 上
+Repaired:
+一个 肮脏 的 床垫 ， 在 被 驱逐 [-后-] {+前+} 留在 屋内 的 一个 卧室 的 地板 上
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+But when he was defeated by his counterpart Hu Jia at the 10 - meter single match in the 2004 Olympic Games , Tian Liang ' s competitive state slipped and it was said he was dismissed by the diving team .
+Original:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 他 的 对手 胡佳 打败 时 ， 天亮 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Repaired:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 他 的 对手 胡佳 打败 时 ， 天亮 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Diff:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 他 的 对手 胡佳 打败 时 ， 天亮 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Label: Unchanged
+
+Acceptability of the Mut.
+But when he was defeated by his counterpart Hu Jia at the 10 - meter single match during the 2004 Olympic Games , Tian Liang ' s competitive state slipped and it was said he was dismissed by the diving team .
+Original:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 对手 胡锦涛 打败 时 ， 田亮 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Repaired:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 他 的 对手 胡佳 打败 时 ， 天亮 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Diff:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 {+他 的+} 对手 [-胡锦涛-] {+胡佳+} 打败 时 ， [-田亮-] {+天亮+} 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Label: Improved
+
+Consistency
+Diff:
+But when he was defeated by his counterpart Hu Jia at the 10 - meter single match [-in-] {+during+} the 2004 Olympic Games , Tian Liang ' s competitive state slipped and it was said he was dismissed by the diving team .
+Original:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 [-他 的-] 对手 [-胡佳-] {+胡锦涛+} 打败 时 ， [-天亮-] {+田亮+} 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Repaired:
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 他 的 对手 胡佳 打败 时 ， 天亮 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The hotel ' s clerk said that the measure was " a deliberate decision by the management of Kempinski - Hotels . "
+Original:
+酒店 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 决定 的 ” 。
+Repaired:
+酒店 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 决定 的 ” 。
+Diff:
+酒店 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 决定 的 ” 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The building ' s clerk said that the measure was " a deliberate decision by the management of Kempinski - Hotels . "
+Original:
+该 大楼 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 作出 的 决定 ” 。
+Repaired:
+该 大楼 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 决定 的 ” 。
+Diff:
+该 大楼 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 [-作出 的-] 决定 {+的+} ” 。
+Label: Unchanged
+
+Consistency
+Diff:
+The [-hotel-] {+building+} ' s clerk said that the measure was " a deliberate decision by the management of Kempinski - Hotels . "
+Original:
+[-酒店-]{+该 大楼+} 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 [-决定-] {+作出+} 的 {+决定+} ” 。
+Repaired:
+[-酒店-]{+该 大楼+} 的 职员 说 ， 这项 措施 是 “ 由 Kempinski - Hotels 的 管理 部门 决定 的 ” 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Jiangxi stipulates that for applicants who meet the conditions of application and have complete application documents , the public security department shall issue a residence permit within 5 working days from the date of acceptance .
+Original:
+江西 规定 ， 申请人 符合 申请 条件 并 具有 完整 申请 文件 的 ， 公安机关 应当 自 接受 之日起 5 个 工作日内 颁发 居留证 。
+Repaired:
+江西 规定 ， 申请人 符合 申请 条件 并 具有 完整 申请 文件 的 ， 公安机关 应当 自 接受 之日起 5 个 工作日内 颁发 居留证 。
+Diff:
+江西 规定 ， 申请人 符合 申请 条件 并 具有 完整 申请 文件 的 ， 公安机关 应当 自 接受 之日起 5 个 工作日内 颁发 居留证 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Jiangxi stipulates that for applicants who meet the conditions of application and have complete application documents , the public security department will issue a residence permit within 5 working days from the date of acceptance .
+Original:
+江西 规定 ， 对于 符合 申请 条件 并 具有 完整 申请 文件 的 申请人 ， 公安机关 将 在 受理 之日起 5 个 工作日内 签发 居留证 。
+Repaired:
+江西 规定 ， 申请人 符合 申请 条件 并 具有 完整 申请 文件 的 ， 公安机关 将 自 接受 之日起 5 个 工作日内 颁发 居留证 。
+Diff:
+江西 规定 ， [-对于-] {+申请人+} 符合 申请 条件 并 具有 完整 申请 文件 的 [-申请人-] ， 公安机关 将 [-在 受理-] {+自 接受+} 之日起 5 个 工作日内 [-签发-] {+颁发+} 居留证 。
+Label: Unchanged
+
+Consistency
+Diff:
+Jiangxi stipulates that for applicants who meet the conditions of application and have complete application documents , the public security department [-shall-] {+will+} issue a residence permit within 5 working days from the date of acceptance .
+Original:
+江西 规定 ， [-申请人-] {+对于+} 符合 申请 条件 并 具有 完整 申请 文件 的 {+申请人+} ， 公安机关 [-应当 自 接受-] {+将 在 受理+} 之日起 5 个 工作日内 [-颁发-] {+签发+} 居留证 。
+Repaired:
+江西 规定 ， 申请人 符合 申请 条件 并 具有 完整 申请 文件 的 ， 公安机关 [-应当-] {+将+} 自 接受 之日起 5 个 工作日内 颁发 居留证 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+On August 11 , the first Jinzhou Wetland Tourism Festival kicked off at Jinzhou Qriental Huadicheng " Hequan Lake " .
+Original:
+今年 8 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 （ Hequan Lake ） 上演 。
+Repaired:
+今年 4 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 “ 海泉 湖 ” 踢球 。
+Diff:
+今年 [-8-] {+4+} 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 [-（ Hequan Lake ） 上演-] {+“ 海泉 湖 ” 踢球+} 。
+Label: Unchanged
+
+Acceptability of the Mut.
+On September 11 , the first Jinzhou Wetland Tourism Festival kicked off at Jinzhou Qriental Huadicheng " Hequan Lake " .
+Original:
+9 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 “ 海泉 湖 ” 踢球 。
+Repaired:
+9 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 “ 海泉 湖 ” 踢球 。
+Diff:
+9 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 “ 海泉 湖 ” 踢球 。
+Label: Unchanged
+
+Consistency
+Diff:
+On [-August-] {+September+} 11 , the first Jinzhou Wetland Tourism Festival kicked off at Jinzhou Qriental Huadicheng " Hequan Lake " .
+Original:
+[-今年 8-]{+9+} 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 [-（ Hequan Lake ） 上演-] {+“ 海泉 湖 ” 踢球+} 。
+Repaired:
+[-今年 4-]{+9+} 月 11 日 ， 第一节 金州 湿地 旅游节 在 金州 珠江湖 “ 海泉 湖 ” 踢球 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Seeing that " the little boy has disappeared , and the little girl was desperately fluttered in the water just with her little head above the water and was sinking " , Huang Yilin , who learned how to swim in her childhood hurriedly jumped down to rescue them .
+Original:
+看到 这个 “ 小男孩 已经 消失 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 水面 上 沉没 了 。 ” 黄英 林学 着 如何 在 她 的 童年 急急忙忙 地 跳 下 去 救 他们 。
+Repaired:
+看到 这个 “ 小男孩 已经 消失 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 水面 上 沉没 了 。 ” 黄英 林学 着 如何 在 她 的 童年 急急忙忙 地 跳 下 去 救 他们 。
+Diff:
+看到 这个 “ 小男孩 已经 消失 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 水面 上 沉没 了 。 ” 黄英 林学 着 如何 在 她 的 童年 急急忙忙 地 跳 下 去 救 他们 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Hearing that " the little boy has disappeared , and the little girl was desperately fluttered in the water just with her little head above the water and was sinking " , Huang Yilin , who learned how to swim in her childhood hurriedly jumped down to rescue them .
+Original:
+听到 “ 这个 小男孩 已经 失踪 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 水中 沉没 了 ， ” 黄义林 （ Huang Yilin ） 学 着 如何 在 她 的 童年 中 游泳 ， 他 匆匆 跳 下 去 救 他们 。
+Repaired:
+听到 这个 “ 小男孩 已经 消失 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 水面 上 沉没 了 。 ” 黄英 林学 着 如何 在 她 的 童年 急急忙忙 地 跳 下 去 救 他们 。
+Diff:
+听到 [-“-] 这个 {+“+} 小男孩 已经 [-失踪-] {+消失+} 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 [-水中-] {+水面 上+} 沉没 了 [-，-] {+。+} ” [-黄义林 （ Huang Yilin ） 学-] {+黄英 林学+} 着 如何 在 她 的 童年 [-中 游泳 ， 他 匆匆-] {+急急忙忙 地+} 跳 下 去 救 他们 。
+Label: Decreased
+
+Consistency
+Diff:
+[-Seeing-]{+Hearing+} that " the little boy has disappeared , and the little girl was desperately fluttered in the water just with her little head above the water and was sinking " , Huang Yilin , who learned how to swim in her childhood hurriedly jumped down to rescue them .
+Original:
+[-看到 这个-]{+听到+} “ {+这个+} 小男孩 已经 [-消失-] {+失踪+} 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 [-水面 上-] {+水中+} 沉没 了 [-。-] {+，+} ” [-黄英 林学-] {+黄义林 （ Huang Yilin ） 学+} 着 如何 在 她 的 童年 [-急急忙忙 地-] {+中 游泳 ， 他 匆匆+} 跳 下 去 救 他们 。
+Repaired:
+[-看到-]{+听到+} 这个 “ 小男孩 已经 消失 了 ， 这个 小女孩 在 水中 绝望 地 奔波 着 ， 她 的 小头 在 水面 上 沉没 了 。 ” 黄英 林学 着 如何 在 她 的 童年 急急忙忙 地 跳 下 去 救 他们 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+It just reiterates how much this means to me , how much me and Helen have worked and Robin as well .
+Original:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 也 有 多少 工作 和 罗宾 。
+Repaired:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 的 工作 和 罗宾 也 有 多少 。
+Diff:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 [-也 有 多少-] {+的+} 工作 和 罗宾 {+也 有 多少+} 。
+Label: Improved
+
+Acceptability of the Mut.
+It only reiterates how much this means to me , how much me and Helen have worked and Robin as well .
+Original:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 的 工作 和 罗宾 也 有 多少 。
+Repaired:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 的 工作 和 罗宾 也 有 多少 。
+Diff:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 的 工作 和 罗宾 也 有 多少 。
+Label: Unchanged
+
+Consistency
+Diff:
+It [-just-] {+only+} reiterates how much this means to me , how much me and Helen have worked and Robin as well .
+Original:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 [-也 有 多少-] {+的+} 工作 和 罗宾 {+也 有 多少+} 。
+Repaired:
+它 只是 重申 这 对 我 意味着 多少 ， 我 和 海伦 的 工作 和 罗宾 也 有 多少 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Give police powers to set up cordons around polling stations .
+Original:
+赋予 警察 权力 ， 在 投票站 周围 设置 警戒线 。
+Repaired:
+赋予 警察 权力 ， 在 投票站 周围 设置 警戒线 。
+Diff:
+赋予 警察 权力 ， 在 投票站 周围 设置 警戒线 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Extended police powers to set up cordons around polling stations .
+Original:
+扩大 警察 权力 ， 在 投票站 周围 设立 警戒线 。
+Repaired:
+扩大 警察 权力 ， 在 投票站 周围 设置 警戒线 。
+Diff:
+扩大 警察 权力 ， 在 投票站 周围 [-设立-] {+设置+} 警戒线 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-Give-]{+Extended+} police powers to set up cordons around polling stations .
+Original:
+[-赋予-]{+扩大+} 警察 权力 ， 在 投票站 周围 [-设置-] {+设立+} 警戒线 。
+Repaired:
+[-赋予-]{+扩大+} 警察 权力 ， 在 投票站 周围 设置 警戒线 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The body found at the Westfield Mall Wednesday morning was identified as 28 - year - old San Francisco resident Frank Galicia , the San Francisco Medical Examiner ' s Office said .
+Original:
+旧金山 医学 检查官 办公室 说 ， 星期三 上午 发现 的 尸体 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Repaired:
+旧金山 医学 检查官 办公室 说 ， 星期三 上午 发现 的 尸体 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Diff:
+旧金山 医学 检查官 办公室 说 ， 星期三 上午 发现 的 尸体 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The man found at the Westfield Mall Wednesday morning was identified as 28 - year - old San Francisco resident Frank Galicia , the San Francisco Medical Examiner ' s Office said .
+Original:
+旧金山 医学 检查官 办公室 说 ， 星期三 早上 在 西田 购物中心 发现 的 那个 人 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Repaired:
+旧金山 医学 检查官 办公室 说 ， 星期三 上午 发现 的 人 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Diff:
+旧金山 医学 检查官 办公室 说 ， 星期三 [-早上 在 西田 购物中心-] {+上午+} 发现 的 [-那个-] 人 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Label: Decreased
+
+Consistency
+Diff:
+The [-body-] {+man+} found at the Westfield Mall Wednesday morning was identified as 28 - year - old San Francisco resident Frank Galicia , the San Francisco Medical Examiner ' s Office said .
+Original:
+旧金山 医学 检查官 办公室 说 ， 星期三 [-上午-] {+早上 在 西田 购物中心+} 发现 的 [-尸体-] {+那个 人+} 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Repaired:
+旧金山 医学 检查官 办公室 说 ， 星期三 上午 发现 的 [-尸体-] {+人+} 被 认定 为 28 岁 的 旧金山 居民 弗兰克 · 加利西亚 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+With two different accounts for the two kinds of organizations , this can prevent the village cadres from participating in collective asset management corruption .
+Original:
+这 两种 组织 有 两种 不同 的 账户 ， 可以 防止 村干部 参与 集体 资产 管理 腐败 。
+Repaired:
+这 两种 组织 有 两种 不同 的 账户 ， 可以 防止 村干部 参与 集体 资产 管理 腐败 。
+Diff:
+这 两种 组织 有 两种 不同 的 账户 ， 可以 防止 村干部 参与 集体 资产 管理 腐败 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Given two different accounts for the two kinds of organizations , this can prevent the village cadres from participating in collective asset management corruption .
+Original:
+鉴于 这 两种 组织 有 两种 不同 的 账户 ， 这 可以 防止 乡村 干部 参与 集体 资产 管理 腐败 。
+Repaired:
+这 两种 组织 鉴于 两种 不同 的 账户 ， 可以 防止 村干部 参与 集体 资产 管理 腐败 。
+Diff:
+[-鉴于-]这 两种 组织 [-有-] {+鉴于+} 两种 不同 的 账户 ， [-这-] 可以 防止 [-乡村 干部-] {+村干部+} 参与 集体 资产 管理 腐败 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-With-]{+Given+} two different accounts for the two kinds of organizations , this can prevent the village cadres from participating in collective asset management corruption .
+Original:
+{+鉴于+} 这 两种 组织 有 两种 不同 的 账户 ， {+这+} 可以 防止 [-村干部-] {+乡村 干部+} 参与 集体 资产 管理 腐败 。
+Repaired:
+这 两种 组织 [-有-] {+鉴于+} 两种 不同 的 账户 ， 可以 防止 村干部 参与 集体 资产 管理 腐败 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The federal government will cut funding by 30 per cent from June 2017 , which means thousands more vulnerable Queenslanders will be forced to navigate complex legal problems without help .
+Original:
+从 2017 年 6 月 起 ， 联邦政府 将 削减 30% 的 资金 ， 这 意味着 数以千计 更 脆弱 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Repaired:
+从 2017 年 6 月 起 ， 联邦政府 将 削减 30% 的 资金 ， 这 意味着 数以千计 的 更 弱势 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Diff:
+从 2017 年 6 月 起 ， 联邦政府 将 削减 30% 的 资金 ， 这 意味着 数以千计 {+的+} 更 [-脆弱-] {+弱势+} 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Label: Improved
+
+Acceptability of the Mut.
+The state government will cut funding by 30 per cent from June 2017 , which means thousands more vulnerable Queenslanders will be forced to navigate complex legal problems without help .
+Original:
+从 2017 年 6 月 起 ， 州政府 将 削减 30% 的 资金 ， 这 意味着 数以千计 的 更 弱势 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Repaired:
+从 2017 年 6 月 起 ， 州政府 将 削减 30% 的 资金 ， 这 意味着 数以千计 的 更 弱势 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Diff:
+从 2017 年 6 月 起 ， 州政府 将 削减 30% 的 资金 ， 这 意味着 数以千计 的 更 弱势 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Label: Unchanged
+
+Consistency
+Diff:
+The [-federal-] {+state+} government will cut funding by 30 per cent from June 2017 , which means thousands more vulnerable Queenslanders will be forced to navigate complex legal problems without help .
+Original:
+从 2017 年 6 月 起 ， [-联邦政府-] {+州政府+} 将 削减 30% 的 资金 ， 这 意味着 数以千计 {+的+} 更 [-脆弱-] {+弱势+} 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Repaired:
+从 2017 年 6 月 起 ， [-联邦政府-] {+州政府+} 将 削减 30% 的 资金 ， 这 意味着 数以千计 的 更 弱势 的 Queenslands 人 将 不得不 在 没有 帮助 的 情况 下 处理 复杂 的 法律 问题 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+For old people , Han Zhiyuan suggested that they would better not stay up late to watch games , particularly those with cardiovascular diseases .
+Original:
+对于 老人 来说 ， 韩智源 建议 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Repaired:
+对于 老人 来说 ， 韩智源 建议 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Diff:
+对于 老人 来说 ， 韩智源 建议 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Label: Unchanged
+
+Acceptability of the Mut.
+For older people , Han Zhiyuan suggested that they would better not stay up late to watch games , particularly those with cardiovascular diseases .
+Original:
+对于 老年人 来说 ， 韩智源 建议 ， 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Repaired:
+对于 老年人 来说 ， 韩智源 建议 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Diff:
+对于 老年人 来说 ， 韩智源 建议 [-，-] 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Label: Unchanged
+
+Consistency
+Diff:
+For [-old-] {+older+} people , Han Zhiyuan suggested that they would better not stay up late to watch games , particularly those with cardiovascular diseases .
+Original:
+对于 [-老人-] {+老年人+} 来说 ， 韩智源 建议 {+，+} 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Repaired:
+对于 [-老人-] {+老年人+} 来说 ， 韩智源 建议 他们 最好 不要 迟到 看 游戏 ， 特别 是 那些 患有 心血管 疾病 的 游戏 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The jail has not yet announced the names of the dead prisoners , but according to the GMA television station , there were two Chinese .
+Original:
+监狱 尚未 公布 死囚 名单 ， 但 据 GMA 电视台 报道 ， 有 两名 中国 人 。
+Repaired:
+监狱 尚未 宣布 死囚 的 名单 ， 但 根据 GMA 电视台 ， 有 两名 中国 人 。
+Diff:
+监狱 尚未 [-公布-] {+宣布+} 死囚 {+的+} 名单 ， 但 [-据-] {+根据+} GMA 电视台 [-报道-] ， 有 两名 中国 人 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The jail has not yet announced the names of the dead prisoners , but according to the GMA TV station , there were two Chinese .
+Original:
+监狱 尚未 宣布 死囚 的 名字 ， 但 根据 GMA 电视台 的 说法 ， 有 两个 中国 人 。
+Repaired:
+监狱 尚未 宣布 死囚 的 名字 ， 但 根据 GMA 电视台 ， 有 两名 中国 人 。
+Diff:
+监狱 尚未 宣布 死囚 的 名字 ， 但 根据 GMA 电视台 [-的 说法-] ， 有 [-两个-] {+两名+} 中国 人 。
+Label: Unchanged
+
+Consistency
+Diff:
+The jail has not yet announced the names of the dead prisoners , but according to the GMA [-television-] {+TV+} station , there were two Chinese .
+Original:
+监狱 尚未 [-公布-] {+宣布+} 死囚 [-名单-] {+的 名字+} ， 但 [-据-] {+根据+} GMA 电视台 [-报道-] {+的 说法+} ， 有 [-两名-] {+两个+} 中国 人 。
+Repaired:
+监狱 尚未 宣布 死囚 的 [-名单-] {+名字+} ， 但 根据 GMA 电视台 ， 有 两名 中国 人 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+So the high temperature allowance is not within the minimum wage , it must be issued in cash and not substituted by physical objects such as drinks .
+Original:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， 必须 以 现金 发放 ， 而 不是 用 饮料 等 物质 替代 。
+Repaired:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， 必须 以 现金 发放 ， 而 不是 用 饮料 等 物质 替代 。
+Diff:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， 必须 以 现金 发放 ， 而 不是 用 饮料 等 物质 替代 。
+Label: Unchanged
+
+Acceptability of the Mut.
+So the high temperature allowance is not within the minimum wage , it can be issued in cash and not substituted by physical objects such as drinks .
+Original:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， 可以 用 现金 发放 ， 而 不能 用 饮料 等 实物 替代 。
+Repaired:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， 可以 以 现金 发放 ， 而 不是 用 饮料 等 物质 替代 。
+Diff:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， 可以 [-用-] {+以+} 现金 发放 ， 而 [-不能-] {+不是+} 用 饮料 等 [-实物-] {+物质+} 替代 。
+Label: Unchanged
+
+Consistency
+Diff:
+So the high temperature allowance is not within the minimum wage , it [-must-] {+can+} be issued in cash and not substituted by physical objects such as drinks .
+Original:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， [-必须 以-] {+可以 用+} 现金 发放 ， 而 [-不是-] {+不能+} 用 饮料 等 [-物质-] {+实物+} 替代 。
+Repaired:
+因此 ， 高温 津贴 不 在 最低工资 之内 ， [-必须-] {+可以+} 以 现金 发放 ， 而 不是 用 饮料 等 物质 替代 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+At 19 : 35 today , in the first match of the 22nd round of the Chinese Football Association Super League , Chongqing Lifan challenged Beijing Guoan in the visiting field .
+Original:
+在 今天 的 第 19 点 35 分 ， 在 第 22 轮 中国 足球 联盟 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 挑战 了 北京 国安 。
+Repaired:
+在 今天 的 第 19 点 35 分 ， 在 第 22 轮 中国 足球 协会 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 挑战 了 北京 国安 。
+Diff:
+在 今天 的 第 19 点 35 分 ， 在 第 22 轮 中国 足球 [-联盟-] {+协会+} 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 挑战 了 北京 国安 。
+Label: Unchanged
+
+Acceptability of the Mut.
+At 16 : 35 today , in the first match of the 22nd round of the Chinese Football Association Super League , Chongqing Lifan challenged Beijing Guoan in the visiting field .
+Original:
+16 ： 35 日 ， 在 第 22 轮 中国 足球 协会 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 向 北京 国安 提出 了 挑战 。
+Repaired:
+今天 16 点 35 分 ， 在 第 22 轮 中国 足球 协会 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 挑战 了 北京 国安 。
+Diff:
+{+今天+} 16 [-：-] {+点+} 35 [-日-] {+分+} ， 在 第 22 轮 中国 足球 协会 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 [-向-] {+挑战 了+} 北京 国安 [-提出 了 挑战-] 。
+Label: Improved
+
+Consistency
+Diff:
+At [-19-] {+16+} : 35 today , in the first match of the 22nd round of the Chinese Football Association Super League , Chongqing Lifan challenged Beijing Guoan in the visiting field .
+Original:
+[-在 今天 的 第 19 点-]{+16 ：+} 35 [-分-] {+日+} ， 在 第 22 轮 中国 足球 [-联盟-] {+协会+} 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 [-挑战 了-] {+向+} 北京 国安 {+提出 了 挑战+} 。
+Repaired:
+[-在-]今天 [-的 第 19-] {+16+} 点 35 分 ， 在 第 22 轮 中国 足球 协会 超级 联赛 的 第一场 比赛 中 ， 重庆 李凡 在 客场 挑战 了 北京 国安 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Scientists have previously suggested that Venus ' slow rotation rate is explained by its thick atmosphere .
+Original:
+科学家 们 以前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 厚厚的 大气 所 解释 的 。
+Repaired:
+科学家 此前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 浓密 的 大气 所 解释 的 。
+Diff:
+科学家 [-们 以前-] {+此前+} 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 [-厚厚的-] {+浓密 的+} 大气 所 解释 的 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Scientists have previously suggested that Venus ' fast rotation rate is explained by its thick atmosphere .
+Original:
+科学家 此前 曾 建议 ， 金星 的 快速 旋转 速率 是 由 其 厚厚的 大气 所 解释 的 。
+Repaired:
+科学家 此前 曾 建议 ， 金星 的 快速 旋转 速率 是 由 其 浓密 的 大气 所 解释 的 。
+Diff:
+科学家 此前 曾 建议 ， 金星 的 快速 旋转 速率 是 由 其 [-厚厚的-] {+浓密 的+} 大气 所 解释 的 。
+Label: Unchanged
+
+Consistency
+Diff:
+Scientists have previously suggested that Venus ' [-slow-] {+fast+} rotation rate is explained by its thick atmosphere .
+Original:
+科学家 [-们 以前-] {+此前+} 曾 建议 ， 金星 的 [-缓慢-] {+快速+} 旋转 速率 是 由 其 厚厚的 大气 所 解释 的 。
+Repaired:
+科学家 此前 曾 建议 ， 金星 的 [-缓慢-] {+快速+} 旋转 速率 是 由 其 浓密 的 大气 所 解释 的 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Viewers across Canada were quick to react online after being shocked by the tone and the language used
+Original:
+加拿大 各地 的 观众们 在 被 语调 和 使用 的 语言 震惊 后 迅速 作出反应
+Repaired:
+加拿大 各地 的 观众们 在 被 语调 和 使用 的 语言 震惊 后 迅速 在 网上 作出反应
+Diff:
+加拿大 各地 的 观众们 在 被 语调 和 使用 的 语言 震惊 后 迅速 {+在 网上+} 作出反应
+Label: Improved
+
+Acceptability of the Mut.
+Viewers across Canada were forced to react online after being shocked by the tone and the language used
+Original:
+加拿大 各地 的 观众 被 语调 和 使用 的 语言 震惊 后 不得不 在 网上 做出 反应 。
+Repaired:
+加拿大 各地 的 观众们 在 被 语调 和 使用 的 语言 震惊 后 不得不 作出反应
+Diff:
+加拿大 各地 的 [-观众-] {+观众们 在+} 被 语调 和 使用 的 语言 震惊 后 不得不 [-在 网上 做出 反应 。-] {+作出反应+}
+Label: Decreased
+
+Consistency
+Diff:
+Viewers across Canada were [-quick-] {+forced+} to react online after being shocked by the tone and the language used
+Original:
+加拿大 各地 的 [-观众们 在-] {+观众+} 被 语调 和 使用 的 语言 震惊 后 [-迅速 作出反应-] {+不得不 在 网上 做出 反应 。+}
+Repaired:
+加拿大 各地 的 观众们 在 被 语调 和 使用 的 语言 震惊 后 [-迅速 在 网上-] {+不得不+} 作出反应
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+It has been some journey for GB .
+Original:
+这是 英国 的 旅程 。
+Repaired:
+这是 英国 的 旅程 。
+Diff:
+这是 英国 的 旅程 。
+Label: Unchanged
+
+Acceptability of the Mut.
+There has been some journey for GB .
+Original:
+为 GB 做 了 一些 旅行 .
+Repaired:
+一些 英国 的 旅程 。
+Diff:
+[-为 GB 做 了-]一些 [-旅行 .-] {+英国 的 旅程 。+}
+Label: Improved
+
+Consistency
+Diff:
+[-It-]{+There+} has been some journey for GB .
+Original:
+[-这是 英国 的 旅程 。-]{+为 GB 做 了 一些 旅行 .+}
+Repaired:
+[-这是-]{+一些+} 英国 的 旅程 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+From June next year , those legal centres are slated to lose another 30 per cent of their federal funding .
+Original:
+从 明年 6 月 起 ， 这些 法律 中心 将 再次 失去 联邦 资金 的 30% 。
+Repaired:
+从 明年 6 月 起 ， 这些 法律 中心 将 失去 另外 30% 的 联邦 资金 。
+Diff:
+从 明年 6 月 起 ， 这些 法律 中心 将 [-再次-] 失去 {+另外 30% 的+} 联邦 资金 [-的 30%-] 。
+Label: Unchanged
+
+Acceptability of the Mut.
+From June next year , those legal centres are slated to lose another 25 per cent of their federal funding .
+Original:
+从 明年 6 月 起 ， 这些 法律 中心 将 失去 另外 25% 的 联邦 资金 。
+Repaired:
+从 明年 6 月 起 ， 这些 法律 中心 将 失去 另外 25% 的 联邦 资金 。
+Diff:
+从 明年 6 月 起 ， 这些 法律 中心 将 失去 另外 25% 的 联邦 资金 。
+Label: Unchanged
+
+Consistency
+Diff:
+From June next year , those legal centres are slated to lose another [-30-] {+25+} per cent of their federal funding .
+Original:
+从 明年 6 月 起 ， 这些 法律 中心 将 [-再次-] 失去 {+另外 25% 的+} 联邦 资金 [-的 30%-] 。
+Repaired:
+从 明年 6 月 起 ， 这些 法律 中心 将 失去 另外 [-30%-] {+25%+} 的 联邦 资金 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The court trial of Wolong District People ' s Court of Nanyang City , Henan Province , found that the defendant Li Huiwang sent fraud information through the fake station equipment in Tongbai County and Nanyang District between September 30 and October 4 , 2015 .
+Original:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 铜白县 和 南阳县 的 假站 设备 发出 欺诈 信息 。
+Repaired:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 铜白县 和 南阳县 的 假站 设备 发出 欺诈 信息 。
+Diff:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 铜白县 和 南阳县 的 假站 设备 发出 欺诈 信息 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The court trial of Wolong District People ' s Court of Nanyang City , Henan Province , found that the defendant Li Huiwang sent fraud information through the fake station equipment in Changbai County and Nanyang District between September 30 and October 4 , 2015 .
+Original:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 长白县 和 南阳 地区 的 假 车站 设备 发出 了 欺诈 信息 。
+Repaired:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 长白县 和 南阳县 的 假 车站 设备 发出 欺诈 信息 。
+Diff:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 长白县 和 [-南阳 地区-] {+南阳县+} 的 假 车站 设备 发出 [-了-] 欺诈 信息 。
+Label: Unchanged
+
+Consistency
+Diff:
+The court trial of Wolong District People ' s Court of Nanyang City , Henan Province , found that the defendant Li Huiwang sent fraud information through the fake station equipment in [-Tongbai-] {+Changbai+} County and Nanyang District between September 30 and October 4 , 2015 .
+Original:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 [-铜白县-] {+长白县+} 和 [-南阳县-] {+南阳 地区+} 的 [-假站-] {+假 车站+} 设备 发出 {+了+} 欺诈 信息 。
+Repaired:
+河南省 南阳市 Wolong 区 人民法院 的 审判 发现 ， 被告 李胡温 在 2015 年 9 月 30 日至 10 月 4 日 期间 通过 [-铜白县-] {+长白县+} 和 南阳县 的 [-假站-] {+假 车站+} 设备 发出 欺诈 信息 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The £ 2 - a - day drug that can cut heart attack threat
+Original:
+每天 2 英镑 的 药物 能够 减少 心脏病 发作 的 威胁
+Repaired:
+每天 2 英镑 的 药物 能够 减少 心脏病 发作 的 威胁
+Diff:
+每天 2 英镑 的 药物 能够 减少 心脏病 发作 的 威胁
+Label: Unchanged
+
+Acceptability of the Mut.
+a £ 2 - a - day drug that can cut heart attack threat
+Original:
+一种 能够 减少 心脏病 发作 威胁 的 每天 2 英镑 的 药物
+Repaired:
+每天 2 英镑 的 药物 可以 减少 心脏病 发作 的 威胁
+Diff:
+[-一种 能够 减少 心脏病 发作 威胁 的-]每天 2 英镑 的 药物 {+可以 减少 心脏病 发作 的 威胁+}
+Label: Decreased
+
+Consistency
+Diff:
+[-The-]{+a+} £ 2 - a - day drug that can cut heart attack threat
+Original:
+[-每天 2 英镑 的 药物-]{+一种+} 能够 减少 心脏病 发作 [-的-] 威胁 {+的 每天 2 英镑 的 药物+}
+Repaired:
+每天 2 英镑 的 药物 [-能够-] {+可以+} 减少 心脏病 发作 的 威胁
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Finally , we should strengthen the protection role of social security .
+Original:
+最后 ， 加强 社会保障 的 保护 作用 。
+Repaired:
+最后 ， 我们 应该 加强 社会保障 的 保护 作用 。
+Diff:
+最后 ， {+我们 应该+} 加强 社会保障 的 保护 作用 。
+Label: Improved
+
+Acceptability of the Mut.
+Further , we should strengthen the protection role of social security .
+Original:
+此外 ， 我们 应 加强 社会保障 的 保护 作用 。
+Repaired:
+此外 ， 我们 应该 加强 社会保障 的 保护 作用 。
+Diff:
+此外 ， 我们 [-应-] {+应该+} 加强 社会保障 的 保护 作用 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-Finally-]{+Further+} , we should strengthen the protection role of social security .
+Original:
+[-最后-]{+此外+} ， {+我们 应+} 加强 社会保障 的 保护 作用 。
+Repaired:
+[-最后-]{+此外+} ， 我们 应该 加强 社会保障 的 保护 作用 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+After the incident on August 4 , the suspected cargo ship was detained by the maritime bureau in Xiuying Port of Haikou to assist in the investigation .
+Original:
+8 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 谢耶宁港 海事 局 扣留 ， 以 协助 调查 。
+Repaired:
+8 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 谢耶宁港 海事 局 扣留 ， 以 协助 调查 。
+Diff:
+8 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 谢耶宁港 海事 局 扣留 ， 以 协助 调查 。
+Label: Unchanged
+
+Acceptability of the Mut.
+After the incident on March 4 , the suspected cargo ship was detained by the maritime bureau in Xiuying Port of Haikou to assist in the investigation .
+Original:
+3 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 西耶宁港 港务局 扣留 ， 以 协助 调查 。
+Repaired:
+3 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 谢耶宁港 海事 局 扣留 ， 以 协助 调查 。
+Diff:
+3 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 [-西耶宁港 港务局-] {+谢耶宁港 海事 局+} 扣留 ， 以 协助 调查 。
+Label: Improved
+
+Consistency
+Diff:
+After the incident on [-August-] {+March+} 4 , the suspected cargo ship was detained by the maritime bureau in Xiuying Port of Haikou to assist in the investigation .
+Original:
+[-8-]{+3+} 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 [-谢耶宁港 海事 局-] {+西耶宁港 港务局+} 扣留 ， 以 协助 调查 。
+Repaired:
+[-8-]{+3+} 月 4 日 事件 发生 后 ， 涉嫌 货船 被 海口 谢耶宁港 海事 局 扣留 ， 以 协助 调查 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Fortunately , the US military force had started the study of solar activities and its electromagnetic interference to the Earth since the 1950s , it ultimately stopped this potential military conflict .
+Original:
+幸运 的 是 ， 自 20 世纪 50 年代 以来 ， 美国 军队 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Repaired:
+幸运 的 是 ， 自 20 世纪 50 年代 以来 ， 美国 军队 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Diff:
+幸运 的 是 ， 自 20 世纪 50 年代 以来 ， 美国 军队 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Fortunately , the US military force had started the study of solar activities and its electromagnetic interference to the Earth during the 1950s , it ultimately stopped this potential military conflict .
+Original:
+幸运 的 是 ， 美国 军队 在 1950 年代 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Repaired:
+幸运 的 是 ， 自 20 世纪 50 年代 在 ， 美国 军队 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Diff:
+幸运 的 是 ， {+自 20 世纪 50 年代 在 ，+} 美国 军队 [-在 1950 年代-] 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Label: Unchanged
+
+Consistency
+Diff:
+Fortunately , the US military force had started the study of solar activities and its electromagnetic interference to the Earth [-since-] {+during+} the 1950s , it ultimately stopped this potential military conflict .
+Original:
+幸运 的 是 ， [-自 20 世纪 50 年代 以来 ，-] 美国 军队 {+在 1950 年代+} 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Repaired:
+幸运 的 是 ， 自 20 世纪 50 年代 [-以来-] {+在+} ， 美国 军队 开始 研究 太阳能 活动 及其 对 地球 的 电磁干扰 ， 最终 结束 了 这 一 潜在 的 军事冲突 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+After the case , Haikou City Public Security Bureau of Interpol detachment leaders attached great importance and immediately organized a detachment of elite troops to take the initiative to investigate .
+Original:
+此后 ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 一批 精锐部队 ， 主动 调查 。
+Repaired:
+此后 ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 一批 精锐部队 ， 主动 调查 。
+Diff:
+此后 ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 一批 精锐部队 ， 主动 调查 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Regarding the case , Haikou City Public Security Bureau of Interpol detachment leaders attached great importance and immediately organized a detachment of elite troops to take the initiative to investigate .
+Original:
+关于 此案 ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 一支 精锐部队 分队 ， 主动 进行 调查 。
+Repaired:
+关于 ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 一批 精锐部队 ， 主动 调查 。
+Diff:
+关于 [-此案-] ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 [-一支-] {+一批+} 精锐部队 [-分队-] ， 主动 [-进行-] 调查 。
+Label: Decreased
+
+Consistency
+Diff:
+[-After-]{+Regarding+} the case , Haikou City Public Security Bureau of Interpol detachment leaders attached great importance and immediately organized a detachment of elite troops to take the initiative to investigate .
+Original:
+[-此后-]{+关于 此案+} ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 [-一批-] {+一支+} 精锐部队 {+分队+} ， 主动 {+进行+} 调查 。
+Repaired:
+[-此后-]{+关于+} ， 刑警 组织 分遣队 领导人 海口 市 公安局 十分重视 ， 并 立即 组织 了 一批 精锐部队 ， 主动 调查 。
+Label: Unchanged
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+During the 14 years of her sports career , Deng Yaping won a total of 18 world championships , becoming the first Chinese athlete to win four Olympic gold medals in China ' s Olympic history .
+Original:
+在 她 14 年 的 体育 生涯 中 ， 邓小平 荣获 18 名 世界 锦标赛 冠军 ， 成为 中国 奥运 历史 上 赢得 4 枚 奥运 金牌 的 首位 中国 运动员 。
+Repaired:
+在 她 14 年 的 体育 生涯 中 ， 邓亚平 获得 了 18 个 世界 锦标赛 冠军 ， 成为 在 中国 奥运 历史 上 赢得 4 个 奥运 金牌 的 首位 中国 运动员 。
+Diff:
+在 她 14 年 的 体育 生涯 中 ， [-邓小平 荣获-] {+邓亚平 获得 了+} 18 [-名-] {+个+} 世界 锦标赛 冠军 ， 成为 {+在+} 中国 奥运 历史 上 赢得 4 [-枚-] {+个+} 奥运 金牌 的 首位 中国 运动员 。
+Label: Improved
+
+Acceptability of the Mut.
+Over the 14 years of her sports career , Deng Yaping won a total of 18 world championships , becoming the first Chinese athlete to win four Olympic gold medals in China ' s Olympic history .
+Original:
+在 她 14 年 的 体育 生涯 中 ， 邓亚平 获得 了 18 个 世界 锦标赛 冠军 ， 成为 在 中国 奥运 历史 上 赢得 4 个 奥运 金牌 的 首位 中国 运动员 。
+Repaired:
+在 她 14 年 的 体育 生涯 中 ， 邓亚平 获得 了 18 个 世界 锦标赛 冠军 ， 成为 在 中国 奥运 历史 上 赢得 4 个 奥运 金牌 的 首位 中国 运动员 。
+Diff:
+在 她 14 年 的 体育 生涯 中 ， 邓亚平 获得 了 18 个 世界 锦标赛 冠军 ， 成为 在 中国 奥运 历史 上 赢得 4 个 奥运 金牌 的 首位 中国 运动员 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-During-]{+Over+} the 14 years of her sports career , Deng Yaping won a total of 18 world championships , becoming the first Chinese athlete to win four Olympic gold medals in China ' s Olympic history .
+Original:
+在 她 14 年 的 体育 生涯 中 ， [-邓小平 荣获-] {+邓亚平 获得 了+} 18 [-名-] {+个+} 世界 锦标赛 冠军 ， 成为 {+在+} 中国 奥运 历史 上 赢得 4 [-枚-] {+个+} 奥运 金牌 的 首位 中国 运动员 。
+Repaired:
+在 她 14 年 的 体育 生涯 中 ， 邓亚平 获得 了 18 个 世界 锦标赛 冠军 ， 成为 在 中国 奥运 历史 上 赢得 4 个 奥运 金牌 的 首位 中国 运动员 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+So , in honor of the Rio Games and all the famous faces crossing our screens at the moment , FEMAIL have compiled a list of Olympians who bear more than a passing resemblance with Hollywood celebs .
+Original:
+因此 ， 为了 纪念 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 翻过 ， 本 联合会 汇编 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， 都 有 过份 相似 。
+Repaired:
+因此 ， 为了 纪念 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 翻过 ， 本 联合会 汇编 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， 都 有 过份 相似 。
+Diff:
+因此 ， 为了 纪念 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 翻过 ， 本 联合会 汇编 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， 都 有 过份 相似 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Now , in honor of the Rio Games and all the famous faces crossing our screens at the moment , FEMAIL have compiled a list of Olympians who bear more than a passing resemblance with Hollywood celebs .
+Original:
+现在 ， 为了 庆祝 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 通过 ， 本 联合会 已经 编写出 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， 已经 不再 像 了 。
+Repaired:
+现在 ， 为了 纪念 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 通过 ， 本 联合会 汇编 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， 都 有 过份 相似 。
+Diff:
+现在 ， 为了 [-庆祝-] {+纪念+} 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 通过 ， 本 联合会 [-已经 编写出-] {+汇编+} 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， [-已经 不再 像 了-] {+都 有 过份 相似+} 。
+Label: Improved
+
+Consistency
+Diff:
+[-So-]{+Now+} , in honor of the Rio Games and all the famous faces crossing our screens at the moment , FEMAIL have compiled a list of Olympians who bear more than a passing resemblance with Hollywood celebs .
+Original:
+[-因此-]{+现在+} ， 为了 [-纪念-] {+庆祝+} 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 [-翻过-] {+通过+} ， 本 联合会 [-汇编-] {+已经 编写出+} 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， [-都 有 过份 相似-] {+已经 不再 像 了+} 。
+Repaired:
+[-因此-]{+现在+} ， 为了 纪念 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 [-翻过-] {+通过+} ， 本 联合会 汇编 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， 都 有 过份 相似 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+" It is quite pleasant to see a sizable and organized ancestor worship ceremony in such a busy financial metropolis as Hong Kong , " she said .
+Original:
+她 说 ： “ 在 香港 这样 忙碌 的 金融城 ， 可以 看到 规模 庞大 而 有 组织 的 祖先 崇拜 仪式 ， 这是 非常 令人 愉快 的 。
+Repaired:
+她 说 ： “ 在 香港 这样 忙碌 的 金融城 ， 可以 看到 规模 庞大 而 有 组织 的 祖先 崇拜 仪式 ， 这是 非常 令人 愉快 的 。
+Diff:
+她 说 ： “ 在 香港 这样 忙碌 的 金融城 ， 可以 看到 规模 庞大 而 有 组织 的 祖先 崇拜 仪式 ， 这是 非常 令人 愉快 的 。
+Label: Unchanged
+
+Acceptability of the Mut.
+" It is quite pleasant to see a sizable and organized Hindu worship ceremony in such a busy financial metropolis as Hong Kong , " she said .
+Original:
+她 说 ： “ 在 像 香港 这样 忙碌 的 金融城 ， 看到 一个 规模 庞大 而 有 组织 的 印度教 崇拜 仪式 是 非常 令人 愉快 的 。
+Repaired:
+她 说 ： “ 在 香港 这样 忙碌 的 金融城 ， 可以 看到 规模 庞大 而 有 组织 的 印度教 崇拜 仪式 ， 这是 非常 令人 愉快 的 。
+Diff:
+她 说 ： “ 在 [-像-] 香港 这样 忙碌 的 金融城 ， {+可以+} 看到 [-一个-] 规模 庞大 而 有 组织 的 印度教 崇拜 仪式 [-是-] {+， 这是+} 非常 令人 愉快 的 。
+Label: Unchanged
+
+Consistency
+Diff:
+" It is quite pleasant to see a sizable and organized [-ancestor-] {+Hindu+} worship ceremony in such a busy financial metropolis as Hong Kong , " she said .
+Original:
+她 说 ： “ 在 {+像+} 香港 这样 忙碌 的 金融城 ， [-可以-] 看到 {+一个+} 规模 庞大 而 有 组织 的 [-祖先-] {+印度教+} 崇拜 仪式 [-， 这是-] {+是+} 非常 令人 愉快 的 。
+Repaired:
+她 说 ： “ 在 香港 这样 忙碌 的 金融城 ， 可以 看到 规模 庞大 而 有 组织 的 [-祖先-] {+印度教+} 崇拜 仪式 ， 这是 非常 令人 愉快 的 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+It is quite clear that Saric already showed his gift and made the 76ers full of expectations on him .
+Original:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， 使 76 人 对 他 充满 了 期望 。
+Repaired:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， 使 76 人 对 他 充满 了 期望 。
+Diff:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， 使 76 人 对 他 充满 了 期望 。
+Label: Unchanged
+
+Acceptability of the Mut.
+It is quite clear that Saric already showed his gift and made the 76ers full of expectations for him .
+Original:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， 并 使 76 人 充满 了 对 他 的 期望 。
+Repaired:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， 并 使 76 人 对 他 充满 了 期望 。
+Diff:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， 并 使 76 人 [-充满 了-] 对 他 [-的-] {+充满 了+} 期望 。
+Label: Unchanged
+
+Consistency
+Diff:
+It is quite clear that Saric already showed his gift and made the 76ers full of expectations [-on-] {+for+} him .
+Original:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， {+并+} 使 76 人 [-对 他-] 充满 了 {+对 他 的+} 期望 。
+Repaired:
+很 清楚 的 是 ， 萨里 克 已经 展示 了 他 的 礼物 ， {+并+} 使 76 人 对 他 充满 了 期望 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+" He refuses to do what every other presidential candidate in decades has done and release his tax returns , " she told the crowd .
+Original:
+“ 他 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 他 的 纳税 申报表 ， ” 她 告诉 人群 。
+Repaired:
+“ 他 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 他 的 纳税 申报表 ， ” 她 告诉 人群 。
+Diff:
+“ 他 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 他 的 纳税 申报表 ， ” 她 告诉 人群 。
+Label: Unchanged
+
+Acceptability of the Mut.
+" Trump refuses to do what every other presidential candidate in decades has done and release his tax returns , " she told the crowd .
+Original:
+她 告诉 民众 ： “ 特朗普 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 了 他 的 纳税 申报表 。
+Repaired:
+“ 特朗普 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 他 的 纳税 申报表 ， ” 她 告诉 人群 。
+Diff:
+[-她 告诉 民众 ：-]“ 特朗普 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 [-了-] 他 的 纳税 申报表 {+， ” 她 告诉 人群+} 。
+Label: Unchanged
+
+Consistency
+Diff:
+" [-He-] {+Trump+} refuses to do what every other presidential candidate in decades has done and release his tax returns , " she told the crowd .
+Original:
+{+她 告诉 民众 ：+} “ [-他-] {+特朗普+} 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 {+了+} 他 的 纳税 申报表 [-， ” 她 告诉 人群-] 。
+Repaired:
+“ [-他-] {+特朗普+} 拒绝 做 其他 总统 候选人 几十年 来 所 做 的 事情 ， 并 释放 他 的 纳税 申报表 ， ” 她 告诉 人群 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Especially savory are the accounts of the government ' s response to its hungry citizenry , like President Herbert Hoover ' s let - me - eat - cake attitude .
+Original:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Repaired:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Diff:
+特别 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Label: Unchanged
+
+Acceptability of the Mut.
+More savory are the accounts of the government ' s response to its hungry citizenry , like President Herbert Hoover ' s let - me - eat - cake attitude .
+Original:
+更 有趣 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 让 我 吃 蛋糕 的 态度 。
+Repaired:
+更 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Diff:
+更 [-有趣-] {+值得一提+} 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 [-让 我-] {+的+} 吃 蛋糕 的 态度 。
+Label: Unchanged
+
+Consistency
+Diff:
+[-Especially-]{+More+} savory are the accounts of the government ' s response to its hungry citizenry , like President Herbert Hoover ' s let - me - eat - cake attitude .
+Original:
+[-特别 值得一提-]{+更 有趣+} 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 [-的-] {+让 我+} 吃 蛋糕 的 态度 。
+Repaired:
+[-特别-]{+更+} 值得一提 的 是 政府 对 其 饥饿 公民 的 反应 ， 比如 赫伯特 · 胡佛 总统 的 吃 蛋糕 的 态度 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+He said the spaces provided calm meeting points between refugees and volunteers .
+Original:
+他 说 ， 这些 空间 提供 了 难民 和 志愿人员 之间 平静 的 会面 点 。
+Repaired:
+他 说 ， 这些 空间 提供 了 难民 和 志愿人员 之间 平静 的 会面 点 。
+Diff:
+他 说 ， 这些 空间 提供 了 难民 和 志愿人员 之间 平静 的 会面 点 。
+Label: Unchanged
+
+Acceptability of the Mut.
+He felt the spaces provided calm meeting points between refugees and volunteers .
+Original:
+他 感到 这些 空间 为 难民 和 志愿人员 提供 了 平静 的 会面 点 。
+Repaired:
+他 感到 这些 空间 提供 了 难民 和 志愿人员 之间 平静 的 会面 点 。
+Diff:
+他 感到 这些 空间 [-为-] {+提供 了+} 难民 和 志愿人员 [-提供 了-] {+之间+} 平静 的 会面 点 。
+Label: Unchanged
+
+Consistency
+Diff:
+He [-said-] {+felt+} the spaces provided calm meeting points between refugees and volunteers .
+Original:
+他 [-说 ，-] {+感到+} 这些 空间 [-提供 了-] {+为+} 难民 和 志愿人员 [-之间-] {+提供 了+} 平静 的 会面 点 。
+Repaired:
+他 [-说 ，-] {+感到+} 这些 空间 提供 了 难民 和 志愿人员 之间 平静 的 会面 点 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Scientists have previously suggested that Venus ' slow rotation rate is explained by its thick atmosphere .
+Original:
+科学家 们 以前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 厚厚的 大气 所 解释 的 。
+Repaired:
+科学家 此前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 浓密 的 大气 所 解释 的 。
+Diff:
+科学家 [-们 以前-] {+此前+} 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 [-厚厚的-] {+浓密 的+} 大气 所 解释 的 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Scientists have previously suggested that Venus ' slow rotation rate is explained by its thin atmosphere .
+Original:
+科学家 此前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 稀薄 的 大气 所 解释 的 。
+Repaired:
+科学家 此前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 稀薄 的 大气 所 解释 的 。
+Diff:
+科学家 此前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 稀薄 的 大气 所 解释 的 。
+Label: Unchanged
+
+Consistency
+Diff:
+Scientists have previously suggested that Venus ' slow rotation rate is explained by its [-thick-] {+thin+} atmosphere .
+Original:
+科学家 [-们 以前-] {+此前+} 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 [-厚厚的-] {+稀薄 的+} 大气 所 解释 的 。
+Repaired:
+科学家 此前 曾 建议 ， 金星 的 缓慢 旋转 速率 是 由 其 [-浓密-] {+稀薄+} 的 大气 所 解释 的 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Each one of those brands will stand for something quite different in their own communities , and our staff will work with customers under those brands .
+Original:
+这些 品牌 中 的 每 一个 都 将 在 各自 的 社区 中 找到 完全 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Repaired:
+这些 品牌 中 的 每 一个 都 将 在 各自 的 社区 中 找到 完全 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Diff:
+这些 品牌 中 的 每 一个 都 将 在 各自 的 社区 中 找到 完全 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Each member of those brands will stand for something quite different in their own communities , and our staff will work with customers under those brands .
+Original:
+这些 品牌 的 每个 成员 都 会 在 各自 的 社区 中 寻找 相当 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Repaired:
+这些 品牌 中 的 每 成员 都 将 在 各自 的 社区 中 找到 完全 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Diff:
+这些 品牌 {+中+} 的 [-每个-] {+每+} 成员 都 [-会-] {+将+} 在 各自 的 社区 中 [-寻找 相当-] {+找到 完全+} 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Label: Unchanged
+
+Consistency
+Diff:
+Each [-one-] {+member+} of those brands will stand for something quite different in their own communities , and our staff will work with customers under those brands .
+Original:
+这些 品牌 [-中-] 的 [-每 一个-] {+每个 成员+} 都 [-将-] {+会+} 在 各自 的 社区 中 [-找到 完全-] {+寻找 相当+} 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Repaired:
+这些 品牌 中 的 每 [-一个-] {+成员+} 都 将 在 各自 的 社区 中 找到 完全 不同 的 东西 ， 我们 的 工作人员 将 在 这些 品牌 下 与 客户 合作 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+If the traffic control department can determine to declare war to the mobile phone playing behavior during driving and normalize such measures , such illegal behaviors will surely be curbed .
+Original:
+如果 交通管理 部门 能够 决定 在 驾驶 期间 向 移动电话 行为 宣战 并 使 这种 措施 正常化 ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Repaired:
+如果 交通管理 部门 能够 决定 在 驾驶 期间 向 移动电话 行为 宣战 并 使 这种 措施 正常化 ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Diff:
+如果 交通管理 部门 能够 决定 在 驾驶 期间 向 移动电话 行为 宣战 并 使 这种 措施 正常化 ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Label: Unchanged
+
+Acceptability of the Mut.
+If the traffic control department can determine to declare war to the mobile phone playing behavior during driving or normalize such measures , such illegal behaviors will surely be curbed .
+Original:
+如果 交通管理 部门 能够 决定 在 驾驶 或 使 这种 措施 正常化 期间 向 移动电话 行为 宣战 ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Repaired:
+如果 交通管理 部门 能够 决定 在 驾驶 期间 向 移动电话 行为 宣战 或 使 这种 措施 正常化 ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Diff:
+如果 交通管理 部门 能够 决定 在 驾驶 [-或 使 这种 措施 正常化-] 期间 向 移动电话 行为 宣战 {+或 使 这种 措施 正常化+} ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Label: Improved
+
+Consistency
+Diff:
+If the traffic control department can determine to declare war to the mobile phone playing behavior during driving [-and-] {+or+} normalize such measures , such illegal behaviors will surely be curbed .
+Original:
+如果 交通管理 部门 能够 决定 在 驾驶 {+或 使 这种 措施 正常化+} 期间 向 移动电话 行为 宣战 [-并 使 这种 措施 正常化-] ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Repaired:
+如果 交通管理 部门 能够 决定 在 驾驶 期间 向 移动电话 行为 宣战 [-并-] {+或+} 使 这种 措施 正常化 ， 那么 这种 违法行为 肯定 会 被 遏制 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+A culture of political correctness has led to a blind eye being turned to widespread voting fraud in Muslim communities , a devastating government report reveals today .
+Original:
+一份 破坏性 的 政府 报告 显示 ， 政治 正确性 的 文化 导致 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Repaired:
+一份 破坏性 的 政府 报告 显示 ， 政治 正确性 的 文化 导致 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Diff:
+一份 破坏性 的 政府 报告 显示 ， 政治 正确性 的 文化 导致 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Label: Unchanged
+
+Acceptability of the Mut.
+A lack of political correctness has led to a blind eye being turned to widespread voting fraud in Muslim communities , a devastating government report reveals today .
+Original:
+政府 今天 的 一份 破坏性 报告 显示 ， 由于 缺乏 政治 正确性 ， 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Repaired:
+一份 破坏性 的 政府 报告 显示 ， 政治 正确性 的 缺乏 导致 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Diff:
+[-政府 今天 的-]一份 破坏性 {+的 政府+} 报告 显示 ， [-由于 缺乏-] 政治 正确性 [-，-] {+的 缺乏 导致+} 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Label: Unchanged
+
+Consistency
+Diff:
+A [-culture-] {+lack+} of political correctness has led to a blind eye being turned to widespread voting fraud in Muslim communities , a devastating government report reveals today .
+Original:
+{+政府 今天 的+} 一份 破坏性 [-的 政府-] 报告 显示 ， {+由于 缺乏+} 政治 正确性 [-的 文化 导致-] {+，+} 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Repaired:
+一份 破坏性 的 政府 报告 显示 ， 政治 正确性 的 [-文化-] {+缺乏+} 导致 人们 对 穆斯林 社区 广泛 的 投票 舞弊 视而不见 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+' I ' d hate to get home with a new pair of knickers and find another woman had put them on and taken them off again , and they hadn ' t been washed . '
+Original:
+“ 我 不 愿意 带 着 一双 新 的 刀 回到 家里 ， 发现 另 一个 女人 把 他们 放 了 起来 ， 又 把 他们 带走 了 ， 他们 也 没有 被 洗 过 。 ”
+Repaired:
+“ 我 不 愿意 带 着 一双 新 的 刀 回到 家里 ， 发现 另 一个 女人 把 他们 放 了 起来 ， 又 把 他们 带走 了 ， 他们 也 没有 被 洗 过 。 ”
+Diff:
+“ 我 不 愿意 带 着 一双 新 的 刀 回到 家里 ， 发现 另 一个 女人 把 他们 放 了 起来 ， 又 把 他们 带走 了 ， 他们 也 没有 被 洗 过 。 ”
+Label: Unchanged
+
+Acceptability of the Mut.
+' I ' d hate to get home with a new pair of knickers and find a woman had put them on and taken them off again , and they hadn ' t been washed . '
+Original:
+“ 我 不愿 带 着 一双 新 的 刀 回到 家里 ， 发现 有 一个 女人 把 他们 穿 上 ， 又 把 他们 带走 了 ， 他们 也 没有 被 洗 过 。 ”
+Repaired:
+“ 我 不 愿意 带 着 一双 新 的 刀 回到 家里 ， 发现 有 一个 女人 把 他们 放 了 起来 ， 又 把 他们 带走 了 ， 他们 没有 被 洗 过 。 ”
+Diff:
+“ 我 [-不愿-] {+不 愿意+} 带 着 一双 新 的 刀 回到 家里 ， 发现 有 一个 女人 把 他们 [-穿 上-] {+放 了 起来+} ， 又 把 他们 带走 了 ， 他们 [-也-] 没有 被 洗 过 。 ”
+Label: Unchanged
+
+Consistency
+Diff:
+' I ' d hate to get home with a new pair of knickers and find [-another-] {+a+} woman had put them on and taken them off again , and they hadn ' t been washed . '
+Original:
+“ 我 [-不 愿意-] {+不愿+} 带 着 一双 新 的 刀 回到 家里 ， 发现 [-另-] {+有+} 一个 女人 把 他们 [-放 了 起来-] {+穿 上+} ， 又 把 他们 带走 了 ， 他们 也 没有 被 洗 过 。 ”
+Repaired:
+“ 我 不 愿意 带 着 一双 新 的 刀 回到 家里 ， 发现 [-另-] {+有+} 一个 女人 把 他们 放 了 起来 ， 又 把 他们 带走 了 ， 他们 [-也-] 没有 被 洗 过 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+As never before or since , home economists - among them Louise Stanley , chief of the federal Bureau of Home Economics from 1923 to 1943 - drove the country ' s eating habits .
+Original:
+在 1923 年 至 1943 年 的 联邦 家政局 局长 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 从来 没有 这样 做 过 。
+Repaired:
+自 1923 年 至 1943 年 ， 在 联邦 家庭 经济 局局长 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 们 从未 像 以往 或 以往 任何 时候 一样 ， 推动 了 美国 的 饮食习惯 。
+Diff:
+[-在-]{+自+} 1923 年 至 1943 年 [-的-] {+， 在+} 联邦 [-家政局 局长-] {+家庭 经济 局局长+} 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 [-从来 没有 这样 做 过-] {+们 从未 像 以往 或 以往 任何 时候 一样 ， 推动 了 美国 的 饮食习惯+} 。
+Label: Improved
+
+Acceptability of the Mut.
+As never before or since , home economists - among them Louise Stanley , director of the federal Bureau of Home Economics from 1923 to 1943 - drove the country ' s eating habits .
+Original:
+在 1923 年 至 1943 年 的 联邦 家政局 局长 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 们 从未 像 以往 或 此后 一样 ， 推动 了 美国 的 饮食习惯 。
+Repaired:
+自 1923 年 至 1943 年 ， 在 联邦 家庭 经济 局局长 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 们 从未 像 以往 或 以往 任何 时候 一样 ， 推动 了 美国 的 饮食习惯 。
+Diff:
+[-在-]{+自+} 1923 年 至 1943 年 [-的-] {+， 在+} 联邦 [-家政局 局长-] {+家庭 经济 局局长+} 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 们 从未 像 以往 或 [-此后-] {+以往 任何 时候+} 一样 ， 推动 了 美国 的 饮食习惯 。
+Label: Improved
+
+Consistency
+Diff:
+As never before or since , home economists - among them Louise Stanley , [-chief-] {+director+} of the federal Bureau of Home Economics from 1923 to 1943 - drove the country ' s eating habits .
+Original:
+在 1923 年 至 1943 年 的 联邦 家政局 局长 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 [-从来 没有 这样 做 过-] {+们 从未 像 以往 或 此后 一样 ， 推动 了 美国 的 饮食习惯+} 。
+Repaired:
+自 1923 年 至 1943 年 ， 在 联邦 家庭 经济 局局长 露易丝 · 斯坦利 ( Louise Stanley ) 中 ， 家庭 经济学家 们 从未 像 以往 或 以往 任何 时候 一样 ， 推动 了 美国 的 饮食习惯 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Although he has transferred back to the FA Premier League , the Football Association Challenge Cup ( FA Cup ) still passes his accumulative suspension to the FA Cup .
+Original:
+虽然 他 已经 转回 足总联盟 ， 但 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 的 累积 悬架 进入 足总杯 。
+Repaired:
+虽然 他 已经 转回 足总联盟 ， 但 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 的 累积 悬架 进入 足总杯 。
+Diff:
+虽然 他 已经 转回 足总联盟 ， 但 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 的 累积 悬架 进入 足总杯 。
+Label: Unchanged
+
+Acceptability of the Mut.
+As he has transferred back to the FA Premier League , the Football Association Challenge Cup ( FA Cup ) still passes his accumulative suspension to the FA Cup .
+Original:
+由于 他 已经 转回 足总联盟 ， 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 累积 的 暂停 足总杯 。
+Repaired:
+由于 他 已经 转回 足总联盟 ， 但 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 的 累积 悬架 进入 足总杯 。
+Diff:
+由于 他 已经 转回 足总联盟 ， {+但+} 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 [-累积-] 的 [-暂停-] {+累积 悬架 进入+} 足总杯 。
+Label: Decreased
+
+Consistency
+Diff:
+[-Although-]{+As+} he has transferred back to the FA Premier League , the Football Association Challenge Cup ( FA Cup ) still passes his accumulative suspension to the FA Cup .
+Original:
+[-虽然-]{+由于+} 他 已经 转回 足总联盟 ， [-但-] 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 [-的-] 累积 [-悬架 进入-] {+的 暂停+} 足总杯 。
+Repaired:
+[-虽然-]{+由于+} 他 已经 转回 足总联盟 ， 但 足球 协会 挑战 杯 （ 足总杯 ） 仍然 通过 他 的 累积 悬架 进入 足总杯 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Though Mustafina took a small lead through two rotations , it was a mirage .
+Original:
+虽然 穆斯塔法 纳 在 两次 轮调 中 获得 了 一个 小 的 领先 优势 ， 但 这 是 个 奇迹 。
+Repaired:
+虽然 穆斯塔法 纳 在 两次 轮调 中 获得 了 一个 小 的 领先 优势 ， 但 这 是 个 奇迹 。
+Diff:
+虽然 穆斯塔法 纳 在 两次 轮调 中 获得 了 一个 小 的 领先 优势 ， 但 这 是 个 奇迹 。
+Label: Unchanged
+
+Acceptability of the Mut.
+As Mustafina took a small lead through two rotations , it was a mirage .
+Original:
+由于 穆斯塔法 纳 在 两次 轮调 中 取得 了 一个 小 的 领先 优势 ， 这 简直 是 一种 狂喜 。
+Repaired:
+由于 穆斯塔法 纳 在 两次 轮调 中 获得 了 一个 小 的 领先 优势 ， 但 这 是 个 奇迹 。
+Diff:
+由于 穆斯塔法 纳 在 两次 轮调 中 [-取得-] {+获得+} 了 一个 小 的 领先 优势 ， {+但+} 这 [-简直-] 是 [-一种 狂喜-] {+个 奇迹+} 。
+Label: Improved
+
+Consistency
+Diff:
+[-Though-]{+As+} Mustafina took a small lead through two rotations , it was a mirage .
+Original:
+[-虽然-]{+由于+} 穆斯塔法 纳 在 两次 轮调 中 [-获得-] {+取得+} 了 一个 小 的 领先 优势 ， [-但-] 这 {+简直+} 是 [-个 奇迹-] {+一种 狂喜+} 。
+Repaired:
+[-虽然-]{+由于+} 穆斯塔法 纳 在 两次 轮调 中 获得 了 一个 小 的 领先 优势 ， 但 这 是 个 奇迹 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+He believes that the cooperation between the Russian and Chinese police departments will enhance the security sense of their citizens to each other ' s national tourism .
+Original:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 提高 公民 对 彼此 国家 旅游 的 安全感 。
+Repaired:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 提高 公民 对 彼此 国家 旅游 的 安全感 。
+Diff:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 提高 公民 对 彼此 国家 旅游 的 安全感 。
+Label: Unchanged
+
+Acceptability of the Mut.
+He believes that the cooperation between the Russian and Chinese police departments will strengthen the security sense of their citizens to each other ' s national tourism .
+Original:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 加强 两国人民 对 本国 旅游 的 安全感 。
+Repaired:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 加强 公民 对 彼此 国家 旅游 的 安全感 。
+Diff:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 加强 [-两国人民-] {+公民+} 对 [-本国-] {+彼此 国家+} 旅游 的 安全感 。
+Label: Improved
+
+Consistency
+Diff:
+He believes that the cooperation between the Russian and Chinese police departments will [-enhance-] {+strengthen+} the security sense of their citizens to each other ' s national tourism .
+Original:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 [-提高 公民-] {+加强 两国人民+} 对 [-彼此 国家-] {+本国+} 旅游 的 安全感 。
+Repaired:
+他 认为 ， 俄中 警察 部门 之间 的 合作 将 [-提高-] {+加强+} 公民 对 彼此 国家 旅游 的 安全感 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+One Twitter user took to the site recently to declare her happiness that ' the rest of the internet thinks that Hope Solo and Jennifer Carpenter are actually identical . '
+Original:
+一个 Twitter 用户 最近 访问 了 该 网站 ， 宣布 她 的 幸福 ： “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Repaired:
+一个 Twitter 用户 最近 访问 了 该 网站 ， 宣布 她 的 幸福 ： “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Diff:
+一个 Twitter 用户 最近 访问 了 该 网站 ， 宣布 她 的 幸福 ： “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Label: Unchanged
+
+Acceptability of the Mut.
+One Facebook user took to the site recently to declare her happiness that ' the rest of the internet thinks that Hope Solo and Jennifer Carpenter are actually identical . '
+Original:
+一个 Facebook 用户 最近 访问 了 网站 ， 宣布 她 的 幸福 ， “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Repaired:
+一个 Facebook 用户 最近 访问 了 网站 ， 宣布 她 的 幸福 ： “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Diff:
+一个 Facebook 用户 最近 访问 了 网站 ， 宣布 她 的 幸福 [-，-] {+：+} “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Label: Unchanged
+
+Consistency
+Diff:
+One [-Twitter-] {+Facebook+} user took to the site recently to declare her happiness that ' the rest of the internet thinks that Hope Solo and Jennifer Carpenter are actually identical . '
+Original:
+一个 [-Twitter-] {+Facebook+} 用户 最近 访问 了 [-该-] 网站 ， 宣布 她 的 幸福 [-：-] {+，+} “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Repaired:
+一个 [-Twitter-] {+Facebook+} 用户 最近 访问 了 [-该-] 网站 ， 宣布 她 的 幸福 ： “ 互联网 的 其余部分 认为 希望 索洛 和 珍妮弗 · 卡彭特 实际上 是 相同 的 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Still , despite the public display of reconciliation , the two still have major differences .
+Original:
+尽管如此 ， 尽管 公众 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Repaired:
+尽管如此 ， 尽管 公众 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Diff:
+尽管如此 ， 尽管 公众 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Still , despite their public display of reconciliation , the two still have major differences .
+Original:
+然而 ， 尽管 他们 公开 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Repaired:
+尽管如此 ， 尽管 双方 公开 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Diff:
+[-然而-]{+尽管如此+} ， 尽管 [-他们-] {+双方+} 公开 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Label: Unchanged
+
+Consistency
+Diff:
+Still , despite [-the-] {+their+} public display of reconciliation , the two still have major differences .
+Original:
+[-尽管如此-]{+然而+} ， 尽管 [-公众-] {+他们 公开+} 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Repaired:
+尽管如此 ， 尽管 [-公众-] {+双方 公开+} 表现 出 和解 ， 但 双方 仍然 存在 重大 分歧 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+In order to meet the needs of future development , the Construction Planning of Xi ' an Newly Integrated Logistics Center has been introduced , with the Xi ' an Xinzhu railway station as a focus , endeavoring to build a new modern railway integrated logistics park .
+Original:
+为了 适应 未来 发展 的 需要 ， 引进 了 西安新 综合 物流 中心 的 建设 规划 ， 以 西安新日 火车站 为 重点 ， 努力 建设 新 的 铁路 一体化 物流 园区 。
+Repaired:
+为了 适应 未来 发展 的 需要 ， 引进 了 西安新 综合 物流 中心 的 建设 规划 ， 以 西安新日 火车站 为 重点 ， 努力 建设 新 的 铁路 一体化 物流 园区 。
+Diff:
+为了 适应 未来 发展 的 需要 ， 引进 了 西安新 综合 物流 中心 的 建设 规划 ， 以 西安新日 火车站 为 重点 ， 努力 建设 新 的 铁路 一体化 物流 园区 。
+Label: Unchanged
+
+Acceptability of the Mut.
+In order to meet the needs of future development , the Construction Planning of Xi ' an Centrally Integrated Logistics Center has been introduced , with the Xi ' an Xinzhu railway station as a focus , endeavoring to build a new modern railway integrated logistics park .
+Original:
+为了 适应 未来 发展 的 需要 ， 介绍 了 西安中央综合 物流 中心 的 建设 规划 ， 重点 介绍 了 西安新日 火车站 建设 新 的 铁路 一体化 物流 园区 。
+Repaired:
+为了 适应 未来 发展 的 需要 ， 引进 了 西安中央综合 物流 中心 的 建设 规划 ， 以 西安新日 火车站 为 重点 ， 努力 建设 新 的 铁路 一体化 物流 园区 。
+Diff:
+为了 适应 未来 发展 的 需要 ， [-介绍-] {+引进+} 了 西安中央综合 物流 中心 的 建设 规划 ， [-重点 介绍 了-] {+以+} 西安新日 火车站 {+为 重点 ， 努力+} 建设 新 的 铁路 一体化 物流 园区 。
+Label: Improved
+
+Consistency
+Diff:
+In order to meet the needs of future development , the Construction Planning of Xi ' an [-Newly-] {+Centrally+} Integrated Logistics Center has been introduced , with the Xi ' an Xinzhu railway station as a focus , endeavoring to build a new modern railway integrated logistics park .
+Original:
+为了 适应 未来 发展 的 需要 ， [-引进-] {+介绍+} 了 [-西安新 综合-] {+西安中央综合+} 物流 中心 的 建设 规划 ， [-以-] {+重点 介绍 了+} 西安新日 火车站 [-为 重点 ， 努力-] 建设 新 的 铁路 一体化 物流 园区 。
+Repaired:
+为了 适应 未来 发展 的 需要 ， 引进 了 [-西安新 综合-] {+西安中央综合+} 物流 中心 的 建设 规划 ， 以 西安新日 火车站 为 重点 ， 努力 建设 新 的 铁路 一体化 物流 园区 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Russia and Turkey : An ' alliance of misfits ' ?
+Original:
+俄罗斯 和 土耳其 ： 错误 联盟 ？
+Repaired:
+俄罗斯 和 土耳其 ： 错误 联盟 ？
+Diff:
+俄罗斯 和 土耳其 ： 错误 联盟 ？
+Label: Unchanged
+
+Acceptability of the Mut.
+Iran and Turkey : An ' alliance of misfits ' ?
+Original:
+伊朗 和 土耳其 ： 错合 联盟 ？
+Repaired:
+伊朗 和 土耳其 ： 错误 联盟 ？
+Diff:
+伊朗 和 土耳其 ： [-错合-] {+错误+} 联盟 ？
+Label: Unchanged
+
+Consistency
+Diff:
+[-Russia-]{+Iran+} and Turkey : An ' alliance of misfits ' ?
+Original:
+[-俄罗斯-]{+伊朗+} 和 土耳其 ： [-错误-] {+错合+} 联盟 ？
+Repaired:
+[-俄罗斯-]{+伊朗+} 和 土耳其 ： 错误 联盟 ？
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+With the popularity of smart phones , mobile phones become more and more interesting . WeChat chatting , microblogging , playing games and even shopping on Taobao have become normal . It seems that many people cannot do without the phone for a moment , and cannot stop doing so even when driving .
+Original:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 变得 正常 了 ， 似乎 很多 人 在 没有 手机 的 情况 下 都 不能 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Repaired:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 变得 正常 了 ， 似乎 很多 人 在 没有 手机 的 情况 下 都 不能 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Diff:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 变得 正常 了 ， 似乎 很多 人 在 没有 手机 的 情况 下 都 不能 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Label: Unchanged
+
+Acceptability of the Mut.
+With the popularity of smart phones , mobile phones become more and more interesting . WeChat chatting , microblogging , playing games and even shopping on Taobao has become normal . It seems that many people cannot do without the phone for a moment , and cannot stop doing so even when driving .
+Original:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 成为 正常 现象 ， 许多 人 在 没有 手机 的 情况 下 似乎 暂时 不能 这样 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Repaired:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 变得 正常 了 ， 似乎 很多 人 在 没有 手机 的 情况 下 都 不能 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Diff:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 [-成为-] {+变得+} 正常 [-现象-] {+了+} ， [-许多-] {+似乎 很多+} 人 在 没有 手机 的 情况 下 [-似乎 暂时-] {+都+} 不能 [-这样-] 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Label: Unchanged
+
+Consistency
+Diff:
+With the popularity of smart phones , mobile phones become more and more interesting . WeChat chatting , microblogging , playing games and even shopping on Taobao [-have-] {+has+} become normal . It seems that many people cannot do without the phone for a moment , and cannot stop doing so even when driving .
+Original:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 [-变得-] {+成为+} 正常 [-了-] {+现象+} ， [-似乎 很多-] {+许多+} 人 在 没有 手机 的 情况 下 [-都-] {+似乎 暂时+} 不能 {+这样+} 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Repaired:
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 变得 正常 了 ， 似乎 很多 人 在 没有 手机 的 情况 下 都 不能 做 ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+On Thursday afternoon , MacDonald apologized on - air and attempted to qualify his remark by stating he didn ' t mean for it to be construed as a personal attack .
+Original:
+周四 下午 ， 麦克唐纳 向 空中 道歉 ， 并 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Repaired:
+周四 下午 ， 麦克唐纳 向 空中 道歉 ， 并 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Diff:
+周四 下午 ， 麦克唐纳 向 空中 道歉 ， 并 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Label: Unchanged
+
+Acceptability of the Mut.
+On Thursday afternoon , MacDonald apologized on - air but attempted to qualify his remark by stating he didn ' t mean for it to be construed as a personal attack .
+Original:
+周四 下午 ， 麦克唐纳 在 空中 道歉 ， 但 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Repaired:
+周四 下午 ， 麦克唐纳 向 空中 道歉 ， 但 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Diff:
+周四 下午 ， 麦克唐纳 [-在-] {+向+} 空中 道歉 ， 但 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Label: Unchanged
+
+Consistency
+Diff:
+On Thursday afternoon , MacDonald apologized on - air [-and-] {+but+} attempted to qualify his remark by stating he didn ' t mean for it to be construed as a personal attack .
+Original:
+周四 下午 ， 麦克唐纳 [-向-] {+在+} 空中 道歉 ， [-并-] {+但+} 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Repaired:
+周四 下午 ， 麦克唐纳 向 空中 道歉 ， [-并-] {+但+} 试图 对 他 的 言论 进行 限定 ， 他 并 不 打算 将 其 解释 为 个人 攻击 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+" We first scanned Gracia and then designed and produced an extended prosthesis , which is slightly longer than the rest of the upper part of its beak , and fixed it on its beak with glue . "
+Original:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 嘴 上 的 其他 部位 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Repaired:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 嘴 上 的 其他 部位 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Diff:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 嘴 上 的 其他 部位 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Label: Unchanged
+
+Acceptability of the Mut.
+" We first scanned Gracia and then designed and produced an extended prosthesis , which is slightly longer than the rest of the front part of its beak , and fixed it on its beak with glue . "
+Original:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 前 部分 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Repaired:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 嘴 前 的 其他 部位 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Diff:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 {+嘴+} 前 [-部分-] {+的 其他 部位+} 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Label: Improved
+
+Consistency
+Diff:
+" We first scanned Gracia and then designed and produced an extended prosthesis , which is slightly longer than the rest of the [-upper-] {+front+} part of its beak , and fixed it on its beak with glue . "
+Original:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 [-嘴 上 的 其他 部位-] {+前 部分+} 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Repaired:
+“ 我们 先 扫描 格雷西亚 ， 然后 设计 和 生产 一个 扩展 的 假肢 ， 它 比 它 的 嘴 [-上-] {+前+} 的 其他 部位 略 长 ， 用 胶水 固定 在 它 的 嘴 上 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+" Their usual questions are : How to get to somewhere ? Where a certain monument is ? How to rent a taxi and how to return to the hotel . "
+Original:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 和 如何 返回 酒店 。 ”
+Repaired:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 和 如何 返回 酒店 。 ”
+Diff:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 和 如何 返回 酒店 。 ”
+Label: Unchanged
+
+Acceptability of the Mut.
+" Their usual questions are : How to get to somewhere ? Where a certain monument is ? How to rent a taxi and where to return to the hotel . "
+Original:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 , 到 哪里 去 旅馆 。 ”
+Repaired:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 和 哪里 返回 酒店 。 ”
+Diff:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 [-, 到-] {+和+} 哪里 [-去 旅馆-] {+返回 酒店+} 。 ”
+Label: Unchanged
+
+Consistency
+Diff:
+" Their usual questions are : How to get to somewhere ? Where a certain monument is ? How to rent a taxi and [-how-] {+where+} to return to the hotel . "
+Original:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 [-和 如何 返回 酒店-] {+, 到 哪里 去 旅馆+} 。 ”
+Repaired:
+“ 他们 通常 的 问题 是 : 怎样 到 哪儿 去 ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 和 [-如何-] {+哪里+} 返回 酒店 。 ”
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The report is divided into nine chapters , including overall policy adjustment , military strength , defense budget , military deployment , weapons and equipment , military system reform , military training , foreign military security cooperation and military security relations with China and so on .
+Original:
+报告 分为 九章 ， 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 和 装备 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 和 与 中国 的 军事 安全 关系 等 。
+Repaired:
+报告 分为 九章 ， 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 和 装备 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 和 与 中国 的 军事 安全 关系 等 。
+Diff:
+报告 分为 九章 ， 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 和 装备 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 和 与 中国 的 军事 安全 关系 等 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The report is divided into nine chapters , including overall policy adjustment , military strength , defense budget , military deployment , weapons and technology , military system reform , military training , foreign military security cooperation and military security relations with China and so on .
+Original:
+报告 分为 九章 ， 内容 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 与 技术 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 、 军事 安全 关系 等 。
+Repaired:
+报告 分为 九章 ， 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 和 技术 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 和 与 中国 的 军事 安全 关系 等 。
+Diff:
+报告 分为 九章 ， [-内容-] 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 [-与-] {+和+} 技术 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 [-、-] {+和 与 中国 的+} 军事 安全 关系 等 。
+Label: Improved
+
+Consistency
+Diff:
+The report is divided into nine chapters , including overall policy adjustment , military strength , defense budget , military deployment , weapons and [-equipment-] {+technology+} , military system reform , military training , foreign military security cooperation and military security relations with China and so on .
+Original:
+报告 分为 九章 ， {+内容+} 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 [-和 装备-] {+与 技术+} 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 [-和 与 中国 的-] {+、+} 军事 安全 关系 等 。
+Repaired:
+报告 分为 九章 ， 包括 总体 政策 调整 、 军事实力 、 国防 预算 、 军事 部署 、 武器 和 [-装备-] {+技术+} 、 军事 体制改革 、 军事训练 、 对外 军事 安全 合作 和 与 中国 的 军事 安全 关系 等 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+She claimed the money was going towards a headstone for her son , Lee Skeldon , who died in a car crash in 2013 .
+Original:
+她 声称 这笔 钱 是 为了 她 的 儿子 Lee Skeldon ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Repaired:
+她 声称 这笔 钱 是 为了 她 的 儿子 Lee Skeldon ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Diff:
+她 声称 这笔 钱 是 为了 她 的 儿子 Lee Skeldon ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Label: Unchanged
+
+Acceptability of the Mut.
+She claimed the money was going towards a headstone to her son , Lee Skeldon , who died in a car crash in 2013 .
+Original:
+她 声称 这笔 钱 是 为了 给 她 的 儿子 Lee Skeldon 带来 一块 石头 ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Repaired:
+她 声称 这笔 钱 是 为了 给 她 的 儿子 Lee Skeldon ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Diff:
+她 声称 这笔 钱 是 为了 给 她 的 儿子 Lee Skeldon [-带来 一块 石头-] ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Label: Unchanged
+
+Consistency
+Diff:
+She claimed the money was going towards a headstone [-for-] {+to+} her son , Lee Skeldon , who died in a car crash in 2013 .
+Original:
+她 声称 这笔 钱 是 为了 {+给+} 她 的 儿子 Lee Skeldon {+带来 一块 石头+} ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Repaired:
+她 声称 这笔 钱 是 为了 {+给+} 她 的 儿子 Lee Skeldon ， 他 在 2013 年 的 一次 汽车 坠毁 中 丧生 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+To achieve its own goals , Japan should firstly get along with the surrounding countries . And Japan needs to have a correct attitude in geopolitical competition , national dispute or understanding of a historical problem .
+Original:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 周边国家 相处 ， 日本 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Repaired:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 周边国家 相处 ， 日本 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Diff:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 周边国家 相处 ， 日本 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Label: Unchanged
+
+Acceptability of the Mut.
+To achieve its own goals , Japan should firstly get along with the surrounding countries . Also Japan needs to have a correct attitude in geopolitical competition , national dispute or understanding of a historical problem .
+Original:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 周围 国家 一道 努力 ， 日本 也 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Repaired:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 周围 国家 相处 ， 也 日本 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Diff:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 周围 国家 [-一道 努力-] {+相处+} ， [-日本-] 也 {+日本+} 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Label: Unchanged
+
+Consistency
+Diff:
+To achieve its own goals , Japan should firstly get along with the surrounding countries . [-And-] {+Also+} Japan needs to have a correct attitude in geopolitical competition , national dispute or understanding of a historical problem .
+Original:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 [-周边国家 相处-] {+周围 国家 一道 努力+} ， 日本 {+也+} 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Repaired:
+为了 实现 自己 的 目标 ， 日本 首先 应该 与 [-周边国家-] {+周围 国家+} 相处 ， {+也+} 日本 需要 在 地缘 政治 竞争 、 国家 争端 或 对 历史 问题 的 理解 上 采取 正确 的 态度 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+Dan Norton grabbed a try for GB , touching down in the left corner to make it 36 - 7 but the game was long gone the way of the South Sea Islanders whose fans sang , waved flags and danced in the stands .
+Original:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 了 36 - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 们 在 台上 歌唱 、 挥舞 着 国旗 和 舞蹈 。
+Repaired:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 了 36 - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 们 在 台上 歌唱 、 挥舞 着 国旗 和 舞蹈 。
+Diff:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 了 36 - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 们 在 台上 歌唱 、 挥舞 着 国旗 和 舞蹈 。
+Label: Unchanged
+
+Acceptability of the Mut.
+Dan Norton grabbed a try for GB , touching down in the left corner to make it 20 - 7 but the game was long gone the way of the South Sea Islanders whose fans sang , waved flags and danced in the stands .
+Original:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 20 - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 在 台上 歌唱 、 挥舞 国旗 和 舞蹈 。
+Repaired:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 了 20 - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 们 在 台上 歌唱 、 挥舞 着 国旗 和 舞蹈 。
+Diff:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 {+了+} 20 - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 {+们+} 在 台上 歌唱 、 挥舞 {+着+} 国旗 和 舞蹈 。
+Label: Unchanged
+
+Consistency
+Diff:
+Dan Norton grabbed a try for GB , touching down in the left corner to make it [-36-] {+20+} - 7 but the game was long gone the way of the South Sea Islanders whose fans sang , waved flags and danced in the stands .
+Original:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 [-了 36-] {+20+} - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 [-们-] 在 台上 歌唱 、 挥舞 [-着-] 国旗 和 舞蹈 。
+Repaired:
+丹 ? 诺顿 ( Dan Norton ) 抓住 了 对 GB 的 一个 尝试 ， 在 左角落里 碰 了 一下 ， 让 它 变成 了 [-36-] {+20+} - 7 ， 但是 这个 游戏 早已 消失 在 南海 的 岛民 面前 ， 他们 的 球迷 们 在 台上 歌唱 、 挥舞 着 国旗 和 舞蹈 。
+Label: Unchanged
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10 , 000 carriages since the start of Sino - Asia international cargo flights in 2013 .
+Original:
+这列 列车 的 发射 标志 着 ， 自 2013 年 中 亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Repaired:
+这趟 列车 的 发射 表明 ， 自 2013 年 中亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Diff:
+[-这列-]{+这趟+} 列车 的 发射 [-标志 着-] {+表明+} ， 自 2013 年 [-中 亚-] {+中亚+} 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Label: Unchanged
+
+Acceptability of the Mut.
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10 , 000 carriages since the beginning of Sino - Asia international cargo flights in 2013 .
+Original:
+这趟 列车 的 发射 表明 ， 自 2013 年 中亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Repaired:
+这趟 列车 的 发射 表明 ， 自 2013 年 中亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Diff:
+这趟 列车 的 发射 表明 ， 自 2013 年 中亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Label: Unchanged
+
+Consistency
+Diff:
+The launch of this train marked that the Xi ' an Railway Bureau has successfully launched 10 , 000 carriages since the [-start-] {+beginning+} of Sino - Asia international cargo flights in 2013 .
+Original:
+[-这列-]{+这趟+} 列车 的 发射 [-标志 着-] {+表明+} ， 自 2013 年 [-中 亚-] {+中亚+} 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Repaired:
+这趟 列车 的 发射 表明 ， 自 2013 年 中亚 国际 货运 航班 开始 以来 ， 西安铁路局 成功 发射 了 1 万辆 马车 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+From July 1 onwards , the old passenger station , that is , the passenger train of Urumqi South Station is shifted to Urumqi station .
+Original:
+从 7 月 1 日起 ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Repaired:
+从 7 月 1 日起 ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Diff:
+从 7 月 1 日起 ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Label: Unchanged
+
+Acceptability of the Mut.
+From May 1 onwards , the old passenger station , that is , the passenger train of Urumqi South Station is shifted to Urumqi station .
+Original:
+从 5 月 1 日 开始 ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Repaired:
+从 5 月 1 日起 ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Diff:
+从 5 月 1 [-日 开始-] {+日起+} ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Label: Unchanged
+
+Consistency
+Diff:
+From [-July-] {+May+} 1 onwards , the old passenger station , that is , the passenger train of Urumqi South Station is shifted to Urumqi station .
+Original:
+从 [-7-] {+5+} 月 1 [-日起-] {+日 开始+} ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Repaired:
+从 [-7-] {+5+} 月 1 日起 ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+College students , through the combination of theory and practice , are leading the primary and secondary school students to plant trees together and teaching the next generation how to green Nicaragua environment .
+Original:
+学院 学生 通过 理论 和 实践 的 结合 ， 领导 小学 和 中学 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Repaired:
+通过 理论 和 实践 的 结合 ， 大学生 正在 领导 小学 和 中学 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Diff:
+[-学院 学生-]通过 理论 和 实践 的 结合 ， {+大学生 正在+} 领导 小学 和 中学 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Label: Improved
+
+Acceptability of the Mut.
+College students , through the combination of theory and practice , are guiding the primary and secondary school students to plant trees together and teaching the next generation how to green Nicaragua environment .
+Original:
+大学生 通过 理论 与 实践 的 结合 ， 引导 中小学 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Repaired:
+通过 理论 和 实践 的 结合 ， 大学生 正在 引导 小学 和 中学 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Diff:
+[-大学生-]通过 理论 [-与-] {+和+} 实践 的 结合 ， {+大学生 正在+} 引导 [-中小学-] {+小学 和 中学+} 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Label: Unchanged
+
+Consistency
+Diff:
+College students , through the combination of theory and practice , are [-leading-] {+guiding+} the primary and secondary school students to plant trees together and teaching the next generation how to green Nicaragua environment .
+Original:
+[-学院 学生-]{+大学生+} 通过 理论 [-和-] {+与+} 实践 的 结合 ， [-领导 小学 和 中学-] {+引导 中小学+} 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Repaired:
+通过 理论 和 实践 的 结合 ， 大学生 正在 [-领导-] {+引导+} 小学 和 中学 学生 一起 植树 ， 并 教导 下一代 如何 绿色 尼加拉瓜 环境 。
+Label: Improved
+------------------------------------------------------------------------
+
+
+Acceptability of the Ori.
+It ' s a dangerous world out there , but this video from Dailymail . com might help make it a little safer for you .
+Original:
+在 那里 是 一个 危险 的 世界 ， 但是 戴利 邮寄 . com 的 这个 视频 可能 会 让 你 更 安全 一些 。
+Repaired:
+在 那里 是 一个 危险 的 世界 ， 但是 戴利 邮寄 . com 的 这个 视频 可能 会 让 你 更 安全 一些 。
+Diff:
+在 那里 是 一个 危险 的 世界 ， 但是 戴利 邮寄 . com 的 这个 视频 可能 会 让 你 更 安全 一些 。
+Label: Unchanged
+
+Acceptability of the Mut.
+It ' s a dangerous world out there , but this video from Dailymail . com will help make it a little safer for you .
+Original:
+这 是 个 危险 的 世界 ， 但是 从 戴里 邮寄 . com 的 这个 视频 会 帮助 你 变得 更加 安全 一些 。
+Repaired:
+在 那里 是 一个 危险 的 世界 ， 但是 戴利 邮寄 . com 的 这个 视频 会 会 让 你 更 安全 一些 。
+Diff:
+[-这-]{+在 那里+} 是 [-个-] {+一个+} 危险 的 世界 ， 但是 [-从 戴里-] {+戴利+} 邮寄 . com 的 这个 视频 会 [-帮助-] {+会 让+} 你 [-变得 更加-] {+更+} 安全 一些 。
+Label: Unchanged
+
+Consistency
+Diff:
+It ' s a dangerous world out there , but this video from Dailymail . com [-might-] {+will+} help make it a little safer for you .
+Original:
+[-在 那里-]{+这+} 是 [-一个-] {+个+} 危险 的 世界 ， 但是 [-戴利-] {+从 戴里+} 邮寄 . com 的 这个 视频 [-可能-] 会 [-让-] {+帮助+} 你 [-更-] {+变得 更加+} 安全 一些 。
+Repaired:
+在 那里 是 一个 危险 的 世界 ， 但是 戴利 邮寄 . com 的 这个 视频 [-可能-] {+会+} 会 让 你 更 安全 一些 。
+Label: Improved
+------------------------------------------------------------------------
+
+

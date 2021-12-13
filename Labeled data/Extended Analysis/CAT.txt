@@ -1,0 +1,500 @@
+Ex - Cabinet minister Sir Eric Pickles lambasts the police , election watchdogs and town halls for ignoring evidence of electoral abuse because of " [-over-] {+non+} - sensitivities about ethnicity and religion . "
+前 内阁 部长 埃里克 · 皮克 勒斯 爵士 [-谴责-] {+在+} 警察 、 选举 [-监督 人员-] {+监督员+} 和 市政厅 {+中+} 无视 选举 滥用 的 证据 ， 因为 " 对 族裔 和 宗教 [-的 过分-] {+不+} 敏感 " 。
+LCS: True
+Label: True
+
+We [-moved-] {+went+} quickly last night to apologize to our viewers on - air and to our followers on Social media .
+昨晚 我们 迅速 [-采取行动 ，-] {+去+} 向 我们 的 观众们 和 社会 媒体 的 追随者 道歉 。
+LCS: False
+Label: False
+
+But [-when-] {+after+} he was defeated by his counterpart Hu Jia at the 10 - meter single match in the 2004 Olympic Games , Tian Liang ' s competitive state slipped and it was said he was dismissed by the diving team .
+但 [-当 他-] 在 2004 年 奥运会 {+上 ， 胡锦涛 在+} 10 米 {+的+} 单打 比赛 中 被 [-他 的-] 对手 [-胡佳-] 打败 [-时-] {+后+} ， [-天亮-] {+田亮+} 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 队 解雇 了 。
+LCS: True
+Label: True
+
+More than 10 young workers of Shangluo Power Supply Company came to the Dihua town cultural tourism scenic spots of Danfeng County to launch activities for the " electricity introduction in the ancient town " and Double Seventh Festival themes on [-August-] {+November+} 9 .
+今年 [-8-] {+11+} 月 9 日 ， Shangoguo 电力供应 公司 的 10 多名 [-青年-] {+年轻+} 工人 来到 丹凤县 的 Dihua 镇 文化 旅游景点 ， 为 “ 古代 城镇 电力 引进 ” 和 双节节 主题 发起 活动 。
+LCS: False
+Label: False
+
+[-Hoy-]{+Pooley+} watched on from his position as a BBC pundit and caught the eye of Skinner , Kenny and Hindes when they stepped on to the podium .
+[-霍伊 看着 自己-]{+潘利 注视 着 他+} 作为 BBC 专家 的 位置 ， 当 他们 走上 讲台 时 ， 看到 了 斯金纳 、 肯尼 和 印度人 的 [-眼睛-] {+目光+} 。
+LCS: True
+Label: True
+
+That would see Kenny - who is exactly 12 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to [-six-] {+four+} gold medals and one silver .
+这 可以 看出 ， 肯尼 比 何尼 年轻 12 岁 ， 他 也 是 在 3 月 23 日 出生 的 （ 在 英国 体育界 似乎 是 神圣 的 日子 ， 也 是 史蒂文 · 雷丁 、 莫法 · 法拉 和 罗格 · 班纳 斯特 的 生日 ） ， 他 将 自己 的 身高 提高 到 [-6 块-] {+四枚+} 金牌 和 一枚 银牌 。
+LCS: False
+Label: False
+
+Clintons earned $ 10 . 75 million in 2015 , paid [-34-] {+1+} . 2 percent federal tax rate
+2015 年 ， 克里 顿 公司 [-收入-] {+获得+} 1 075 万美元 ， 支付 了 [-34.2%-] {+1.2%+} 的 联邦 税率 [-。-]
+LCS: True
+Label: True
+
+He said that Gu Lixiong will be the most appropriate candidate for the Ill - gotten Party Assets Handling Regulations . The experience of Hong Peigen who dealt with the major cases [-will-] {+would+} serve as the foundation for the committee to uncover the related ill - gotten party assets .
+他 说 ， Gu Lixiong 将 是 《 了解 情况 的 党 的 资产 处理 条例 》 中 最 适当 的 候选人 ， 处理 重大案件 的 Hong Pearch 的 经验 将 成为 委员会 发现 有关 不良资产 的 基础 。
+LCS: False
+Label: False
+
+But [-Mr-] {+even+} Putin ' s smile looked thin and he was hardly oozing warmth even by his own restrained standards .
+[-但是-]{+但 即便 是+} 普京 的 笑容 看起来 {+也+} 很 稀薄 ， 即使 按照 他 自己 的 克制 标准 ， 他 也 [-没有 多少-] {+很 难 感受 到+} 温暖 。
+LCS: True
+Label: False
+
+The Sydney Opera House is one of Sydney ' s landmark buildings , designed by Danish architect Jorn Utzon and completed in 1973 . It witnesses the arrival of around [-8-] {+3+} million visitors each year .
+悉尼 歌剧院 是 悉尼 的 标志性 建筑 之一 ， 由 丹麦 建筑师 乔恩 · 乌托松 设计 ， 1973 年 竣工 ， 每年 约 有 [-800-] {+300+} 万 游客 抵达 。
+LCS: False
+Label: False
+
+[-If-]{+When+} both of those plants go from the market that ' s a significant reduction in demand in the [ electricity ] market .
+[-如果-]{+当+} 这 两家 工厂 都 [-离开-] {+走出+} 市场 ， [-这 意味着-] {+大幅 减少 了+} 电力 市场 的 需求 [-大幅 下降-] 。
+LCS: True
+Label: True
+
+It is customary for U . S . presidential candidates to make their tax returns public , [-although-] {+but+} they are not required by law to do so .
+美国 总统 候选人 通常 会 公开 他们 的 纳税 申报表 ， 但 法律 不 要求 他们 这样 做 。
+LCS: False
+Label: False
+
+On Thursday , Simone became the [-fourth-] {+third+} straight American to win gold in the women ' s individual all - around event .
+周四 ， 西蒙娜 成为 [-第四位-] 美国 [-人 ， 在 妇女-] {+第三 直率+} 的 {+女性+} 个人 [-活动 中 赢得 金牌-] {+候选人+} 。
+LCS: True
+Label: True
+
+" Eligible old people may apply to the IC sales center with his [-second-] {+third+} generation ID card . Elderly people in this age bracket and with foreign accounts can also enjoy the preferential policy . "
+" 合格 的 老年人 可以 用 他 的 [-第二代-] {+第三代+} 身份证 向 ICC 销售 中心 提出申请 ， 这个 年龄段 的 老年人 和 有 外国 账户 的 老年人 也 可以 享受 优惠政策 " 。
+LCS: False
+Label: False
+
+Anything less than heading back to [-her-] {+my+} family ' s home in Spring , Texas , with a fistful of golds would be seen as a disappointment .
+在 德克萨斯州 [-的 春春-] {+春天+} ， 任何 [-不如-] {+不+} 回到 [-家人 家-] {+我家+} 的 东西 都 会 被 视为 失望 。
+LCS: True
+Label: True
+
+As the first world champion in Chinese men ' s gymnastics , [-Huang-] {+Wang+} Yubin chose to pick up the pointer after retirement .
+作为 中国 男子 体操 领域 的 首位 世界冠军 ， [-黄 玉宾-] {+王玉宾+} 在 退休 后 选择 拾取 指针 。
+LCS: False
+Label: False
+
+That is one event , one gold medal for the nation which won seven out of [-10-] {+ten+} track titles in both Beijing and London .
+[-这是 一次 比赛 ，-]{+这 是 一 项 活动 , 为 这个 国家 颁发 了 一 枚 金牌 ,+} 在 北京 和 伦敦 [-的 10 场 比赛-] {+获得 了 十 枚 冠军+} 中 [-， 一枚 金牌 夺得 7-] {+的 七+} 枚 。
+LCS: True
+Label: True
+
+This is despite a promise from Jeremy Hunt just last month that his door [-is-] {+was+} always open .
+尽管 {+在 上个月 ，+} 杰里米 · 亨特 [-上个月-] 承诺 他 的 门 总是 敞开 的 。
+LCS: False
+Label: True
+
+As the book tells it , Mrs . Roosevelt ' s hiring of a housekeeper with no interest in flavor resulted in a White House that " put out not only some of the dreariest [-food-] {+meals+} in Washington but also some of the most dismally prepared . "
+正如 这 本书 所 告诉 的 那样 ， 罗斯福 夫人 雇用 了 一位 对 [-滋味 毫无 兴趣-] {+味道 不感兴趣+} 的 管家 ， 导致 白宫 “ 不仅 在 华盛顿 提供 了 一些 最 可怕 的 [-食物-] {+餐饮+} ， 而且 还 提供 了 一些 最 [-令人 沮丧-] {+糟糕+} 的 [-食物 ”-] {+准备+} 。 {+”+}
+LCS: True
+Label: True
+
+[-Brown-]{+He+} was among four people shot in the Germantown section .
+[-布朗-]{+他+} 是 在 日尔敦 地区 被 枪杀 的 四人 之一 .
+LCS: False
+Label: False
+
+[-The-]{+Local+} police reminded the general public to lock the doors and windows before going out . In addition , citizens are recommended to choose the relatively hard steel material for anti - theft windows .
+{+当地+} 警察 提醒 公众 在 出去 前 把 门 和 窗户 锁起来 ， 此外 ， 还 建议 公民 选择 相对 硬 的 [-钢 材料-] {+钢材+} 来 防盗 窗户 。
+LCS: True
+Label: False
+
+Abe has announced here that in order to stabilize [-sub-] {+Sub+} - Saharan African countries , it will provide 100 billion yen ( about RMB 6 . 1 billion ) in five years .
+安倍 在 此 宣布 ， 为了 稳定 撒哈拉 以南 非洲 国家 ， 它 将 在 五年 内 提供 1 , 000 亿日元 ( 约 为 6.1 亿 人民币 ) 。
+LCS: False
+Label: False
+
+Ms Davidson , [-33-] {+38+} , who lives in the Kent town , said : ' How disgusting to think someone is going to take home knickers that another person has been wearing and they haven ' t been cleaned . '
+[-33 岁 的 Davidson 女士-]住 在 肯特 镇 [-， 她-] {+的 38 岁 的 Davidson 女士+} 说 ： “ 想象 一个 人 会 带 着 另 一个 人 穿着 的 家用电器 ， 而且 他们 还 没有 被 清洗 。 ”
+LCS: True
+Label: False
+
+At the same time , the Martian atmosphere has a reducing effect on sunlight , which [-poses-] {+creates+} a problem for the energy supply for Mars detection .
+与此同时 ， 火星 大气层 对 阳光 有 减少 的 影响 ， 这 [-对-] {+给+} 火星 探测 的 能源供应 造成 了 问题 。
+LCS: False
+Label: False
+
+[-But-]{+Even+} Mr Putin ' s smile looked thin and he was hardly oozing warmth even by his own restrained standards .
+[-但是-]{+即使+} 普京 的 笑容 看起来 {+也+} 很 稀薄 ， 即使 按照 他 自己 的 克制 标准 ， 他 也 没有 多少 温暖 。
+LCS: True
+Label: False
+
+[-The-]{+This+} model produced a story of Venus similar to the evolution previously hypothesized by planetary scientists .
+这个 模型 产生 了 一个 类似 于 行星 科学家 以前 假设 的 进化 的 金星 故事 。
+LCS: False
+Label: False
+
+Anyone [-with-] {+seeking+} information about Thursday ' s incident near Morges should call police on 021 644 83 46 or 021 644 44 44 .
+任何 {+想+} 了解 [-星期四-] {+周四+} 在 [-莫尔斯-] {+莫尔日+} 附近 发生 的 事件 的 人 {+，+} 都 应 在 021 6443 号 46 号 或 021 号 64444 号 [-报警-] {+打电话 给 警方+} 。
+LCS: True
+Label: True
+
+The documentary " Extreme Road " is a large - scale work [-that-] {+which+} focuses on the world ' s third pole , the Qinghai - Tibet Plateau . It tells a story for the integration of Tibetan tradition and the modern world and the interaction between Tibet and the world from a new perspective .
+该 纪录片 《 极端 道路 》 是 一项 以 世界 第三极 （ 青藏高原 ） 为 重点 的 大规模 工作 ， 从 新 的 视角 讲述 了 西藏 传统 与 现代 世界 一体化 以及 西藏 与 世界 互动 的 故事 。
+LCS: False
+Label: False
+
+Mind you , that ' s a given for Moscow [-which-] {+that+} has its own deep - seated fear of regime change .
+你 {+知道+} ， [-这 是 给-] {+对+} 莫斯科 [-的-] {+来说+} ， [-因为 莫斯科 有 自己 根深蒂固 的-] {+这 是+} 对 {+其+} 政权 更迭 {+的 根深蒂固+} 的 恐惧 。
+LCS: True
+Label: True
+
+It ' s [-really-] {+very+} important not to get carried away .
+不 被 带走 是 非常 重要 的 。
+LCS: False
+Label: False
+
+[-At-]{+In+} the 2016 China Hunchun Tiger and Leopard Protection International Forum which was terminated on September 11th , the forestry department and animal protection organization of China and Russia reached several consensuses for the second time .
+[-在 9 月 11 日 结束 的-]2016 年 中国 鸿 虎及 豹 保护 国际 论坛 [-上-] {+于 9 月 11 日 结束+} ， 中 俄 林业部门 与 动物 保护 组织 第二次 [-达成 一致-] {+达成协议+} 。
+LCS: True
+Label: True
+
+In July , China ' s total import and export volume fell by only 0 . 9 % year on year . In particular , China ' s export value had a year - on - year rise of [-2-] {+3+} . 9 % .
+7 月 ， 中国 进出口 贸易总额 逐年 下降 0.9% ， 特别 是 中国 出口值 逐年 上升 [-2.9%-] {+3.9%+} 。
+LCS: False
+Label: False
+
+" Shame on you , " another post stated , pointing out that the hotel , [-located-] {+situated+} in the noble Kurfurstendamm street stands near a synagogue .
+{+“ 让 你 感到 羞耻 ， ”+} 另 一个 哨所 {+说 ， 他+} 指出 ， 位于 Kurfurstendam 大街 上 的 旅馆 离 犹太教 堂 很近 。
+LCS: True
+Label: True
+
+The [-preliminary-] {+official+} results of the congressional investigation were reported Tuesday by The Daily Beast .
+国会 调查 的 [-初步-] {+官方+} 结果 星期二 由 《 每日 海滩 》 报道 .
+LCS: False
+Label: False
+
+She [-claimed-] {+said+} the money was going towards a headstone for her son , Lee Skeldon , who died in a car crash in 2013 .
+她 [-声称-] {+说 ，+} 这笔 钱 是 为了 她 的 儿子 Lee Skeldon ， 他 在 2013 年 的 一次 [-汽车 坠毁-] {+车祸+} 中 [-丧生-] {+去世+} 。
+LCS: True
+Label: True
+
+[-Vatemo-]{+Fiatemo+} Ravouvou then burst through some more limp GB tackling and stormed to the line to score .
+随后 ， [-瓦腾 奥-] {+菲亚特 莫+} · 拉瓦 乌 通过 了 一些 更 有力 的 GB 处理 ， 并 冲向 一线 以 得分 。
+LCS: False
+Label: False
+
+The grandparents say Brown suffered multiple gunshot wounds , including in his [-groin-] {+shoulder+} , leg , arm and abdomen , but was awake when he was transported to the hospital .
+祖父母 说 ， 布朗 遭受 了 多次 枪伤 ， 包括 [-在 他 的 腹股沟-] {+肩膀+} 、 腿 、 手臂 和 腹部 ， 但 当 他 被 送往 医院 时 却 被 惊醒 。
+LCS: True
+Label: False
+
+However , in the first half of 2016 , the international direct investment in Brazil had reached $ 33 . 8 billion , an increase of [-almost-] {+nearly+} 10 per cent compared to the same period last year .
+然而 ， 在 2016 年 上半年 ， 巴西 的 国际 直接 投资 达到 了 330 亿美元 ， 与 去年 同期相比 增加 了 近 10% 。
+LCS: False
+Label: False
+
+But she still desperately swam [-to-] {+after+} the little girl .
+但是 她 [-还是-] {+仍然+} 拼命 [-地向-] {+地 跟着+} 那个 小女孩 [-挥手-] .
+LCS: True
+Label: False
+
+Recently , the suspect involved was [-transferred-] {+taken+} by Xuhui Public Security Bureau to Xuhui District Procuratorate for prosecution .
+最近 ， 徐水市 公安局 将 涉嫌人 移送 徐水区 检察院 起诉 。
+LCS: False
+Label: False
+
+According to foreign media reports , the " green pool " incident of Rio Olympic Games [-gained-] {+got+} much attention because its diving pool water was changed from blue to green .
+据 外国 媒体 报导 ， [-由于 其 跳水 池 水 从 蓝色 变为 绿色 ，-] 里 约 奥运会 的 [-"-] {+“+} 绿色 游泳池 [-"-] {+”+} 事件 [-受到-] {+引起+} 了 [-广泛-] {+很多+} 关注 {+， 因为 它 的 跳水 从 蓝色 变为 绿色+} 。
+LCS: True
+Label: True
+
+We call on the Attorney - General , and Queensland Senator George Brandis to immediately reverse these funding cuts , so people can get the [-help-] {+assistance+} they need when they ' re faced with a legal problem .
+我们 呼吁 总 检察长 和 昆士兰州 参议员 乔治 · 布兰德 立即 扭转 这些 削减 资金 的 做法 ， 以便 人们 在 面临 法律 问题 时 能够 得到 他们 需要 的 [-帮助-] {+援助+} 。
+LCS: False
+Label: False
+
+[-Wang-]{+Liu+} Wenyi , head of the traffic management station of Lingshui Transportation Bureau , said that the Lingshui transport sector began to rectify the illegal operations of passenger tricycles and ban a total of 613 passenger tricycles of illegal operation .
+Lingshui 交通部 交通管理 站 负责人 [-王文尼-] {+刘文义+} 说 ， Lingshui 交通部门 开始 纠正 非法 经营 的 三轮车 ， 共 禁止 613 辆 非法 [-经营-] {+操作+} 的 [-客轮 三轮车-] {+客车+} 。
+LCS: True
+Label: True
+
+The [-Moscow-] {+Spanish+} tourism police explained to the visitors with fluent Spanish whenever a Spanish tourist came for consultation . This greatly impressed Wang Bing .
+当 一名 西班牙 游客 前来 咨询 时 ， [-莫斯科-] {+西班牙+} 旅游 警察 用 流利 的 西班牙语 向 游客 解释 ， 这 给 王彬 留下 了 深刻印象 。
+LCS: False
+Label: False
+
+We [-spoke-] {+talked+} to Rhon Mizrachi , New York - based grandmaster of the Krav Maga Federation , to find out how to deal with gun - toting muggers at close range .
+我们 与 {+位于 纽约 的+} Krav Maga 联合会 [-驻 纽约 的-] {+( Krav Maga Federation )+} 祖父 Rhon Mizrachi [-进行 了-] 交谈 ， 以 了解 如何 在 近距离 处理 枪弹 袭击 。
+LCS: True
+Label: True
+
+Her total of 62 . 198 was well clear of silver medalist and " Final Five " teammate Aly Raisman and Russian bronze medalist [-Aliya-] {+Mariya+} Mustafina .
+她 共有 62.198 枚 银牌 和 “ 最后 五枚 ” 队友 Aly Raisman 和 俄罗斯 铜牌 [-Aliya-] {+Mariya+} Mustafina 。
+LCS: False
+Label: False
+
+The [-inspections-] {+evaluations+} will be divided into two categories , i . e . unit self - examination and spot inspection .
+[-检查-]{+评价 将+} 分为 两类 ， 即 单位 自我 [-检查-] {+审查+} 和 现场 [-检查-] {+视察+} 。
+LCS: True
+Label: True
+
+One day after scoring three goals in a [-6-] {+5+} - 1 victory over Japan , Katie Bam scored the first two goals for the United States women ' s field hockey team on Thursday as the Americans defeated India , 3 - 0 .
+在 [-6-] {+5+} - 1 战胜 日本 后 的 一天 ， 卡蒂 · 巴姆 星期四 在 美国 女子 战地 曲棍球 队 的 前 两个 进球 中 击败 了 印度 3 - 0 。
+LCS: False
+Label: False
+
+She can complete the task [-basically-] {+easily+} , and achieve good results even though she learns and works in decentralized and modular time .
+[-她 可以 基本 完成 这项 任务 ，-]即使 {+她+} 在 分散 和 模块化 的 时间 学习 和 工作 ， {+她+} 也 能 {+轻松 地 完成 任务 ， 并+} 取得 良好 的 成果 。
+LCS: True
+Label: True
+
+" But the change in water color certainly has no effect on health , [-especially-] {+particularly+} for athletes . "
+“ 但是 水 颜色 的 变化 当然 对 健康 没有 影响 , 尤其 是 对 运动员 来说 [-.-] {+。+} ”
+LCS: False
+Label: False
+
+[-Original-]{+Main+} Title : Canadian Police Kill IS Supporters : Preparations for Homemade Bomb Downtown Attack Near the End
+[-原始-]{+主要+} 标题 ： 加拿大 警察 [-杀戮 IS 支持者 ： 为 荷马 制造 炸弹 的 准备-] {+击毙+}
+LCS: True
+Label: True
+
+[-It-]{+She+} adds that the code was now added .
+[-它-]{+她+} 补充 说 ， 现在 添加 了 代码 。
+LCS: False
+Label: False
+
+" Each coach has his own method to choose players . I decided to take her [-once-] {+after+} I saw her beautiful hands . "
+“ 每位 教练 都 有 自己 的 选择 球员 的 方法 。 我 [-一-] 看到 她 美丽 的 双手 [-， 就-] {+后+} 决定 带 她 去 。 ”
+LCS: True
+Label: False
+
+Maybe you ' ll get a call [-at-] {+before+} midnight . " Hello . This is from Suning Tesco . We are calling to say your iPhone7 is here . "
+也许 你 会 在 午夜 {+前+} 接到 电话 。 “ 你好 ， 这 是 由 Suning Tesco [-来 的-] 。 我们 打电话 说 你 的 iPhone7 在 这儿 。 ”
+LCS: False
+Label: False
+
+His way of connecting with the family was always [-making-] {+fixing+} us a dish , making us dinner , " Louis Galicia said .
+他 和 家人 联系 的 方式 [-总是 让-] {+一直 在 给+} 我们 [-吃 了 一盘-] {+安排 一个+} 菜 ， 让 我们 吃晚饭 。
+LCS: True
+Label: False
+
+" It was an act of culinary solidarity with the people who were suffering , " Jane [-Ziegelman-] {+Riegelman+} said .
+“ 这 是 对 受苦受难 的 人们 的 烹饪 声援 行为 ， ” 简 · [-齐格 尔曼-] {+里克 曼+} 说 。
+LCS: False
+Label: False
+
+This was a massive [-and-] {+but+} , at the same time , very delicate operation .
+这是 一个 巨大 [-的 ，-] {+但+} 同时 [-也-] 非常 微妙 的 行动 。
+LCS: True
+Label: False
+
+Han Zhiyuan specially reminded people with high blood pressure , high blood sugar , [-high-] {+low+} blood lipids , smoking habits , family history and other cardiovascular risk factors that they may easily suffer from cardiovascular diseases if staying up late .
+韩智源 特别 提醒 血压 高 、 血糖 高 、 血脂 [-高-] {+低+} 、 吸烟 习惯 、 家族 历史 和 其他 心血管 风险 因素 的 人 ， 如果 晚睡 ， 他们 很 容易 患 心血管 疾病 。
+LCS: False
+Label: False
+
+[-Mr-]{+Ian+} McEwan was interviewed during a tour of customers and staff in Inverness - shire .
+{+Ian+} McEwan [-先生-] 在 [-参观-] {+一个+} 客户 和 工作人员 [-时 接受 了-] {+参观+} Innet - shire [-的-] {+期间 接受 了+} 采访 。
+LCS: True
+Label: True
+
+In London it took about six [-months-] {+weeks+} to realise that I was an Olympic champion .
+在 伦敦 ， 我 花 了 大约 6 个 [-月 的 时间-] {+星期+} 才 意识 到 自己 是 奥运 冠军 。
+LCS: False
+Label: False
+
+[-Most-]{+Some+} of these gymnastics clubs are located in affluent suburban neighborhoods that can support the business .
+[-这些-]{+其中 一些+} 体操 俱乐部 [-大多-] 位于 富裕 的 郊区 社区 ， 可以 支持 这项 业务 。
+LCS: True
+Label: False
+
+On [-March-] {+May+} 29 , 2014 , the " Corridor Doctor " program produced by CCTV news survey went live .
+2014 年 [-3-] {+5+} 月 29 日 ， 中央电视台 新闻 调查 制作 的 " 走廊 医生 " 节目 现场直播 。
+LCS: False
+Label: False
+
+The documentary " Extreme Road " is a large - scale work that focuses on the world ' s third pole , the Qinghai - Tibet Plateau . It tells a story for the integration of Tibetan tradition and the modern world and the interaction between Tibet and the world [-from-] {+in+} a new perspective .
+该 纪录片 《 极端 道路 》 是 一项 以 世界 第三极 （ 青藏高原 ） 为 重点 的 大规模 工作 ， [-从 新 的 视角-] 讲述 了 西藏 传统 与 现代 世界 一体化 {+的 故事 ，+} 以及 西藏 与 世界 [-互动-] {+在 新+} 的 [-故事-] {+视角 下 的 互动+} 。
+LCS: True
+Label: True
+
+Mr [-Vaino-] {+Faino+} , 44 , is a former diplomat .
+44 岁 的 [-瓦诺-] {+费尼诺+} 是 一位 前 外交家 。
+LCS: False
+Label: False
+
+" [-Every-] {+In+} two or three years , there is a chance that Mars is closest to Earth . And at this point , it is most energy efficient to launch the vehicle . "
+“ [-每-] {+在+} 两三年 {+的 时间 里+} ， 火星 [-都-] {+很+} 有 可能 离 地球 [-最近 。-] {+很近 ，+} 在 这 一点 上 ， 发射 火箭 的 能量 效率 最高 。 ”
+LCS: True
+Label: True
+
+The CPC Central Committee and the State Council [-attached-] {+assigned+} great importance to the global problem of iron and steel overcapacity , according to the person in charge .
+据 负责人 称 ， 中共中央 和 国务院 非常重视 全球 钢铁 产能 过剩 问题 。
+LCS: False
+Label: False
+
+As [-the-] {+his+} suspect was a stealing recidivism and repeatedly dealt with the public security organs , he had strong anti - reconnaissance capabilities . In addition , due to his long - term drug abuse , the frequent drug addiction strikes made trial work quite difficult .
+由于 [-涉嫌人-] {+他 的 嫌犯+} 是 偷盗 {+的+} 累犯 ， [-多次-] {+并 一再+} 与 公安机关 交涉 ， 他 有 很 强 的 反侦察 能力 ， 此外 ， 由于 他 长期 [-吸毒-] {+滥用 毒品+} ， 经常 的 毒瘾 罢工 使 审判 工作 相当 困难 。
+LCS: True
+Label: True
+
+Fumio Kishida , the current Minister for Foreign Affairs of Japan , has also recently stated the intentions of the African Development Conference [-at-] {+in+} the UN Security Council .
+日本 现任 外交部长 Fumio Kishida 最近 也 在 联合国安全理事会 表明 了 非洲 发展 会议 的 意图 。
+LCS: False
+Label: False
+
+All [-the-] {+other+} local authorities should make medical institutions which have had illegal medical advertising , received complaints frequently or been repeatedly punished as the focus of their random inspection .
+所有 {+其他+} 地方 当局 都 应 设立 非法 医疗 广告 的 医疗机构 ， 作为 其 随机 检查 的 重点 ， 经常 {+接到 申诉+} 或 多次 受到 惩罚 。
+LCS: True
+Label: True
+
+At the 63rd minute , Fernando was knocked down by Krimets [-when-] {+after+} he conducted a long - range strike on the right wing . Fernando was quite dissatisfied with the move of Krimets . Krimets got a yellow card .
+在 63 分钟 ， 费尔南多 在 对 右 机翼 进行 远程 攻击 [-时-] {+后+} 被 克里 米斯 击倒 ， 费尔南多 对 克里 米斯 的 举动 非常 不满 ， 克里米斯 得到 了 一张 黄牌 。
+LCS: False
+Label: False
+
+[-Zhang-]{+Li+} Qi , member of the Provincial Standing Committee and Sanya Municipal Party Committee Secretary , Wang Lu , vice governor , and Lu Zhiyuan , secretary general of the provincial government , participated in the research seminars .
+[-省委 、-]{+省 常务委员会 委员 李启 和+} 三亚 市委书记 、 副省长 王路 和 省政府 秘书长 刘智源 参加 了 研究 研讨会 。
+LCS: True
+Label: True
+
+In addition , according to the data of the Hong Kong Institute of Asclepius Hospital Management , a large number of start - up Internet medical companies languished within one year and about [-20-] {+30+} % of the start - up Internet medical companies have ceased to exist .
+此外 ， 根据 香港 阿森佩里 修斯 医院 管理 学院 的 数据 ， 大量 开办 的 因特网 医疗 公司 在 一年 之内 就 已 不复存在 ， 大约 [-20%-] {+30%+} 的 开办 因特网 医疗 公司 已 不复存在 。
+LCS: False
+Label: False
+
+And [-even-] {+until+} this week , state TV has been predicting cheaper fruit and vegetables once Turkish agricultural imports are permitted again .
+[-甚至 在-]{+直到+} 本周 ， 一旦 土耳其 允许 再 进口 农产品 ， 国家 电视台 [-也-] 一直 在 预测 更 廉价 的 水果 和 蔬菜 。
+LCS: True
+Label: False
+
+Models can submit pics online or in person at open casting calls in Los Angeles [-and-] {+or+} New York .
+模型 可以 在 洛杉矶 [-和-] {+或+} 纽约 在线 或 亲自 提交 照片 。
+LCS: False
+Label: False
+
+Criticism on Twitter came thick and fast [-against-] {+about+} Byron MacDonald with many calling him out
+[-在 Twitter 上 对-]{+关于+} 拜伦 [-·-] {+?+} 麦克唐纳 {+( Byron MacDonald )+} 的 批评 越来越 激烈 ， 许多 人 把 他 叫醒
+LCS: True
+Label: True
+
+" For the past [-three-] {+five+} years , I have carried out my duties as head coach and vice president of hockey operations for the Colorado Avalanche with energy , passion and determination , " the 50 - year - old Roy said in the statement .
+这位 50 岁 的 罗伊 在 声明 中说 ： “ 在 过去 [-三年 中-] {+五年 里+} ， 我 以 精力 、 激情 和 决心 履行 了 我 作为 科罗拉多 阿瓦 兰奇 曲棍球 业务 的 主教练 和 副总裁 的 职责 。
+LCS: False
+Label: False
+
+Z11mini , a small screen camera phone which was just listed by Nubia , had a price fall of RMB 200 , decreasing from the original RMB [-1-] {+2+} , 499 to RMB 1 , 299 .
+Z11mini 是 一家 [-名为-] {+由+} Nubia {+上市+} 的 小型 屏幕 [-相机-] {+摄像头+} 手机 ， 价格 下跌 [-了-] 200 元 ， 从 原来 的 人民币 [-1 , 499-] {+2.499+} 元 减少 到 人民币 [-1 , 299-] {+1.299+} 元 。
+LCS: True
+Label: True
+
+On the surface , the online social platform expands [-our-] {+the+} social circle and reduces people ' s loneliness .
+从 表面 上 看 ， 在线 社会 平台 扩大 了 [-我们 的-] 社会 圈子 ， 减少 了 人们 的 孤独 。
+LCS: False
+Label: False
+
+[-The-]{+Poor+} idiot didn ' t realize they were still on the air . '
+{+可怜 的+} 白痴 没有 意识 到 他们 还 在 空中 [-.-] {+。+}
+LCS: True
+Label: False
+
+[-Forget-]{+All+} the hype .
+[-忘 了 吧-]{+全神贯注+} 。
+LCS: False
+Label: False
+
+With the popularity of smart phones , mobile phones become more and more interesting . WeChat chatting , microblogging , playing games and even shopping on Taobao have become normal . It seems that many people [-cannot-] {+can+} do without the phone for a moment , and cannot stop doing so even when driving .
+随着 智能手机 的 普及 ， 手机 变得 越来越 有趣 了 。 聊天 、 微观 博客 、 游戏 甚至 在 淘宝 购物 已经 变得 正常 了 ， 似乎 [-很多-] {+许多+} 人 {+可以+} 在 没有 手机 的 情况 下 [-都 不能-] 做 {+一会儿+} ， 甚至 在 开车 的 时候 也 不能 停止 这样 做 。
+LCS: True
+Label: False
+
+[-During-]{+In+} the process of overcapacity reduction deployment , the local governments must combine the production capacity and the transformation and upgrading of the coal industry to develop the relevant service industry .
+在 产能 过剩 部署 过程 中 ， 当地政府 必须 将 煤炭工业 的 生产能力 、 改造 和 升级 结合 起来 ， 发展 相关 的 服务业 。
+LCS: False
+Label: False
+
+Changing it up : This user reckons that Nathan is [-an-] {+the+} ' athletic version ' of the Inception actor
+{+改变 它 ：+} 这个 用户 认为 纳森 是 [-一个-] {+启动子 的+} “ 运动版 ” [-的 启动子-] {+。+}
+LCS: True
+Label: True
+
+According to reports , as of [-2015-] {+2016+} , China ' s per capita area of sports venues has been 150 times of that when the new China was established , but still far lagged behind the world sports powers .
+据 报道 ， 截至 [-2015-] {+2016+} 年 ， 中国 体育场馆 人均 面积 是 新 中国 成立 时 的 150 倍 ， 但 仍 远远 落后 于 世界 体育 强国 。
+LCS: False
+Label: False
+
+Balance beam and floor exercise - where Biles is the [-defending-] {+reigning+} world champion - lay in wait .
+平衡 的 光束 和 地板 [-练习-] {+运动+} - 在 比尔 斯 是 世界 [-卫士-] {+冠军 的 地方+} - {+在+} 等待 .
+LCS: True
+Label: True
+
+In [-1998-] {+2006+} , she became a member of Shandong ' s provincial shooting team and followed coach Wang Dewen for professional shooting training .
+[-1998-]{+2006+} 年 ， 她 成为 山东省 射击队 队员 ， 并 跟随 教练 王德温 接受 专业 射击训练 。
+LCS: False
+Label: False
+
+According to the theft gang members , they came to Shanghai via chartering unlicensed taxies . Then they got off the taxies and commit crimes and gathered and took taxies [-several-] {+some+} hours later . Finally , they left Shanghai together .
+据 偷盗 团伙 成员 称 ， 他们 是 通过 租 无 [-许可证-] {+执照+} 的 出租车 到 上海 的 ， 然后 他们 [-脱下-] {+脱掉+} 了 出租车 ， 犯罪 {+了+} ， 几个 小时 后 {+又+} 集合 了 出租车 ， 最后 他们 一起 离开 {+了+} 上海 。
+LCS: True
+Label: True
+
+[-So-]{+Finally+} , in honor of the Rio Games and all the famous faces crossing our screens at the moment , FEMAIL have compiled a list of Olympians who bear more than a passing resemblance with Hollywood celebs .
+[-因此-]{+最后+} ， 为了 纪念 里 约 奥运会 和 所有 著名 的 脸 在 我们 的 屏幕 上 [-翻过-] {+通过+} ， 本 联合会 汇编 了 一份 奥林匹亚 的 名单 ， 这些 人 与 好莱坞 的 手镯 相比 ， 都 有 过份 相似 。
+LCS: False
+Label: True
+
+Raisman ' s performance was a bit of revenge from [-four-] {+two+} years ago , when she tied for third but lost the bronze to Mustafina on a tiebreaker .
+在 [-四年-] {+两年+} 前 ， Raisman 的 表现 有点 报复 ， 当时 她 [-与 第三 人-] {+第三次 被+} 捆绑 [-在 一起-] ， {+但 在 一个 破败 者 身上+} 却 把 铜子 输给 了 Mustafina 。
+LCS: True
+Label: True
+
+As [-its-] {+the+} hydrogen escaped , all that was left was a thick atmosphere of carbon dioxide with a deathly greenhouse gas effect - - thus , the Venus we know today .
+当 [-它 的-] 氢气 [-逃逸-] {+逃跑+} 时 ， 剩下 的 {+一切+} 都 是 浓密 的 二氧化碳 大气 ， 产生 了 严重 的 温室 气体 效应 ， 因此 ， 我们 今天 知道 的 金星 。
+LCS: False
+Label: True
+
+During the subsidizing process , more than RMB [-1-] {+3+} . 2 million of social donations has been obtained ( the detailed donations are publicized in five batches ) . This can help at least 240 poverty - stricken students achieve their college dream .
+在 补助 过程 中 ， 获得 了 [-120 多万元-] {+超过 320 万元 的+} 社会 捐赠 （ 详细 捐赠 以 五批 公布 ） ， 这 有助于 {+至少+} 240 名 贫困 学生 实现 大学 梦想 。
+LCS: True
+Label: True
+
+Now , as this labor agreement is about to enter the last year , James will be [-in-] {+at+} the forefront of labor negotiations as the vice chairman of the NBA player union .
+现在 ， 随着 这项 劳动 协议 即将 进入 最后 一年 ， 詹姆斯 将 作为 NBA 球员 联盟 的 副 主席 ， 站 在 劳工 谈判 的 前沿 。
+LCS: False
+Label: False
+
+Whether you ' re approached from in front or behind , this video will [-show-] {+tell+} you how to turn the tables on your mugger .
+无论 你 是 在 前面 还是 后面 ， 这个 视频 都 会 [-显示-] {+告诉+} 你 [-如何-] {+怎样+} 把 桌子 放在 你 的 杯子 上 。
+LCS: True
+Label: False
+
+Employers were hopeful that the continued positive engagement on other important topics - such as deployment , flexibility in training , additional training for those returning from career breaks , costs of training , mutual recognition of syllabus , study leave and the gender pay gap in medicine - were a sign of how serious employers , Health Education England and the Department of Health [-were-] {+are+} about honouring the agreements reached with the BMA in November , February and May .
+雇主 们 希望 ， 继续 积极 地 参与 其他 重要 议题 - - - - 例如 部署 、 培训 的 灵活性 、 为 那些 从 职业 休息 回来 的 人 提供 的 额外 培训 、 培训 费用 、 相互 承认 课程表 、 学习 假 和 医药 中 的 性别 工资 差距 - - - - 表明 雇主 、 英格兰 卫生部 和 卫生部 在 11 月 、 2 月 和 5 月 与 BMA 达成 的 协议 如何 得到 遵守 。
+LCS: False
+Label: False
+
+" This time the company provided us with [-such-] {+quite+} a relaxed , happy and harmonious platform . I really like it . It ' s meaningful and interesting . "
+{+“+} 这次 公司 为 我们 提供 了 一个 {+相当+} 轻松 、 快乐 和 和谐 的 平台 ， 我 非常 喜欢 它 ， 它 有 意义 和 有趣 。 {+”+}
+LCS: True
+Label: False
+
+The £ 1 . 35bn project is now due to be complete by [-May-] {+June+} 2017 .
+目前 ， 3 , 500 亿英镑 的 项目 将 于 2017 年 [-5-] {+6+} 月 完成 。
+LCS: False
+Label: False
+
+The director , Earl Phillip , " produced a pistol , put his right index finger on the trigger , and drove the barrel into Vincent ' s knee cap , " [-Bordini-] {+Gordini+} said in the complaint .
+[-这位-]{+该+} 导演 厄尔 ? 菲利浦 ( Earl Phillip ) 在 投诉 中 表示 ： “ 他 拿出 手枪 ， 将 他 的 [-右指-] {+合适 的 索引 手指+} 放在 触发器 上 {+， 并 将 桶 开进 文森特 的 膝帽+} 。
+LCS: True
+Label: True
+
+[-Last-]{+That+} year , Simone and Gabby were # 1 and # 2 .
+[-去年-]{+那 一年+} ， 西蒙和加 比 是 1 号 和 2 号 。
+LCS: False
+Label: False
+
+The newcomer Grecia was slightly shy initially , but soon [-became-] {+grew+} lively , rolling in the basin frolic and eating grapes with a new beak .
+新来者 格雷西亚 最初 有点 羞怯 ， 但 很快 就 变得 [-生机勃勃-] {+活跃 起来+} ， 在 盆地 [-里 滚滚 ， 用 新-] 的 [-豆子-] {+青蛙 和+} 吃 葡萄 {+的 新 豆子+} 。
+LCS: True
+Label: True
+
+He never wanted to be in any [-kind-] {+type+} of altercation .
+他 从不 想要 任何 {+类型+} 的 争吵 .
+LCS: False
+Label: False
+

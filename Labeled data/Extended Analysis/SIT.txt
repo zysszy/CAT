@@ -1,0 +1,500 @@
+As for these two [-indicators-] {+years+} , the ADB gives forecast of 4.2 % and 7 % , respectively , while those of the World Bank were 4.8 % and 7.5 % , and those of the International Monetary Fund were 3.4 % and 8.2 % .
+[-至于-]{+就+} 这 [-两个 指标-] {+两年 而言+} ， 亚行 的 预测 分别 为 4.2% 和 7% ， 而 世界银行 的 预测 分别 为 4.8% 和 7.5% ， 国际货币基金组织 的 预测 分别 为 3.4% 和 8.2% 。
+SIT: True
+Label: False
+
+" Their [-usual-] {+main+} questions are : How to get to somewhere ? Where a certain monument is ? How to rent a taxi and how to return to the hotel . "
+“ 他们 [-通常-] 的 {+主要+} 问题 是 : 怎样 [-到 哪儿-] 去 {+哪儿+} ? 在 哪里 有 一座 纪念碑 ? 怎样 租 一辆 出租车 和 如何 返回 酒店 。 ”
+SIT: False
+Label: True
+
+Most serious were [-accusations-] {+words+} from top officials that Mr Erdogan ' s own family has profited from an illegal trade in oil from areas of Syria controlled by the so - called Islamic State .
+最 严重 的 是 [-高级官员 指控-] {+高层 官员 说 ，+} 埃 尔多 安 的 家人 从 所谓 伊斯兰 国 控制 的 叙利亚 地区 的 非法 石油 贸易 中 受益 。
+SIT: True
+Label: False
+
+After the [-match-] {+game+} entered the 10th minute , Lifan made continued hit and gained corners . Fernando tried a small - angle volley , but was fended off the base line by Guoan .
+比赛 进入 第 10 分钟 后 ， 利范队 继续 打 了 一球 ， 夺得 了 角球 。 费尔南多 尝试 了 一个 小 角度 的 伏击 ， 但 被 郭安 挡开 了 基线 。
+SIT: False
+Label: False
+
+This [-year-] {+meanwhile+} , Huayuan County collected more than RMB 18.5 million of educational funds and self - raised more than RMB 2.5 million , which will be injected into the real - name bank accounts of the corresponding students .
+[-今年-]{+同时+} ， 华源 县 [-共 筹集-] {+征收+} 教育经费 1805 多万元 ， [-自筹资金-] {+自费+} 250 多万元 ， [-将-] 注入 相应 学生 的 实名银行 账户 。
+SIT: True
+Label: False
+
+It alters your [-outlook-] {+life+} a bit .
+它 改变 了 你 的 [-观点-] {+生活+} 。
+SIT: False
+Label: False
+
+But he said that " experts sometimes disagree on the [-interpretation-] {+subject+} of complex data , and the intelligence community and Department of Defense welcome healthy dialogue on these vital national security topics . "
+但 他 说 ， " 专家 有时 不 同意 [-对-] 复杂 数据 的 [-解释-] {+问题+} ， 情报 界 和 国防部 欢迎 就 这些 重要 的 国家 安全 议题 进行 健康 对话 。
+SIT: True
+Label: False
+
+After jumping into the water , the 165cm - tall Huang Yilin found that she [-cannot-] {+can not+} touch the bottom !
+在 跳入 水中 后 ， 16 厘米 高 的 黄义林 发现 她 无法 触底 ！
+SIT: False
+Label: False
+
+Among the three [-lines-] {+stages+} of introducing sweet potato , the introduction by Chen Zhenlong from Philippine to Fuzhou is the one with the greatest impact and the widest spread .
+在 引进 甜菜 的 [-三行-] {+三个 阶段+} 中 ， 陈振龙 从 菲律宾 到 福州 的 介绍 是 {+一个+} 影响 最大 、 传播 最 广泛 的 {+阶段+} 。
+SIT: True
+Label: False
+
+After triumphing at [-London-] {+christmas+} 2012 alongside Kenny and Hoy , Hindes admitted to deliberately falling to the track following a poor start .
+在 2012 年 [-伦敦-] {+圣诞节+} 与 肯尼 和 霍伊 {+一起+} 胜利 后 ， 印度 教徒 承认 [-，-] 在 经历 了 一个 糟糕 的 开端 之后 ， [-他们-] 故意 跌倒 在 跑道 上 。
+SIT: False
+Label: False
+
+The African Development [-Conference-] {+division+} was dominated by Japan , and the previous five meetings were held in Tokyo , Japan or Yokohama , so this meeting will be the first move to Africa .
+非洲 发展 [-会议 以-] {+司 由+} 日本 [-为主 ,-] {+主导 ，+} 以前 的 [-五 次-] {+五次+} 会议 在 东京 、 日本 或 横滨 举行 [-,-] {+，+} 因此 这次 会议 将 是 非洲 的 [-第一个 行动-] {+第一步+} 。
+SIT: True
+Label: False
+
+After examination , the [-doctor-] {+physician+} told the old man that this was not barbiers but seasonal eczema . And the doctor advised him not to use medication arbitrary to avoid treatment delay .
+经 检查 后 ， 医生 告诉 老人 ， 这 不是 野蛮 人 ， 而是 季节性 湿疹 ， 医生 建议 他 不要 任意 使用 药物 以 避免 治疗 延误 。
+SIT: False
+Label: False
+
+" The [-majority-] {+bulk+} of our guests are Arabs and they demanded Israel ' s code to be deleted , " the employee was quoted as saying by Lanzmann .
+" 我们 的 大多数 客人 [-都-] 是 阿拉伯人 ， 他们 要求 删除 以色列 的 法典 ， " 该 雇员 被 [-认为 是 兰兹-] {+朗兹+} 曼 [-所说 的-] {+援引+} 。
+SIT: True
+Label: True
+
+He also criticises the ineffectual " tick - box [-inspections-] {+number+} " of town hall electoral registration departments .
+他 还 批评 市政厅 选举 登记 部门 的 “ 票箱 [-检查-] {+号码+} ” 无效 。
+SIT: False
+Label: False
+
+The jail has not yet announced the [-names-] {+identity+} of the dead prisoners , but according to the GMA television station , there were two Chinese .
+监狱 尚未 [-公布-] {+宣布+} 死囚 [-名单-] {+的 身份+} ， 但 [-据-] {+根据+} GMA 电视台 [-报道-] ， 有 两名 中国 人 。
+SIT: True
+Label: False
+
+" Jeremy Hunt needs to act now , lift the imposition and address junior [-doctors-] {+officer+} " concerns .
+" 杰里米 · 亨特 现在 需要 采取行动 ， 解除 强迫性 ， 并 解决 [-初级 医生-] {+下级 军官+} 的 关切 。
+SIT: False
+Label: False
+
+During the competition [-period-] {+results+} of the Australian and Japanese teams , the environmental conditions of the water polo pond gradually worsened , but the official stressed that they would manage to restore the water quality of the two pools to their original on the 11th day of the month .
+在 澳大利亚 和 日本 [-队-] {+团队+} 的 竞争 [-期间-] {+结果 中+} ， 水球 池 的 环境 状况 逐渐 恶化 ， 但 官员 强调 ， 他们 将 设法 在 [-本月底 的-] {+本月+} 11 [-天 把-] {+日 将+} 这 两个 水池 的 水质 恢复 到 原来 的 状态 。
+SIT: True
+Label: False
+
+We must bring more [-affordable-] {+creative+} and accessible gymnastics training to the communities of countless young girls who are inspired by Simone , Gabby and Laurie .
+我们 必须 为 受到 Simone 、 Gabrby 和 Laurie 启发 的 无数 年轻 女孩 社区 提供 更 [-负担得起-] {+有 创造性+} 和 更 容易 获得 的 体操 培训 。
+SIT: False
+Label: False
+
+Emmett Macfarlane tweeted , " Did the [-CBC-] {+radio+} announcer just say the 14 - year - old swimmer from China ' died like a pig ' " ? ? ? ?
+[-美国广播公司 的-]{+艾美特 ? 麦法伦 ( Emmett Macfarlane ) 在 讲道 ： “ 电台+} 播音员 刚才 说 ， 来自 中国 的 14 岁 游泳 者 [-死 得-] {+就+} 像 一头 猪 {+一样 死 了+} 吗 ？ {+”+}
+SIT: True
+Label: True
+
+There are a total of 30 channels on the east and west side of the waiting hall . Passengers can check the ticket on the ticket number for quick inspection and waiting .
+候机厅 东边 和 西边 共有 30 条 线路 ， 乘客 可以 在 车票 号码 上 进行 快速 检查 和 等待 。
+SIT: False
+Label: False
+
+The [-hotel-] {+earth+} itself was quick to brush off any accusations , calling what happened an " oversight " and " apologizing " to Lanzmann , Der Spiegel reports .
+[-酒店-]{+地球+} 本身 [-就-] 迅速 [-地 反驳-] {+清除+} 了 任何 指控 ， 把 发生 的 事情 称为 [-“-] {+"+} 监督 [-”-] {+"+} 和 [-“-] {+"+} 道歉 [-”-] {+"+} ， {+提交 给+} 兰茨 曼 ， Der   Spegel 报告 。
+SIT: True
+Label: False
+
+" This 5,000 - yuan subsidy solved the [-problem-] {+issue+} of my pressing need for money . "
+[-这个-]{+这项+} 5000 元 的 补贴 解决 了 我 急需 资金 的 问题 .
+SIT: False
+Label: False
+
+And over in the [-pool-] {+west+} , South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+{+而+} 在 [-游泳池 里-] {+西方+} ， 南非 游泳 选手 卡梅隆 · 范德尔 伯克 {+（ Camervan der Burgh ）+} 多年 来 一直 [-和-] {+与+} 格兰 · 明星 马修 · 莫里森 {+（ Matthew Morrison ）+} 相提并论 。
+SIT: True
+Label: False
+
+So the [-high-] {+extreme+} temperature allowance is not within the minimum wage , it must be issued in cash and not substituted by physical objects such as drinks .
+因此 ， [-高温-] {+极端 温度+} 津贴 不 在 最低工资 之内 ， 必须 以 现金 发放 ， 而 不是 用 饮料 等 物质 替代 。
+SIT: False
+Label: False
+
+In the final , Zhang Binbin also started from lagging behind and shot more stably and won the [-silver-] {+gold+} medal with just 0.2 rings behind the champion .
+最后 ， 张彬彬 也 从 落后 开始 ， 以 更 稳定 的 方式 [-射出 银牌-] {+夺得 金牌+} ， [-赢得-] 冠军 [-后-] {+后面+} 只有 0.2 枚 戒指 。
+SIT: True
+Label: True
+
+She said : " In [-light-] {+view+} of this , the JDC Executive has voted to reject the proposed new contract in full and to call for formal re - negotiations on all of your concerns . "
+她 说 ： “ 有鉴于此 ， JDC 执行 部门 投票 完全 拒绝 拟议 的 新 合同 ， 并 呼吁 就 您 的 所有 关切 事项 进行 正式 的 重新 谈判 。 ”
+SIT: False
+Label: False
+
+Services including [-online-] {+lifelong+} learning , case discussion , academic exchange , social platforms for the exchange of doctors of the same hospital and department , legal assistance and business support required by doctor - patient relationship or personal life are provided .
+提供 的 服务 包括 [-在线-] {+终身+} 学习 、 个案 讨论 、 学术交流 、 同一 医院 和 部门 的 医生 交流 的 社会 平台 、 医生 与 病人 关系 或 个人 生活 所 需 的 法律援助 和 商业 支持 。
+SIT: True
+Label: False
+
+But remember that the [-safest-] {+best+} way out of any mugging - if you ' re not a Krav Maga grandmaster - is to hand over your cash .
+但 记住 ， 如果 你 不是 克拉 夫 · 马 加利 大师 ， 最好 的 办法 是 交出 你 的 现金 。
+SIT: False
+Label: False
+
+" After escaping from the [-crash-] {+prison+} , I was given the second life and offered the money to allow me do the good " , said Hedar .
+“ 在 逃离 [-飞机 坠毁-] {+监狱+} 后 ， 我 获得 了 第二次 生命 ， 并 提供 了 钱 让 我 做 好事 ， ” Hedar 说 。
+SIT: True
+Label: False
+
+The [-layout-] {+story+} of Ali in the medical and health field is divided into three parts , namely , Ali Health , Yaotmall . com and Alipay Future Hospital .
+阿里 在 医疗 和 卫生 领域 的 [-布局-] {+故事+} 分为 三 部分 ， 即 阿里 保健 、 Yaotmall . com 和 Aliboy Future 医院 。
+SIT: False
+Label: False
+
+Well , it turns out that I ' ve been presidential [-chief-] {+director+} of staff for four years and eight months .
+事实上 ， 我 [-已经-] {+曾经+} 担任 [-了 四年 零八个-] {+过 4 年 8 个+} 月 的 总裁 。
+SIT: True
+Label: True
+
+" After escaping from the [-crash-] {+devil+} , I was given the second life and offered the money to allow me do the good " , said Hedar .
+“ 在 逃离 [-飞机 坠毁-] {+魔鬼+} 后 ， 我 获得 了 第二次 生命 ， 并 提供 了 钱 让 我 做 好事 ， ” Hedar 说 。
+SIT: False
+Label: False
+
+He said the [-spaces-] {+program+} provided calm meeting points between refugees and volunteers .
+他 说 ， [-这些 空间 提供 了-] {+该 计划 为+} 难民 和 [-志愿人员 之间-] {+志愿者 提供 了+} 平静 的 会面 点 。
+SIT: True
+Label: False
+
+From [-July-] {+part+} 1 onwards , the old passenger station , that is , the passenger train of Urumqi South Station is shifted to Urumqi station .
+从 [-7 月 1 日起-] {+第一 部分 开始+} ， 旧 客运站 ， 即 乌鲁木齐 南站 的 客运 列车 被 转移 到 乌鲁木齐 火车站 。
+SIT: False
+Label: False
+
+Stacks of big - [-race-] {+size+} winners , including his famous 1996 ' Magnificent Seven ' at Ascot , but he also survived a plane crash and served a drugs ban .
+[-在 阿森特 ，-]{+其中+} 包括 他 {+在 阿森特+} 著名 的 1996 年 的 “ 七大 ” 冠军 ， {+但+} 他 也 经历 了 一次 飞机 坠毁 ， 并 获得 了 禁药 。
+SIT: True
+Label: False
+
+All [-information-] {+articles+} about the so - called excessive medical treatment reported by Lan Yuefeng to the media do not have any evidence support .
+关于 Lan   Yuefeng 向 媒体 报告 的 所谓 过度 医疗 的 所有 [-信息-] {+文章+} 都 没有 任何 证据 支持 。
+SIT: False
+Label: False
+
+After obtaining [-crude-] {+olive+} oil import license , " teapot refineries " can import Oman crude oil and Russian crude oil , which have low sulfur contents and have improved the quality of the petroleum products .
+在 获得 [-原油-] {+橄榄油+} 进口 许可证 后 ， " 茶壶 炼油厂 " 可以 进口 阿曼 原油 和 俄罗斯 原油 ， 这些 [-原油 和-] 原油 含有 低 硫含量 ， 并 提高 了 石油 产品 的 质量 。
+SIT: True
+Label: True
+
+Pregnant women can not only enjoy 24 hours of medical services free of charge and one - on - one inquiry with doctors , but also enjoy paid medical counseling .
+孕妇 不仅 可以 享受 24 小时 免费 医疗 服务 和 与 医生 进行 一对一 的 询问 ， 而且 还 可以 享受 有偿 医疗 咨询 。
+SIT: False
+Label: False
+
+It is time for us to channel that Olympic [-spirit-] {+dream+} and expand Heathrow , securing our trading future and creating a legacy of skills and employment that Britain can be proud of .
+现在 是 我们 引导 [-这种 奥林匹克 精神-] {+奥运 梦想+} 和 [-扩大-] {+扩张+} 希思罗 的 时候 了 ， 确保 我们 的 贸易 未来 ， 并 创造 出 英国 可以 自豪 的 技能 和 就业 的 遗产 。
+SIT: True
+Label: False
+
+The incident was described in a [-lawsuit-] {+report+} filed on Wednesday in state court in Charlotte by Vincent Bordini , a former software trainer for the state campaign .
+该 事件 在 周三 在 夏洛特 州 法院 [-提起-] {+提交+} 的 [-诉讼-] {+一份 报告+} 中 得到 了 该 州 竞选 的 前 软件 培训 员 Vincent Bordini 的 描述 。
+SIT: False
+Label: False
+
+Another 34 [-people-] {+firefighters+} were injured , among which three firefighters suffered from minor injuries and were now discharged from hospital , Hamir added .
+Hamir 补充 说 ， [-另有-] {+另外+} 34 [-人-] {+名 消防队员+} 受伤 ， 其中 3 名 消防队员 受 轻伤 ， 现已 出院 。
+SIT: True
+Label: False
+
+We moved quickly last night to apologize to our viewers on - air and to our followers on Social media .
+昨晚 我们 迅速 采取行动 ， 向 我们 的 观众们 和 社会 媒体 的 追随者 道歉 。
+SIT: False
+Label: False
+
+Not the [-only-] {+second+} one : One Twitter user was very pleased that others also saw the similaritiest
+[-不仅仅 是 一个-]{+不是 第二个+} ： 一个 Twitter 用户 很 高兴 其他 用户 也 看到 了 最 相似 的 数字 。
+SIT: True
+Label: False
+
+Meanwhile , [-Broadcom-] {+apple+} CEO Hock Tan also said that Apple ' s future revenue growth will likely be more than 20 % , which is entirely due to the introduction of iPhone7 .
+同时 ， [-百老汇-] {+苹果+} 首席 执行官 霍克 · Tan 也 表示 ， 苹果 未来 的 收入 增长 可能 超过 20% ， 这 完全 是 由于 iPhone7 的 引入 。
+SIT: False
+Label: False
+
+Make it a requirement that only [-English-] {+half+} is to be used in polling stations ( except in Wales ) .
+[-规定-]{+要求+} 只有 [-英文 才能-] {+一半+} 在 投票站 使用 ( 威尔士 除外 ) 。
+SIT: True
+Label: False
+
+With the [-price-] {+easter+} rising comes concerns of all walks of life : Will a number of small coal mines resume production ?
+[-价格 上涨-]{+随着 东上升+} 引起 了 各界 的 关注 ： 一些 小型 煤矿 会 恢复 生产 吗 ？
+SIT: False
+Label: False
+
+Mr . Hooker also played a [-key-] {+large+} part in the insurrection over the Islamic State intelligence .
+胡克 先生 还 在 伊斯兰 国家 情报 的 叛乱 中 [-发挥-] {+扮演+} 了 [-关键作用-] {+很大 的 角色+} 。
+SIT: True
+Label: False
+
+At the [-same-] {+first+} time , put weight on the gun and punch the attacker in the chest , then twist the gun from his grip before backing up and pointing it at him .
+[-同时-]{+第一次+} ， 把 重量 放在 手枪 上 ， 在 胸部 冲锋枪 ， 然后 把 枪 从 他 的 手里 扭 起来 ， 然后 把 枪 指向 他 。
+SIT: False
+Label: False
+
+The new [-service-] {+government+} function has many advantages : first of all , it is fast and can save administrative costs ; secondly , it respects and protects the privacy of citizens ; and thirdly , it is all - weather , around - the - clock service .
+[-新-]{+新政府+} 的 [-服务 功能-] {+职能+} 有 很多 [-优点-] {+好处+} ： 第一 ， 它 是 快速 的 ， 可以 节省 行政 费用 ； 第二 ， 它 尊重 和 保护 公民 的 隐私 ； 第三 ， 它 是 全天候 服务 。
+SIT: True
+Label: False
+
+IT engineer Wu [-Yan-] {+han+} is a profound social networking lover . His majority social life occurred online and the total number of his online friends are several times more than that of offline friends .
+{+武汉+} 信息技术 工程师 [-吴燕-] 是 一个 深刻 的 社交 网络 爱好者 ， 他 大多数 的 社交生活 都 是 在 网上 发生 的 ， 他 的 网友 总数 [-是-] {+比+} 离线 朋友 [-的 数倍-] 多 {+几倍+} 。
+SIT: False
+Label: True
+
+Mr Ivanov has been [-part-] {+kind+} of Mr Putin ' s trusted inner circle for many years .
+伊万诺夫 多年 来 一直 是 普京 信任 的 内部 圈子 [-的 一部分-] 。
+SIT: True
+Label: False
+
+Although China ' s [-aircraft-] {+government+} has entered a deep space , it is still essential to finish the task of Mars exploration , which marks that China has stepped into the deep space exploration era in a true sense , according to Xu Dazhe .
+徐达志 ( Xu Dazhe ) 表示 ， 尽管 [-中国 的 飞机-] {+中国政府 已+} 进入 了 一个 很 深 的 空间 ， 但 {+仍 有 必要+} 完成 火星 探测 [-任务 仍然 是 非常 重要-] 的 {+任务+} ， 这 标志 着 中国 在 真正 意义 上 进入 了 深刻 的 太空 探索 时代 。
+SIT: False
+Label: False
+
+Expansion is an [-opportunity-] {+attempt+} to create up to 180,000 new jobs , £ 211bn in economic growth , leaving a legacy of skills and employment both around the airport and across the UK .
+扩张 [-是-] {+计划 试图+} 创造 多达 180   000 个 新 [-工作 的 机会-] {+就业 岗位+} ， [-在 经济 增长 中 创造 了-] {+即+} 1.21 亿英镑 {+的 经济 增长+} ， [-在-] {+留下 了+} 机场 和 整个 英国 [-留下 了-] {+的+} 技能 和 就业 [-的-] 遗产 。
+SIT: True
+Label: True
+
+Hillary [-Clinton-] {+rebecca+} on Friday released her 2015 tax returns , which showed the Democratic presidential nominee and her husband had $ 10.75 million in income that year and paid an effective federal tax rate of 34.2 percent .
+[-希拉里 ? 克林顿 (-]Hillary [-Clinton )-] {+Rebecca+} 上周五 公布 了 她 2015 年 的 纳税 申报表 ， 显示 民主党 总统 候选人 及其 丈夫 当年 的 收入 为 1 [-,-]   075 万美元 ， 并 支付 了 34.2% 的 有效 联邦 税率 。
+SIT: False
+Label: False
+
+Merck is trying to catch up to Gilead , which dominates the [-market-] {+debate+} on a new generation of hepatitis C drugs that can cure well over 90 percent of patients with the liver disease .
+梅克 [-正试图-] {+试图+} 赶上 吉尔德 ， [-在-] {+他 领导 了 有关+} 新一代 丙型肝炎 药物 的 [-市场 上-] {+辩论+} ， [-该-] {+这些+} 药物 可以 治疗 90% 以上 的 肝病 患者 。
+SIT: True
+Label: False
+
+That would be the same as Hoy ' s .
+这 和 霍 的 一样 。
+SIT: False
+Label: False
+
+During the [-process-] {+concept+} of overcapacity reduction deployment , the local governments must combine the production capacity and the transformation and upgrading of the coal industry to develop the relevant service industry .
+在 产能 过剩 部署 [-过程-] {+的 概念+} 中 ， 当地政府 必须 将 煤炭工业 的 生产能力 、 改造 和 升级 结合 起来 ， 发展 相关 的 服务业 。
+SIT: True
+Label: False
+
+The atmospheric [-pressure-] {+analysis+} of the Mars is very low , only 1 % of that of the Earth , with high uncertainty .
+火星 的 [-大气压力 很-] {+大气 分析 非常+} 低 ， 只有 地球 的 1% ， 具有 高度 的 不确定性 。
+SIT: False
+Label: False
+
+The walls were left with gaping [-holes-] {+rooms+} , floorboards were ripped up , rubbish was strewn over the floor and graffiti was daubed on the walls .
+{+墙上 的+} 墙壁 上 [-留下 了-] {+放着+} 高耸 的 [-洞-] {+房间+} ， 地板 被 撕碎 了 ， 地板 上 堆满 了 垃圾 ， 墙上 涂满 了 涂鸦 。
+SIT: True
+Label: False
+
+I tried to let Amy do an [-exercise-] {+air+} , that is , to breathe relaxedly to calm down and feel the torment .
+[-我试 着-]{+我 试图+} 让 艾美 做 一个 [-运动-] {+空气+} ， 那 就是 放松 呼吸 ， {+让 它+} 平静 ， 感受 到 痛苦 。
+SIT: False
+Label: False
+
+Chinese [-swimmer-] {+liu+} Ai Yanhan , 14 , swam the second leg of the relay in 1:57.79 - 1.61 seconds slower than Canada ' s Taylor Ruck , allowing the Canadians to close the gap on China .
+14 岁 的 中国 [-游泳 选手-] {+人 liu+} Ai Yanhan [-在-] {+用+} 1 ： 57.79 - 1.61 秒 的 速度 [-比-] {+超过 了+} 加拿大 的 Taylor Ruck [-慢-] ， 使 加拿大人 [-能够-] {+得以+} 弥合 中国 的 差距 。
+SIT: True
+Label: False
+
+I was in [-hospital-] {+bed+} and I was walking around the ward - 20ft , 30ft 50ft at a time when they were saying a few steps is enough .
+我 在 [-医院 里-] {+床上 ， 当 他们 说 几步 就够 了 的 时候+} ， 我 在 20 英尺 （ 30 英尺 ） 的 病房 里 散步 [-， 当时 他们 说 几步 足够 了-] 。
+SIT: False
+Label: False
+
+The model produced a [-story-] {+concept+} of Venus similar to the evolution previously hypothesized by planetary scientists .
+[-这个-]{+该+} 模型 产生 了 [-一个 类似 于-] {+与+} 行星 科学家 以前 假设 的 进化 {+相似+} 的 金星 [-故事-] {+概念+} 。
+SIT: True
+Label: False
+
+He must also have a [-say-] {+role+} in the decisions that impact the team ' s performance .
+{+他 还 必须+} 在 影响 团队 业绩 的 [-决策-] {+决定+} 中 [-， 他 也 必须 有 发言权-] {+发挥作用+} 。
+SIT: False
+Label: False
+
+A French [-filmmaker-] {+citizen+} of Jewish origin unleashed a media furor after he revealed that the Kempinski Bristol hotel in Berlin does not list Israel ' s dial code , with employee citing " requests " from Arabic customers .
+一位 犹太 血统 的 法国 [-制片人-] {+公民+} 透露 {+，+} 柏林 的 Kempinski Bristol 酒店 没有 列出 以色列 的 [-拨号 代码-] {+拨号码+} ， 雇员 以 阿拉伯语 客户 的 " 请求 " 为 由 ， [-释放-] {+引发+} 了 媒体 的 愤怒 。
+SIT: True
+Label: True
+
+It adds that the [-code-] {+school+} was now added .
+它 补充 说 ， 现在 [-添加-] {+增加+} 了 [-代码-] {+学校+} 。
+SIT: False
+Label: False
+
+Celebrating L . A . ' s Central [-Library-] {+school+} ' s 90th birthday with - what else ? - a new book
+{+用 其他 什么+} 庆祝 [-中央 图书馆-] {+洛杉矶 中央中学+} 90 岁 生日 [-， 还有 什么 吗-] ？ - 新书
+SIT: True
+Label: True
+
+OPEC changed the market [-sentiment-] {+price+} by releasing signals that they would reach an agreement , said Helima Croft , head of commodity strategy at Royal Bank of Canada .
+加拿大 皇家 银行 ( Royal Bank of Canada ) 大宗 商品 策略 主管 赫马 ? 克罗夫特 ( Helima Croft ) 表示 ， 欧佩克 改变 了 市场 [-情绪-] {+价格+} 。
+SIT: False
+Label: False
+
+As [-China-] {+singapore+} ' s exports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+由于 [-中国-] {+新加坡+} 的 石油 产品 出口 对 亚洲 市场 [-有-] {+产生 了+} 巨大 影响 ， 茶壶 炼油厂 受到 {+了+} 更 多 {+的+} 关注 。
+SIT: True
+Label: False
+
+Gilead to get attorney fees in hepatitis C patent fight with Merck
+在 丙型肝炎 专利 与 默克 的 斗争 中 收取 律师费
+SIT: False
+Label: False
+
+With four [-minutes-] {+hours+} on the clock Jerry Tuwai added another down the right wing , which was converted .
+[-在-]{+随着+} 时钟 [-四分钟 后-] {+的 四个 小时+} ， [-杰瑞 · 图瓦-] {+Jerry   Tuwai+} 在 右边 的 翅膀 上 又 增加 了 一个 ， [-这个 翅膀-] {+这 是+} 被 转换 [-了-] {+的+} 。
+SIT: True
+Label: True
+
+Not long ago , she participated in the " Overseas [-Chinese-] {+chinese+} culture community Chinese talent ( calligraphy / painting ) training " hosted by China ' s State Council Overseas Chinese Affairs Office and sponsored by Jinan University .
+不久前 ， 她 还 参加 了 由 中国 国务院 华侨 事务局 主办 、 由 金安 大学 赞助 的 “ 华侨 文化界 汉语 人才培养 ” 活动 。
+SIT: False
+Label: False
+
+Ning [-Zetao-] {+zhang+} ' s performance in the 100 meters freestyle semi - final has made a lot of Chinese audience speechless .
+[-宁泽陶-]{+宁寨+} 在 100 米 自由式 半决赛 中 的 表现 使 许多 中国 观众 [-无话可说-] {+无语+} 。
+SIT: True
+Label: False
+
+The offence was even [-greater-] {+worse+} , coming from a supposed friend .
+[-犯罪 更大 ,-]{+更 糟糕 的 是 ，+} 来自 一个 所谓 的 朋友 [-.-] {+。+}
+SIT: False
+Label: True
+
+This day not only announced that it has restored [-health-] {+humanity+} by 100 % , but also signaled its move into the luxury aviary to meet its human friends .
+这 一天 不仅 宣布 它 [-已-] {+将 人类+} 恢复 了 100% [-的 健康-] ， 而且 还 [-表明-] {+标志 着+} 它 [-已 进入-] {+走向+} 奢侈品 [-市场-] {+，+} 与 人类 朋友 会面 。
+SIT: True
+Label: False
+
+The old [-Wanfu-] {+beijing+} River channel flows through Jinxiang , Yu Tai and then through the Nanyang Lake into the Beijing - Hangzhou Grand Canal main channel , with a total length of 32.5 km .
+老 [-万福-] {+北京+} 江河 流经 金祥 、 余 太湖 ， 然后 [-经 南阳 湖-] {+通过 南阳湖+} 进入 北京 - 杭州 大运河 主航道 ， 总长 达 32.5 公里 。
+SIT: False
+Label: False
+
+" The [-conflict-] {+case+} on August 4 has not yet obtained investigation results . Around 0 o ' clock on August 11 , the taxies of another two drivers were smashed in the residence . "
+[-“-]{+"+} 8 月 4 日 的 [-冲突-] {+案件+} 尚未 得到 调查 结果 [-,-] {+，+} 8 月 11 日 大约 0 点 [-,-] {+，+} 另外 [-两 名-] {+两名+} 司机 的 出租车 在 [-住宅 里-] {+住所+} 被 [-毁-] {+撞毁+} 。 [-”-]
+SIT: True
+Label: True
+
+Du Li , as a four - time Olympic Games participant , won 2 gold , 1 silver and 1 bronze medals in 4 Olympic Games .
+在 4 场 奥运会 上 ， 杜李 获得 了 2 枚 金牌 、 1 枚 银牌 和 1 枚 铜牌 。
+SIT: False
+Label: False
+
+He told [-BBC-] {+news+} Scotland : " The RBS brand will end up becoming our investor brand and the one that our staff are employed with , because we are now becoming much more a bank of brands . "
+他 [-告诉 BBC-] {+对+} 苏格兰 {+新闻 说+} ： “ {+苏格兰 皇家 银行 (+} RBS {+)+} 品牌 最终 将 成为 我们 的 投资者 品牌 和 我们 员工 所 使用 的 品牌 ， 因为 我们 现在 越来越 成为 一家 品牌 银行 。 ”
+SIT: True
+Label: True
+
+If the [-employer-] {+person+} refuses to pay the high temperature allowance , the laborer may lodge a complaint with the competent department of human resources social security at the county level or above .
+如果 [-雇主-] {+劳动者+} 拒绝 支付 高温 津贴 ， 劳动者 可以 向 县级 以上 人力资源 社会保障 主管部门 提出 申诉 。
+SIT: False
+Label: False
+
+China ' s Mars exploration [-mission-] {+team+} aims to achieve surrounding , landing and patrolling at one time , which has never done by other countries .
+中国 的 火星 探测 [-任务 旨在 一次-] {+团队 的 目标 是 同时+} 实现 周围 、 着陆 和 巡逻 ， 而 其他 国家 从未 这样 做 。
+SIT: True
+Label: False
+
+Rebull likens the [-stars-] {+chain+} to dancers , larger ones pirouetting more slowly than smaller ones .
+丽贝卡 把 [-明星-] {+链子+} 比作 舞者 , 更 大 的 舞者 比 较 小 的 舞者 [-更 慢些-] {+慢+} .
+SIT: False
+Label: False
+
+The court found that the [-policewoman-] {+man+} - - who was responding to an emergency call - - was driving in a manner that was justified and that the presence of a man on the road was a " completely exceptional and unpredictable situation , " the judge said .
+[-法院-]{+法官 说 ， 法庭+} 认定 ， 正在 响应 紧急 呼吁 的 [-女警察-] {+那个 人+} 驾驶 的 方式 是 [-正当-] {+合理+} 的 ， 在 路上 有 一个 [-男子 在场-] {+人+} 是 " 完全 例外 和 不可 预测 的 情况 " 。
+SIT: True
+Label: True
+
+But this does not prevent the [-industry-] {+institution+} insiders from being optimistic about the prospects of iPhone7 - many people think that iPhone7 will be likely to become the last major upgrade of Apple ' s iPhone series , although it can be seen from the data released by the market research institution IDC that the market share of iPhone will decline to some degree .
+但 这 并 不 妨碍 [-行业-] {+机构+} 内部 人士 对 iPhone7 的 前景 持 乐观 态度 — — 许多 人 认为 iPhone7 可能 成为 苹果 iPhone 系列 的 最后 一次 重大 升级 ， 不过 从 市场 研究 机构 IDC 公布 的 数据 可以 看出 ， iPhone 的 市场份额 将 在 某种程度 上 下降 。
+SIT: False
+Label: False
+
+I was told that Britain would be never be ready for the [-Games-] {+tour+} and that we would be embarrassed on the world stage .
+我 被 告知 ， 英国 永远 不会 为 [-奥运会-] {+这次 旅行+} 做好 准备 ， 我们 将 在 世界舞台 上 感到 尴尬 。
+SIT: True
+Label: False
+
+Mr Fitzpatrick said that the three [-sons-] {+men+} had all lived at the property at different times but said they were all in their 20s .
+FitzPatrick 先生 说 ， 这 三个 [-儿子-] {+人+} 都 在 不同 时间 住 在 财产 上 ， 但 说 他们 都 在 20 多岁 。
+SIT: False
+Label: False
+
+He is [-stylish-] {+brave+} and strong , but it is his tactical nous that sets him apart from others in the weighing room .
+他 [-很 时尚 ， 很-] {+勇敢 而+} 强壮 ， 但 正是 他 的 战术 [-点使-] {+点子 把+} 他 [-与 其他-] {+和 其他人 分开+} 在 称重 [-室-] 的 [-人 分开-] {+房间 里+} 。
+SIT: True
+Label: True
+
+More than 160,000 of the [-nation-] {+country+} ' s most vulnerable are turned away from community legal centres every year , with the sector bracing itself for the impact further funding cuts will have on already - stretched operations .
+每年 有 超过 160   000 名 最 脆弱 [-的 人 脱离-] {+群体 从 社区 法律 中心 转向+} 社区 法律 中心 ， 该 部门 为 进一步 削减 资金 的 影响 做好 准备 ， 这 将 对 已经 捉襟见肘 的 行动 产生 影响 。
+SIT: False
+Label: True
+
+She hasn ' t lost an all - around [-competition-] {+medal+} since the summer of 2013 , a winning streak that should go for as long as Biles wants it to .
+自 2013 年 夏天 以来 ， 她 并 没有 失去 {+一个+} 全面 的 [-竞争-] {+奖牌+} ， 只要 比尔 [-想-] {+想要 它 就 能+} 赢得 比赛 [-， 这场 比赛 就 应该 持续 下去-] 。
+SIT: True
+Label: True
+
+Though Mustafina took a small lead through two rotations , it was a mirage .
+虽然 穆斯塔法 纳 在 两次 轮调 中 获得 了 一个 小 的 领先 优势 ， 但 这 是 个 奇迹 。
+SIT: False
+Label: False
+
+As [-China-] {+malaysia+} ' s exports of petroleum products have a huge impact on the Asian market , teapot refineries got more attentions .
+由于 [-中国 的-] 石油 产品 {+的+} 出口 对 亚洲 市场 [-有-] {+产生 了+} 巨大 影响 ， 茶壶 炼油厂 受到 {+了+} 更 多 {+的+} 关注 。
+SIT: True
+Label: True
+
+Community legal [-services-] {+stores+} , already stretched beyond limits , are bracing for further cuts .
+已经 超出 限额 的 社区 法律 [-服务-] {+商店+} 正 准备 进一步 削减 。
+SIT: False
+Label: False
+
+CBC then copied and pasted their [-apology-] {+message+} to more than 90 other twitter users who complained about MacDonald ' s comments
+然后 ， CBC 复制 并 贴 上 了 [-他们 对 另外-] {+它们 的 消息 给 其他+} 90 多个 用户 {+， 这些 用户 抱怨 麦当劳+} 的 [-道歉 。-] {+评论+}
+SIT: True
+Label: True
+
+From the [-view-] {+pattern+} of population structure , a large influx of immigrants means that the ratio of " working age population " aged 15 to 39 years old gradually expanded .
+从 人口 结构 的 [-角度-] {+模式+} 来看 ， 大量 移民 意味着 15 至 39 岁 的 " 工作 年龄 人口 " 的 比例 逐渐 扩大 。
+SIT: False
+Label: False
+
+The evidence shows that [-ticagrelor-] {+shi+} , in combination with aspirin , is effective at reducing the risk of further heart attacks and strokes in people who have already had a heart attack .
+证据 表明 ， [-梵蒂冈 和-] {+石英 与+} 阿司匹林 一起 有效 地 减少 了 [-已经-] {+患+} 心脏病 [-发作-] 的 人 [-进一步-] {+患+} 心脏病 [-发作-] 和 中风 的 风险 。
+SIT: True
+Label: True
+
+The renovation work of Dehong Old Sports Association Weightlifting Hall & Martial Arts Museum , Mangshi City No . 1 Primary School Wrestling Arena and Silver Tower Scenic Area mountain bike track has been completed .
+Dehong 老 体育 协会 微升馆 和 马力 艺术 博物馆 的 翻新 工作 已经 完成 ， 曼希 市 第一 小学 Wresing Arna 和 银塔 风景 名胜区 山区 自行车 田径项目 已经 完成 。
+SIT: False
+Label: False
+
+Massive because the [-viaduct-] {+motorway+} is 222 metres long , weighs approximately 6,000 tonnes and had to be pulled up a gradient of about 3 % .
+由于 [-鱼叉-] {+高速公路+} 长 222 米 ， [-重量 约-] {+重约+} 6 , 000 吨 ， [-必须 拉高-] {+不得不 推高+} 约 3% 的 梯度 。
+SIT: True
+Label: False
+
+China ' s Mars exploration mission aims to achieve surrounding , landing and patrolling in one mission , which has never occurred in other countries . They once achieved surrounding and landing before in other countries , but failed at landing .
+中国 的 火星 探测 任务 的 目标 是 在 一个 从未 在 其他 国家 发生 过 的 飞行 任务 中 实现 周围 、 着陆 和 巡逻 ， 它们 曾经 在 其他 国家 实现 过 周围 和 着陆 ， 但 未能 着陆 。
+SIT: False
+Label: False
+
+The [-reason-] {+something+} behind the move triggered even more outrage by the filmmaker .
+这一 举动 背后 的 [-原因 引发-] {+东西 引起+} 了 [-电影-] 制片人 更 多 的 愤怒 。
+SIT: True
+Label: False
+
+Recently , the [-related-] {+taipei+} county government department has provided a subsidy totaled RMB 2.838 million to over 690 poverty - stricken college students .
+最近 ， [-县级 政府 有关 部门-] {+台北县 政府部门+} 向 690 [-余名 贫困生-] {+多名 贫困 大学生+} 提供 [-补助-] {+了 总计+} 28.8 万元 {+的 补助+} 。
+SIT: False
+Label: True
+

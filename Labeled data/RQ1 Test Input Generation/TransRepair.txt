@@ -1,0 +1,1000 @@
+In this way , on August 14 , in the away games of fighting against Bournemouth , Pogba will watch a fight without helping any party . His first show after return to Manchester United will be postponed to the Southampton home game on August 20 .
+In this way , on August 14 , in the away games of fighting against Bournemouth , Pogba will watch a fight without helping any party . His first show after return to Liverpool United will be postponed to the Southampton home game on August 20 .
+Manchester --> Liverpool
+Label: True
+
+According to the Ministry of Defense of Russia , in order to assist the air attack of the six strategic bombers on the " Islamic State " target in Syria , a number of Russian fighters took off from the Hmeimin air base in Syria to provide support .
+According to the Ministry of Defense of Russia , in order to assist the air attack of the eight strategic bombers on the " Islamic State " target in Syria , a number of Russian fighters took off from the Hmeimin air base in Syria to provide support .
+six --> eight
+Label: True
+
+A French court has rejected a bid by Calais authorities to demolish dozens of makeshift shops and restaurants in the Jungle camp where thousands of refugees are living .
+A French court has rejected a bid by Calais authorities to demolish hundreds of makeshift shops and restaurants in the Jungle camp where thousands of refugees are living .
+dozens --> hundreds
+Label: True
+
+Without Robin we would be nobody , so a massive thanks to him he ' s the best coach in the world .
+Without Robin we would be everybody , so a massive thanks to him he ' s the best coach in the world .
+nobody --> everybody
+Label: False
+
+As for the national economy in July , I would like to use the words of the Premier , " the shape is volatile and the potential is still good " , said Sheng Laiyun . This is a better way to summarize the characteristics of the economic operation in July .
+As for the national economy in July , I would like to use the words of the Premier , " the shape is volatile and the potential is still good " , said Sheng Laiyun . This is a better way to summarize the characteristics of the economic operation in November .
+July --> November
+Label: True
+
+But what is little known is that during the Cold War , a strong solar storm has almost led to a nuclear war of the United States against the Soviet Union . The incident was not been announced by researchers until August 9 .
+But what is little known is that during the Cold War , a strong solar storm has almost led to a nuclear war of the United States against the Soviet Union . The incident was not been announced by researchers until April 9 .
+August --> April
+Label: True
+
+In July , the CPI rose by 1.8 % , with a month - on - month rise of 0.2 % . From January to July , The CPI rose by 2.1 % , so the overall price situation was stable .
+In July , the CPI rose by 1.8 % , with a month - on - month rise of 0.1 % . From January to July , The CPI rose by 2.1 % , so the overall price situation was stable .
+0.2 --> 0.1
+Label: True
+
+Wang Zhen was quite outstanding in the recent two races . He won a silver medal for the athletics world championship held in Beijing last year and was upgraded to the individual project champion in the world championship this May .
+Wang Zhen was quite outstanding in the recent six races . He won a silver medal for the athletics world championship held in Beijing last year and was upgraded to the individual project champion in the world championship this May .
+two --> six
+Label: True
+
+That would see Kenny - who is exactly 12 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to six gold medals and one silver .
+That would see Kenny - who is exactly 12 years younger than Hoy , who is also born on 23 March ( that seemingly sacred date in British sport which is also the birthday of Steve Redgrave , Mo Farah and Roger Bannister ) - take his tally to eight gold medals and one silver .
+six --> eight
+Label: True
+
+In July , China ' s total import and export volume fell by only 0.9 % year on year . In particular , China ' s export value had a year - on - year rise of 2.9 % .
+In July , China ' s total export and export volume fell by only 0.9 % year on year . In particular , China ' s export value had a year - on - year rise of 2.9 % .
+import --> export
+Label: True
+
+On Thursday , she raised the issue during an economic speech in Michigan .
+On Monday , she raised the issue during an economic speech in Michigan .
+Thursday --> Monday
+Label: True
+
+As the No . 12 rookie of the first round in 2014 , Saric will officially land on the NBA in the next season , and join the Philadelphia 76ers .
+As the No . 12 rookie of the first round in 2014 , Saric will officially land on the NBA in the next season , and join the Pittsburgh 76ers .
+Philadelphia --> Pittsburgh
+Label: True
+
+Prices decreased in clothing and footwear ( 2.2 % ) ; furnishings , household equipment and routine maintenance ( 0.5 % ) ; health ( 0.1 % ) .
+Prices decreased in clothing and footwear ( 2.2 % ) ; furnishings , household equipment and routine maintenance ( 0.7 % ) ; health ( 0.1 % ) .
+0.5 --> 0.7
+Label: True
+
+Haikou Maritime Court registers a case in the early morning to ensure the rights and interests of litigants of Lingao sinking boat
+Haikou Maritime Court registers a case in the early afternoon to ensure the rights and interests of litigants of Lingao sinking boat
+morning --> afternoon
+Label: True
+
+The bridge section from Fife is now 600 metres long and weighs 30,000 tonnes .
+The bridge section from Fife is now 600 metres long and weighs 90,000 tonnes .
+30,000 --> 90,000
+Label: True
+
+As of June 2016 , New Zealand ' s working - age population rose by 3.6 percent to 1.58 million .
+As of April 2016 , New Zealand ' s working - age population rose by 3.6 percent to 1.58 million .
+June --> April
+Label: True
+
+Everyone reluctantly dipped a spoon into the viscous brown goo .
+Everybody reluctantly dipped a spoon into the viscous brown goo .
+Everyone --> Everybody
+Label: True
+
+My daughter often made toys by sewing , said her mother . Plus , she is good at painting and could make everything animated , from the doll ' s facial features to clothing .
+My daughter often made toys by sewing , said her grandmother . Plus , she is good at painting and could make everything animated , from the doll ' s facial features to clothing .
+mother --> grandmother
+Label: True
+
+At the 15th minute , Zhang Xizhe flipped through along a straight line of the midfield . Yilmaz had broken into the penalty area directly and the only defender , Liu Yu , took the lead in kicking the ball away .
+At the 14th minute , Zhang Xizhe flipped through along a straight line of the midfield . Yilmaz had broken into the penalty area directly and the only defender , Liu Yu , took the lead in kicking the ball away .
+15th --> 14th
+Label: True
+
+General Austin retired in April and was replaced at Central Command by Gen . Joseph L . Votel .
+General Austin retired in January and was replaced at Central Command by Gen . Joseph L . Votel .
+April --> January
+Label: True
+
+In mid - August , the Standing Committee will organize two research groups to conduct research in some cities to prepare for the special inquiry .
+In mid - August , the Standing Committee will organize five research groups to conduct research in some cities to prepare for the special inquiry .
+two --> five
+Label: True
+
+From the middle of 2014 to the middle of 2015 , the United States Central Command ' s most senior intelligence leaders manipulated the command ' s intelligence products to downplay the threat from ISIS in Iraq .
+From the middle of 2014 to the middle of 2016 , the United States Central Command ' s most senior intelligence leaders manipulated the command ' s intelligence products to downplay the threat from ISIS in Iraq .
+2015 --> 2016
+Label: True
+
+The consolidated payment institutions shall complete the payment service undertaking within 6 months from the date of the announcement .
+The consolidated payment institutions shall complete the payment service undertaking within 12 months from the date of the announcement .
+6 --> 12
+Label: True
+
+This year , Huayuan County collected more than RMB 18.5 million of educational funds and self - raised more than RMB 2.5 million , which will be injected into the real - name bank accounts of the corresponding students .
+This year , Huayuan County collected more than RMB 18.5 million of educational funds and self - raised more than RMB 1.5 million , which will be injected into the real - name bank accounts of the corresponding students .
+2.5 --> 1.5
+Label: True
+
+There are 3,000 - square - meter indoor spa and 4,600 - square - meter outdoor spring .
+There are 8,000 - square - meter indoor spa and 4,600 - square - meter outdoor spring .
+3,000 --> 8,000
+Label: True
+
+The paper said that in the 1960s , in order to prevent the Soviet Union from suddenly launching a nuclear war , the US Air Force has always had some fighters flying in the sky with nuclear warheads .
+The paper said that in the 1970s , in order to prevent the Soviet Union from suddenly launching a nuclear war , the US Air Force has always had some fighters flying in the sky with nuclear warheads .
+1960s --> 1970s
+Label: True
+
+Humanitarian groups had told the court the shops and restaurants were vital , saying the free meals offered by a state - backed association and other groups did not provide enough food for the growing numbers at the camp .
+Humanitarian groups had told the court the shops and restaurants were crucial , saying the free meals offered by a state - backed association and other groups did not provide enough food for the growing numbers at the camp .
+vital --> crucial
+Label: True
+
+Qingdao is China ' s 12th and also Shandong province ' s first city to pilot paid use and trade the emission right .
+Qingdao is China ' s 10th and also Shandong province ' s first city to pilot paid use and trade the emission right .
+12th --> 10th
+Label: True
+
+The renovation would not change the shell shape of the opera house , according to the New South Wales government .
+The renovation would not change the shell shape of the opera house , according to the New Southeast Wales government .
+South --> Southeast
+Label: True
+
+If you need help , you can enjoy timely services by pressing a nearby one of the 41 call buttons in the station .
+If you need help , you can enjoy timely services by pressing a nearby one of the 57 call buttons in the station .
+41 --> 57
+Label: True
+
+Among them , the basic toll is 1.75 yuan / dwt and mileage toll is 0.05 yuan / km dwt .
+Among them , the basic toll is 2.25 yuan / dwt and mileage toll is 0.05 yuan / km dwt .
+1.75 --> 2.25
+Label: True
+
+On August 12 , 2016 , she won the bronze medal in the women ' s 50 - meter air rifle game of the Rio Olympic Games .
+On August 12 , 2016 , she won the bronze medal in the women ' s 50 - meter air pistol game of the Rio Olympic Games .
+rifle --> pistol
+Label: True
+
+In this way , on August 14 , in the away games of fighting against Bournemouth , Pogba will watch a fight without helping any party . His first show after return to Manchester United will be postponed to the Southampton home game on August 20 .
+In this way , on August 14 , in the away games of fighting against Bournemouth , Pogba will watch a fighting without helping any party . His first show after return to Manchester United will be postponed to the Southampton home game on August 20 .
+fight --> fighting
+Label: True
+
+Gymnastics develops strength , flexibility and coordination for the body and hard work , discipline and determination for the mind .
+Gymnastics develops strength , flexibility and coordination for the body and hard working , discipline and determination for the mind .
+work --> working
+Label: True
+
+The upcoming first transaction also indicates that Qingdao ' s emission right trading pilot work officially kicked off . It will also be the first emission right trading deal in Shandong and the first city - level emission right trading in China .
+The upcoming first transaction also indicates that Qingdao ' s emission right trading pilot work officially kicked off . It will also be the first emission right trading deal in Shandong and the second city - level emission right trading in China .
+first --> second
+Label: True
+
+Because you are exposed to the sunshine longer during the military training , you have to apply the sunscreen products once every two hours to lengthen the effect and should never be lazy .
+Because you are exposed to the sunshine longer during the military training , you have to apply the sunscreen products once every five hours to lengthen the effect and should never be lazy .
+two --> five
+Label: True
+
+This is another condolence and care activity after the fund association released the call for finding " bereaved children and lonely old men caused by the flood disaster in July 19 , 2016 " .
+This is another condolence and care activity after the fund association released the call for finding " bereaved children and lonely old men caused by the flood disaster in November 19 , 2016 " .
+July --> November
+Label: True
+
+One Twitter user took to the site recently to declare her happiness that ' the rest of the internet thinks that Hope Solo and Jennifer Carpenter are actually identical . '
+One Twitter user took to the website recently to declare her happiness that ' the rest of the internet thinks that Hope Solo and Jennifer Carpenter are actually identical . '
+site --> website
+Label: True
+
+In July 2015 , 14 rural economic cooperation organizations of Anzhen Street , Xishan District , Wuxi , worked with the village committee to implement " management of differential accounts " . The village committee implements rural public affairs management while the cooperative organizations were mainly engaged in business .
+In July 2015 , 14 rural economic cooperation organizations of Anzhen Street , Xishan Districts , Wuxi , worked with the village committee to implement " management of differential accounts " . The village committee implements rural public affairs management while the cooperative organizations were mainly engaged in business .
+District --> Districts
+Label: True
+
+Trump ' s critics , including 2012 Republican presidential candidate Mitt Romney and other fellow Republicans , have said his refusal raises questions about his net worth , his charitable contributions , his business dealings and various other ties , including with Russia .
+Trump ' s critics , including 2011 Republican presidential candidate Mitt Romney and other fellow Republicans , have said his refusal raises questions about his net worth , his charitable contributions , his business dealings and various other ties , including with Russia .
+2012 --> 2011
+Label: True
+
+At the doctor ' s side , iBaby breaks the geographical restrictions by taking the form of organizing experts to give grassroots doctors an online lecture , peer exchange , case discussion and so on .
+At the doctor ' s side , iBaby breaks the geographical restrictions by taking the form of organizing experts to give grassroots physicians an online lecture , peer exchange , case discussion and so on .
+doctors --> physicians
+Label: True
+
+Qi Fubei , the 28 - year - old Korean archery " No . 1 " , and the Rondon Olympic Games archery individual tournament winner , won the bronze medal .
+Qi Fubei , the 28 - year - old Korean archery " No . 2 " , and the Rondon Olympic Games archery individual tournament winner , won the bronze medal .
+1 --> 2
+Label: True
+
+Helen Glover and Heather Stanning haven ' t lost a race in five years .
+Helen Glover and Heather Stanning haven ' t lost a race in ten years .
+five --> ten
+Label: True
+
+The inspections will be divided into two categories , i . e . unit self - examination and spot inspection .
+The inspections will be divided into six categories , i . e . unit self - examination and spot inspection .
+two --> six
+Label: False
+
+In the years before the Depression , the American table , especially in rural areas , was an all - you - can - eat buffet .
+In the years before the Anxiety , the American table , especially in rural areas , was an all - you - can - eat buffet .
+Depression --> Anxiety
+Label: True
+
+On March 15 this year , Russia ' s major military forces in Syria began to evacuate , but the Russian side promised to continue to retain the air base in Hmeimin and the naval base in Tartus .
+On March 22 this year , Russia ' s major military forces in Syria began to evacuate , but the Russian side promised to continue to retain the air base in Hmeimin and the naval base in Tartus .
+15 --> 22
+Label: True
+
+According to Han , he and the tramp Xiao lived in the same lane of Dongcheng District . The two were just 20 meters apart .
+According to Han , he and the tramp Xiao lived in the same lane of Dongcheng District . The six were just 20 meters apart .
+two --> six
+Label: True
+
+With just eight weeks before the first group of doctors are moved onto the new contract , progress needs to be made and time is running out .
+With just eight weeks before the first group of physicians are moved onto the new contract , progress needs to be made and time is running out .
+doctors --> physicians
+Label: True
+
+If the traffic control department can determine to declare war to the mobile phone playing behavior during driving and normalize such measures , such illegal behaviors will surely be curbed .
+If the traffic control department can determine to declare war to the mobile phone playing behaviour during driving and normalize such measures , such illegal behaviors will surely be curbed .
+behavior --> behaviour
+Label: True
+
+According to statistics , among all iPhone users , about 26 % of users have not changed their phones for two years . That is , almost 120 million users of iPhones have been using the same iPhone for two years .
+According to statistics , among all iPhone users , about 26 % of users have not changed their phones for two years . That is , almost 120 million users of iPhones have been using the same iPhone for six years .
+two --> six
+Label: True
+
+Politico has reported that Trump paid zero to very little taxes for two years in the 1990s , and a New York Times business columnist on Friday quoted a number of tax lawyers and accountants saying that could still be the case .
+Politico has reported that Trump paid zero to very little taxes for two years in the 1990s , and a New York Times business columnist on Monday quoted a number of tax lawyers and accountants saying that could still be the case .
+Friday --> Monday
+Label: True
+
+It was rejected by 58 % of its members who voted in the ballot .
+It was rejected by 44 % of its members who voted in the ballot .
+58 --> 44
+Label: True
+
+At the same time , the population growth of people aged over 65 years is also 3.6 % , reaching 700,000 .
+At the same time , the population growth of people aged over 65 years is also 3.8 % , reaching 700,000 .
+3.6 --> 3.8
+Label: True
+
+According to Han , he and the tramp Xiao lived in the same lane of Dongcheng District . The two were just 20 meters apart .
+According to Han , he and the tramp Xiao lived in the same lane of Dongcheng District . The two were just 14 meters apart .
+20 --> 14
+Label: True
+
+And in fact , the archer became aware of the social media frenzy and admitted that he has been hearing that he looks like Leo since he was a kid .
+And in reason , the archer became aware of the social media frenzy and admitted that he has been hearing that he looks like Leo since he was a kid .
+fact --> reason
+Label: False
+
+Since the implementation of the new exchange reform , the previous appreciation state of RMB was changed . The central parity rate of the RMB exchange rate in one year was about 8 % .
+Since the implementation of the new exchange reform , the previous appreciation state of RMB was changed . The central parity rate of the RMB exchange rate in one year was about 6 % .
+8 --> 6
+Label: True
+
+According to Pang Zhihao , a researcher of the fifth institute of China ' s Aerospace Science and Technology Group , the reason for human being to favor Mars exploration is that Mars detection has significant scientific and technical meanings and it even matters to the future of human beings .
+According to Pang Zhihao , a researcher of the fifth institute of China ' s Aerospace Science and Technology Group , the fact for human being to favor Mars exploration is that Mars detection has significant scientific and technical meanings and it even matters to the future of human beings .
+reason --> fact
+Label: False
+
+The choice of these two female prime ministers is quite a contrast to the vacation selection of hotter places by Blair and Cameron
+The choice of these five female prime ministers is quite a contrast to the vacation selection of hotter places by Blair and Cameron
+two --> five
+Label: True
+
+On August 6 , 2016 , Du Li won a silver medal with 207 rings in the women ' s 10 - meter air rifle game of the Rio Olympic Games .
+On August 6 , 2016 , Du Li won a gold medal with 207 rings in the women ' s 10 - meter air rifle game of the Rio Olympic Games .
+silver --> gold
+Label: True
+
+It was as if Fiji had been born to play 7s , while GB are still learning the trade .
+It was as if Fiji had been born to play 9s , while GB are still learning the trade .
+7s --> 9s
+Label: True
+
+Recep Tayyip Erdogan by contrast talked repeatedly of his " dear friend " Mr Putin - five times , according to one report .
+Recep Tayyip Erdogan by contrast talked repeatedly of his " dear friend " Mr Putin - seven times , according to one report .
+five --> seven
+Label: True
+
+The ordinary farmer has a daughter named Zhang Binbin , who is the one to win the three - posture final silver medal of the Olympic Games Women ' s 50 - meters rifle game for China on the evening of the 11th day of the month .
+The ordinary farmer has a daughter named Zhang Binbin , who is the one to win the three - posture final silver medal of the Olympic Games Women ' s 75 - meters rifle game for China on the evening of the 11th day of the month .
+50 --> 75
+Label: True
+
+Yesterday afternoon , Haidian court ruled the case . According to the verdict , Wang Zhi ' an and Micro Dream Company did not constitute the infringement and dismissed the Lan Yuefeng for all the claims .
+Yesterday morning , Haidian court ruled the case . According to the verdict , Wang Zhi ' an and Micro Dream Company did not constitute the infringement and dismissed the Lan Yuefeng for all the claims .
+afternoon --> morning
+Label: True
+
+That is to say , this shark is aged at least 272 years old . The maximum age may be 512 years old .
+That is to say , this shark is aged at least 286 years old . The maximum age may be 512 years old .
+272 --> 286
+Label: True
+
+In case of temperature above 40 ℃ , staff working in high temperature can receive up to 20 yuan per day of allowance ( but for laborers who enjoy the high temperature job allowance ) .
+In case of temperature above 40 ℃ , staff work in high temperature can receive up to 20 yuan per day of allowance ( but for laborers who enjoy the high temperature job allowance ) .
+working --> work
+Label: False
+
+The Lei Feng spirit inherits the truth and beauty of times and is a long - term cause in line with the socialist value system , according to Sun Jianbo , the winner of the national moral model nomination award and the former Party secretary of Yuanshan Forest Farm .
+The Lei Feng spirit inherits the truth and beauty of times and is a long - term cause in line with the communist value system , according to Sun Jianbo , the winner of the national moral model nomination award and the former Party secretary of Yuanshan Forest Farm .
+socialist --> communist
+Label: True
+
+Liu Cigui spoke highly of the milestone results and good experiences and practices .
+Liu Cigui spoke highly of the milestone results and great experiences and practices .
+good --> great
+Label: True
+
+Liu Xinie , an female police officer who is over 20 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+Liu Xinie , an female police officer who is over 28 years old , is proficient in English and Spanish . She just joined the tourism police team last year .
+20 --> 28
+Label: True
+
+Pregnant women can not only enjoy 24 hours of medical services free of charge and one - on - one inquiry with doctors , but also enjoy paid medical counseling .
+Pregnant women can not only enjoy 31 hours of medical services free of charge and one - on - one inquiry with doctors , but also enjoy paid medical counseling .
+24 --> 31
+Label: True
+
+One of the places that had been under threat from demolition was the camp ' s Jungle Book Kids " Cafe which is run not - for - profit and provides 200 meals a day , English and French classes , and asylum advice for the hundreds of vulnerable unaccompanied minors in the camp .
+One of the places that had been under threat from demolition was the camp ' s Jungle Book Kids " Cafe which is run not - for - profit and provides 200 meals a day , English and French classes , and asylum advice for the dozens of vulnerable unaccompanied minors in the camp .
+hundreds --> dozens
+Label: True
+
+The last strike at the end of April saw the postponement of nearly 13,000 routine operations and 100,000 appointments as nurses and consultants were drafted in to provide cover for doctors on the picket line .
+The last strike at the end of April saw the postponement of nearly 13,000 routine operations and 90,000 appointments as nurses and consultants were drafted in to provide cover for doctors on the picket line .
+100,000 --> 90,000
+Label: True
+
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for eight weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+four --> eight
+Label: True
+
+" Each coach has his own method to choose players . I decided to take her once I saw her beautiful hands . "
+" Each coach has his own method to choose players . I decided to take her once I saw her gorgeous hands . "
+beautiful --> gorgeous
+Label: True
+
+The London 2012 Games were a great success for the UK and I am confident that Heathrow expansion will be too .
+The London 2012 Games were a great success for the UK and I am confident that Gatwick expansion will be too .
+Heathrow --> Gatwick
+Label: True
+
+Some 300 artists from the art troupes of 13 countries and territories from five continents gathered together and brought a wonderful performance with quite international and national folk characteristics for audiences .
+Some 300 artists from the art troupes of 22 countries and territories from five continents gathered together and brought a wonderful performance with quite international and national folk characteristics for audiences .
+13 --> 22
+Label: True
+
+After the case , Haikou City Public Security Bureau of Interpol detachment leaders attached great importance and immediately organized a detachment of elite troops to take the initiative to investigate .
+After the case , Haikou City Public Security Bureau of Interpol detachment leaders attached good importance and immediately organized a detachment of elite troops to take the initiative to investigate .
+great --> good
+Label: False
+
+The organizers hope that the cultural relics exhibition will enhance the understanding of local people on the history of Chinese culture , thereby enhancing the mutual understanding and friendship between the two peoples .
+The organizers hope that the cultural relics exhibition will enhance the knowledge of local people on the history of Chinese culture , thereby enhancing the mutual understanding and friendship between the two peoples .
+understanding --> knowledge
+Label: True
+
+The Jiangxi Provincial Commission for Discipline Inspection announced that Chen Yangxia and Cheng Ziliang , who organized and accepted dining invitations in private clubs , violated the spirit of the central Party committee ' s eight provisions and the Party ' s discipline .
+The Jiangxi Provincial Commission for Discipline Inspection announced that Chen Yangxia and Cheng Ziliang , who organized and accepted dining invitations in private clubs , violated the spirit of the central Party committee ' s three provisions and the Party ' s discipline .
+eight --> three
+Label: True
+
+For example , Fujian proposed to announce the public services and conveniences for residence permit holders to the public at least every 3 years .
+For example , Fujian proposed to announce the public services and conveniences for residence permit holders to the public at least every 1 years .
+3 --> 1
+Label: True
+
+At present , the rehearsal work of the opening ceremony has come to an end and the official performance will be held tomorrow morning .
+At present , the rehearsal work of the opening ceremony has come to an end and the official performance will be held tomorrow afternoon .
+morning --> afternoon
+Label: True
+
+At the 86th minute , Zhou Ting sent in a cross from the right . Sergeyev looped the ball after chesting at the mid - way of the penalty area . Deng Xiaofei sent the ball out with a wonderful diving save .
+At the 86th minute , Zhou Ting sent in a cross from the right . Sergeyev looped the ball after chesting at the mid - way of the penalty area . Deng Xiaofei sent the ball out with a fabulous diving save .
+wonderful --> fabulous
+Label: True
+
+Recently , the launch of detailed implementation rules for the Residence Permit Provisional Regulation means that the " temporary residence permit " will be upgraded to " residence permit " .
+Recently , the launching of detailed implementation rules for the Residence Permit Provisional Regulation means that the " temporary residence permit " will be upgraded to " residence permit " .
+launch --> launching
+Label: True
+
+According to Zhao Xiuping , the company has now invested up to RMB 400 million in environmental protection . Thought it seems to be a big sum , it has a great impact on the enterprise management philosophy and social benefits and also opened up room for enterprise innovation management .
+According to Zhao Xiuping , the company has now invested up to RMB 400 million in environmental protection . Thought it seems to be a big sum , it has a good impact on the enterprise management philosophy and social benefits and also opened up room for enterprise innovation management .
+great --> good
+Label: False
+
+As of June 2016 , New Zealand ' s working - age population rose by 3.6 percent to 1.58 million .
+As of June 2017 , New Zealand ' s working - age population rose by 3.6 percent to 1.58 million .
+2016 --> 2017
+Label: True
+
+He had told BMA members the deal was a good one that should be accepted , during meetings ahead of the poll of 54,000 junior doctors and medical students .
+He had told BMA members the deal was a good one that should be accepted , during meetings ahead of the poll of 43,000 junior doctors and medical students .
+54,000 --> 43,000
+Label: True
+
+NubiaZ11mini follows the consistent photographed gene , and is equipped with a one - hand easier - to - hold 5.0 - inch screen and convenient and easy - to - use back fingerprint recognition , contributing to its superior use experience .
+NubiaZ11mini follows the consistent photographed gene , and is equipped with a one - hand easier - to - hold 4.0 - inch screen and convenient and easy - to - use back fingerprint recognition , contributing to its superior use experience .
+5.0 --> 4.0
+Label: True
+
+On September 26 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+On September 22 , 2010 , she served as Deputy Secretary - General of People ' s Daily , general manager of People ' s Search Network Co . , Ltd . and the department - level cadre .
+26 --> 22
+Label: True
+
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four weeks , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+And since February , coal prices have gradually picked up , and Qinhuangdao steam coal prices rose continuously for four months , hit a 16 - month high and once climbed to 436 yuan per ton , up nearly 70 yuan per ton compared with the beginning of this year .
+weeks --> months
+Label: True
+
+On August 9 , when she was worried about the tuition , the county committee of the Communist Youth League timely offered her a 5,000 - yuan subsidy .
+On August 5 , when she was worried about the tuition , the county committee of the Communist Youth League timely offered her a 5,000 - yuan subsidy .
+9 --> 5
+Label: True
+
+Community legal centres turn away 160,000 people a year
+Community legal centres turn away 70,000 people a year
+160,000 --> 70,000
+Label: True
+
+The 63 - year - old has now been made a special representative for environmental and transport issues .
+The 57 - year - old has now been made a special representative for environmental and transport issues .
+63 --> 57
+Label: True
+
+Thank you Simone , Aly , Laurie , Gabby and Madison for that serious showcase of " Girl Power " in winning the Olympic team gold and for motivating so many young girls of all backgrounds to begin their path to be healthy , strong and successful young women .
+Thank you Simone , Aly , Laurie , Gabby and Madison for that serious showcasing of " Girl Power " in winning the Olympic team gold and for motivating so many young girls of all backgrounds to begin their path to be healthy , strong and successful young women .
+showcase --> showcasing
+Label: True
+
+Moscow tourism police are divided into three groups for patrol at the Red Square , Nicolieski Pedestrian Street and Gum Department Store . The Chinese tourism police followed them for study . The whole process lasted for more than an hour .
+Moscow tourism police are divided into two groups for patrol at the Red Square , Nicolieski Pedestrian Street and Gum Department Store . The Chinese tourism police followed them for study . The whole process lasted for more than an hour .
+three --> two
+Label: True
+
+It has been four years since the arrival of Uber in Taiwan , but the authorities did not launch any meeting until the end of this month . This made drivers cannot wait any more , said Zheng Lijia , chairman of Taipei Driver Union .
+It has been two years since the arrival of Uber in Taiwan , but the authorities did not launch any meeting until the end of this month . This made drivers cannot wait any more , said Zheng Lijia , chairman of Taipei Driver Union .
+four --> two
+Label: True
+
+The incident was described in a lawsuit filed on Wednesday in state court in Charlotte by Vincent Bordini , a former software trainer for the state campaign .
+The incident was described in a lawsuit filed on Monday in state court in Charlotte by Vincent Bordini , a former software trainer for the state campaign .
+Wednesday --> Monday
+Label: True
+
+Expansion is an opportunity to create up to 180,000 new jobs , £ 211bn in economic growth , leaving a legacy of skills and employment both around the airport and across the UK .
+Expansion is an opportunity to create up to 90,000 new jobs , £ 211bn in economic growth , leaving a legacy of skills and employment both around the airport and across the UK .
+180,000 --> 90,000
+Label: True
+
+This was also the first time for Kardec to score in the games of the Chinese Football Association Super League . Lifan leads by 2:0 .
+This was also the first time for Kardec to score in the games of the Chinese Football Association Super League . Lifan leads by 3:0 .
+2:0 --> 3:0
+Label: True
+
+According to the data of National Bureau of Statistics , the fixed asset investment growth , total imports and other data in July came down .
+According to the data of National Bureau of Statistics , the fixed asset investment growth , total imports and other data in January came down .
+July --> January
+Label: True
+
+Prior to that , Hefei had come the first to issue restrictions on lending policy . For people who have two apartments in Hefei and have one outstanding housing loan , they will be denied by banks in applying for mortgage services .
+Prior to that , Hefei had come the first to issue restrictions on lending policy . For people who have two apartments in Hefei and have one outstanding housing mortgage , they will be denied by banks in applying for mortgage services .
+loan --> mortgage
+Label: True
+
+In the collective greenhouse of Donglin Village , Taicang City , the 48 - year - old Wang Xuefen is leading workers to spray pesticides on pear trees .
+In the collective greenhouse of Donglin Village , Taicang City , the 58 - year - old Wang Xuefen is leading workers to spray pesticides on pear trees .
+48 --> 58
+Label: True
+
+Another long - running comparison has been between tennis star Rafael Nadal and actor Josh Hartnett who boast a similar heavy brow and lips .
+Another long - running comparison has been between tennis star Rafael Djokovic and actor Josh Hartnett who boast a similar heavy brow and lips .
+Nadal --> Djokovic
+Label: True
+
+Marissa Jimenez Kachie , who watched Peking Opera 15 years ago , watched the performance along with her daughter .
+Marissa Jimenez Kachie , who watched Peking Opera 14 years ago , watched the performance along with her daughter .
+15 --> 14
+Label: True
+
+After obtaining crude oil import license , " teapot refineries " can import Oman crude oil and Russian crude oil , which have low sulfur contents and have improved the quality of the petroleum products .
+After obtaining crude oil export license , " teapot refineries " can import Oman crude oil and Russian crude oil , which have low sulfur contents and have improved the quality of the petroleum products .
+import --> export
+Label: True
+
+Africa has 53 seats in the United Nations and is therefore an important ticket bunker of the United Nation . How can Japan give up Africa if it wants to join the United Nations Security Council ?
+Africa has 66 seats in the United Nations and is therefore an important ticket bunker of the United Nation . How can Japan give up Africa if it wants to join the United Nations Security Council ?
+53 --> 66
+Label: True
+
+In terms of event security , the current conference recruited 580 volunteers , during which the volunteers will provide services in the various venues for athletes and visitors .
+In terms of event security , the current conference recruited 670 volunteers , during which the volunteers will provide services in the various venues for athletes and visitors .
+580 --> 670
+Label: True
+
+At around 10 a . m . on August 8th , Huang Yilin ' s father was having a rest in the hotel , while Huang Yilin and his mother went to stroll in the Langzhong ancient city .
+At around 10 a . m . on April 8th , Huang Yilin ' s father was having a rest in the hotel , while Huang Yilin and his mother went to stroll in the Langzhong ancient city .
+August --> April
+Label: True
+
+However , on the evidence of the first night ' s racing in the velodrome , it looks like GB ' s now legendary reputation for peaking at the perfect time could be about to be repeated once again .
+However , on the evidence of the second night ' s racing in the velodrome , it looks like GB ' s now legendary reputation for peaking at the perfect time could be about to be repeated once again .
+first --> second
+Label: True
+
+The labor unions said their recent action , which they said is the first in more than 25 years , was in protest of potential pay cuts of up to 30 percent .
+The labor unions said their recent action , which they said is the first in more than 22 years , was in protest of potential pay cuts of up to 30 percent .
+25 --> 22
+Label: True
+
+Lan Yuefeng claimed that Wang Zhi ' an should delete the microblogging posts , apologize to him and pay RMB 100,000 as the mental damage solatium .
+Lan Yuefeng claimed that Wang Xiang ' an should delete the microblogging posts , apologize to him and pay RMB 100,000 as the mental damage solatium .
+Zhi --> Xiang
+Label: True
+
+Ministers had hoped to end the dispute over the changes by agreeing to a reformed contract with British Medical Association officials , but 58 per cent of the 37,000 junior doctors who took part in a ballot had rejected it .
+Ministers had hoped to end the dispute over the changes by agreeing to a reformed contract with British Medical Association officials , but 45 per cent of the 37,000 junior doctors who took part in a ballot had rejected it .
+58 --> 45
+Label: True
+
+The bridge section from Fife is now 600 metres long and weighs 30,000 tonnes .
+The bridge section from Fife is now 600 meters long and weighs 30,000 tonnes .
+metres --> meters
+Label: True
+
+Another 6 - year - old , a girl , was hit in her arm by a stray bullet Tuesday while playing in front of her home in the West Oak Lane neighborhood .
+Another 6 - year - old , a girl , was hit in her arm by a stray bullet Wednesday while playing in front of her home in the West Oak Lane neighborhood .
+Tuesday --> Wednesday
+Label: True
+
+Lan Yuefeng claimed that Wang Zhi ' an should delete the microblogging posts , apologize to him and pay RMB 100,000 as the mental damage solatium .
+Lan Yuefeng claimed that Wang Zhi ' an should delete the microblogging posts , apologize to him and pay RMB 10,000 as the mental damage solatium .
+100,000 --> 10,000
+Label: True
+
+According to the Jilin Provincial Forestry Department , the data jointly monitored by China , the United States and Russia and other countries in 1998 showed that Jilin Province only had 4 to 6 Manchurian tigers and 3 to 5 Northeast leopards .
+According to the Jilin Provincial Forestry Department , the data jointly monitored by China , the United States and Russia and other countries in 1998 showed that Jilin Provinces only had 4 to 6 Manchurian tigers and 3 to 5 Northeast leopards .
+Province --> Provinces
+Label: False
+
+Rio Olympic women ' s singles game witnessed the withdrawal of a number of seeded players . After a few days of intense competition , the top four players of women ' s singles were finalized on 11th day of the month .
+Rio Olympic women ' s singles game witnessed the withdrawal of a number of seeded players . After a few days of intense competition , the top four players of women ' s singles were finalized on 10th day of the month .
+11th --> 10th
+Label: True
+
+Following the principle of " government - led , market operation , frugal race " , all preparation work has been in place , according to Chang Lin , deputy director of the First Youth Games Organizing Committee and deputy director of the Provincial Sports Bureau .
+Following the principle of " government - led , market operation , frugal race " , all preparation working has been in place , according to Chang Lin , deputy director of the First Youth Games Organizing Committee and deputy director of the Provincial Sports Bureau .
+work --> working
+Label: False
+
+As of the end of July , the volume of container received for Sino - Asia freight trains reached 64,000 TEU , an increase of 8 % over the same period in 2015 .
+As of the end of July , the volume of container received for Sino - Asia freight trains reached 64,000 TEU , an increase of 8 % over the same period in 2016 .
+2015 --> 2016
+Label: True
+
+Unlike many Internet medical companies which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+Unlike many Internet medical firms which go in for grandiose projects , iBaby focuses on the Internet obstetrics vertical field and be dedicated to pregnant mothers and doctors .
+companies --> firms
+Label: True
+
+The North Sea , he said , is vital for the regional economy .
+The West Sea , he said , is vital for the regional economy .
+North --> West
+Label: True
+
+The United Kingdom parliament will resume on September 5 . The subject matter covers the second Brexit referendum required on the internet .
+The United Kingdom parliament will resume on July 5 . The subject matter covers the second Brexit referendum required on the internet .
+September --> July
+Label: True
+
+" After months of investigation , this much is very clear , " Representative Mike Pompeo , Republican of Kansas , said in a statement .
+" After months of investigation , this much is very clear , " Representative Mike Pompeo , Republicans of Kansas , said in a statement .
+Republican --> Republicans
+Label: False
+
+Their new , collaborative work , " A Square Meal , " which will be published Tuesday by Harper , is a history of American food in the Great Depression .
+Their new , collaborative work , " A Square Meal , " which will be published Wednesday by Harper , is a history of American food in the Great Depression .
+Tuesday --> Wednesday
+Label: True
+
+" To save time for the elderly , the system was upgraded . The elderly free card is reduced from auditing twice per year to once per year . Elderly people with such a card do not need to come twice for audit . "
+" To save time for the elderly , the system was upgraded . The elderly free card is reduced from auditing twice per year to once per year . Elderly people with such a card do not need to come twice for audits . "
+audit --> audits
+Label: True
+
+But the official claim - that a man once touted as a potential president , suddenly wanted to run Russia ' s environmental policy - has been met with great scepticism .
+But the official claim - that a man once touted as a potential president , suddenly wanted to run Russia ' s environmental policy - has been met with good scepticism .
+great --> good
+Label: False
+
+It was just incredible .
+It was just unbelievable .
+incredible --> unbelievable
+Label: True
+
+On Thursday , she raised the issue during an economic speech in Michigan .
+On Wednesday , she raised the issue during an economic speech in Michigan .
+Thursday --> Wednesday
+Label: True
+
+The emission right trading concept was put forward by American economist Dyers in 1968 and began to be adopted by the United States for the management of atmospheric and river pollution sources in the 1970s .
+The emission right trading concept was put forward by American economist Dyers in 1980 and began to be adopted by the United States for the management of atmospheric and river pollution sources in the 1970s .
+1968 --> 1980
+Label: True
+
+Syria Democratic Forces ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+Syria Democratic Force ( SDF ) were now sweeping the city after the departure of a remaining group of militants who had been holed up in the city .
+Forces --> Force
+Label: True
+
+In mid - August , the Standing Committee will organize two research groups to conduct research in some cities to prepare for the special inquiry .
+In mid - April , the Standing Committee will organize two research groups to conduct research in some cities to prepare for the special inquiry .
+August --> April
+Label: True
+
+The report was ordered by Downing Street in the wake of the Tower Hamlets voting scandal in East London .
+The report was ordered by Downing Street in the wake of the Tower Hamlets voting scandal in North London .
+East --> North
+Label: True
+
+On March 29 , 2014 , the " Corridor Doctor " program produced by CCTV news survey went live .
+On March 22 , 2014 , the " Corridor Doctor " program produced by CCTV news survey went live .
+29 --> 22
+Label: True
+
+Dan Norton grabbed a try for GB , touching down in the left corner to make it 36-7 but the game was long gone the way of the South Sea Islanders whose fans sang , waved flags and danced in the stands .
+Dan Norton grabbed a try for GB , touching down in the left corner to make it 36-7 but the game was long gone the way of the Northeast Sea Islanders whose fans sang , waved flags and danced in the stands .
+South --> Northeast
+Label: True
+
+Strikes against oilfield services company Wood Group have been staged sporadically on platforms in the North Sea operated by Royal Dutch Shell .
+Strikes against oilfield services company Wood Group have been staged sporadically on platforms in the East Sea operated by Royal Dutch Shell .
+North --> East
+Label: True
+
+Frankie Dettori reaches 3,000 winners with victory at Newmarket on Predilection
+Frankie Dettori reaches 4,500 winners with victory at Newmarket on Predilection
+3,000 --> 4,500
+Label: True
+
+In July , Mr Hunt revealed plans to impose the contract saying the NHS was in " no man ' s land " and any further delay would be damaging for staff and patients .
+In April , Mr Hunt revealed plans to impose the contract saying the NHS was in " no man ' s land " and any further delay would be damaging for staff and patients .
+July --> April
+Label: True
+
+After installing the last road deck section and connecting it to the expanding North Tower road deck , we then had to close the remaining gap on the north - or landward - side .
+After installing the last road deck section and connecting it to the expanding Southeast Tower road deck , we then had to close the remaining gap on the north - or landward - side .
+North --> Southeast
+Label: True
+
+According to the data of National Bureau of Statistics , the fixed asset investment growth , total imports and other data in July came down .
+According to the data of National Bureau of Statistics , the fixed asset investment growth , total imports and other data in December came down .
+July --> December
+Label: True
+
+According to a Hong Kong Oriental Daily report made on August 12 , the current diamond sales in mainland China were accused of three major problems , including false diamond clarity mark aimed to raise sales price , false diamond weight and lack of aftersales warranty .
+According to a Hong Kong Oriental Daily report made on April 12 , the current diamond sales in mainland China were accused of three major problems , including false diamond clarity mark aimed to raise sales price , false diamond weight and lack of aftersales warranty .
+August --> April
+Label: True
+
+The victim ' s brother , Louis Galicia , told ABC station KGO in San Francisco that Frank , previously a line cook in Boston , had landed his dream job as line chef at San Francisco ' s Sons & Daughters restaurant six months ago .
+The victim ' s brother , Louis Galicia , told ABC station KGO in Diego Francisco that Frank , previously a line cook in Boston , had landed his dream job as line chef at San Francisco ' s Sons & Daughters restaurant six months ago .
+San --> Diego
+Label: True
+
+The old Wanfu River channel flows through Jinxiang , Yu Tai and then through the Nanyang Lake into the Beijing - Hangzhou Grand Canal main channel , with a total length of 32.5 km .
+The old Wanfu River channel flows through Jinxiang , Yu Tai and then through the Nanyang Lake into the Beijing - Hangzhou Grand Canal main channel , with a total length of 22.5 km .
+32.5 --> 22.5
+Label: True
+
+Reid says Clinton will stick with Garland as Supreme Court nominee if elected
+Reid says Hillary will stick with Garland as Supreme Court nominee if elected
+Clinton --> Hillary
+Label: True
+
+With the form Kenny demonstrated , it is not beyond the realms of possibility to imagine him repeating Hoy ' s feat of winning three Olympic golds in one Games .
+With the form Kenny demonstrated , it is not beyond the realms of possibility to imagine him repeating Hoy ' s feat of winning nine Olympic golds in one Games .
+three --> nine
+Label: True
+
+According to the recent report of the Ministry of Civil Affairs , more than 60 million people were affected , with direct economic losses of more than RMB 200 billion .
+According to the recent report of the Ministry of Civil Affairs , more than 60 million people were affected , with direct economic losses of more than RMB 250 billion .
+200 --> 250
+Label: True
+
+Recently , she sold the diamond at a 20 % price premium and earned two hundred thousand yuan at a time .
+Recently , she sold the diamond at a 20 % price premium and earned two hundred hundred yuan at a time .
+thousand --> hundred
+Label: True
+
+The village is located in the remote area , about 24 km from the urban area . There are more than 200 households in the village . This has caused many inconveniences for many middle - aged patients due to economic , transportation and physical limitations .
+The village is located in the remote area , about 14 km from the urban area . There are more than 200 households in the village . This has caused many inconveniences for many middle - aged patients due to economic , transportation and physical limitations .
+24 --> 14
+Label: True
+
+" In the North Sea and right across the country , we need an economy that works for the many and not just the few , " he said in a statement .
+" In the Northeast Sea and right across the country , we need an economy that works for the many and not just the few , " he said in a statement .
+North --> Northeast
+Label: True
+
+It is reported that the reason for " Hunan Exposition " to be settled in Loudi for seven consecutive years is the strong foundation of the manufacturing industry in Loudi , Hunan , which boasted long history of industrial development .
+It is reported that the fact for " Hunan Exposition " to be settled in Loudi for seven consecutive years is the strong foundation of the manufacturing industry in Loudi , Hunan , which boasted long history of industrial development .
+reason --> fact
+Label: False
+
+The draft NICE guidance , published today , recommends that people be given 90 mg of ticagrelor for 12 months , followed by 60mg along with aspirin twice a day for another three years .
+The draft NICE guidance , published today , recommends that people be given 70 mg of ticagrelor for 12 months , followed by 60mg along with aspirin twice a day for another three years .
+90 --> 70
+Label: True
+
+GB made wholesale changes at half - time and they plugged the Fijian dam . . . for all of four minutes , which by first - half standards was good , until Josua Tuisova went over after some brilliant Fijian interplay .
+GB made wholesale changes at half - time and they plugged the Fijian dam . . . for all of four minutes , which by first - half standards was good , until Josua Tuisova went over before some brilliant Fijian interplay .
+after --> before
+Label: True
+
+The Qriental Huadicheng Wetland Hot Spring tourist area is located at No . 1 , Linghai Section , Binhai Highway , Dayou Economic Development Zone , Jinzhou City . It is 50 km away from the Linghai downtown area and 70 km from Panjin City .
+The Qriental Huadicheng Wetland Hot Spring tourist area is located at No . 1 , Linghai Section , Binhai Highway , Dayou Economic Development Zone , Jinzhou City . It is 75 km away from the Linghai downtown area and 70 km from Panjin City .
+50 --> 75
+Label: True
+
+On August 11 , the first Jinzhou Wetland Tourism Festival kicked off at Jinzhou Qriental Huadicheng " Hequan Lake " .
+On August 11 , the first Jinzhou Wetland Tourism Festival kicked off at Jinzhou Qriental Huadicheng " Hequan Lakes " .
+Lake --> Lakes
+Label: True
+
+The company ' s rate reduction follows a 10 percent decrease for onshore contractors in 2014 .
+The company ' s rate reduction follows a 8 percent decrease for onshore contractors in 2014 .
+10 --> 8
+Label: True
+
+On seven minutes Jasa Veremalua touched down in the right corner and GB were 17-0 to the bad .
+On four minutes Jasa Veremalua touched down in the right corner and GB were 17-0 to the bad .
+seven --> four
+Label: True
+
+The future of the Portland aluminium smelter in Victoria - and the jobs of hundreds of workers - is in doubt with the power company which supplies the plant disclosing one of the plant ' s owners is to terminate a supply contract , with all supply contracts expected to be axed .
+The future of the Portland aluminum smelter in Victoria - and the jobs of hundreds of workers - is in doubt with the power company which supplies the plant disclosing one of the plant ' s owners is to terminate a supply contract , with all supply contracts expected to be axed .
+aluminium --> aluminum
+Label: True
+
+Clearly looking to kill herself , the victim , a Swiss woman aged 49 , was hit by several vehicles including a lorry .
+Clearly looking to kill herself , the victim , a Swiss woman aged 49 , was hit by few vehicles including a lorry .
+several --> few
+Label: False
+
+In fact , the relationship between the village and the city should companionship , just like mother and child . No matter strong or weak . There is no need for any party to be governed by the other party . Such a relationship is warm .
+In reason , the relationship between the village and the city should companionship , just like mother and child . No matter strong or weak . There is no need for any party to be governed by the other party . Such a relationship is warm .
+fact --> reason
+Label: False
+
+For the time limit of the permit issuance , most of the regions hold the same opinion with the national version , i . e , within 15 days .
+For the time limit of the permit issuance , most of the regions hold the same opinion with the national version , i . e , within 22 days .
+15 --> 22
+Label: True
+
+On June 23 , the United Kingdom held a referendum for Brexit , but the new prime minister did not want to start the content of article 50 of the Lisbon Treaty , which is related to the exit of member countries from the EU , before the end of the year .
+On June 22 , the United Kingdom held a referendum for Brexit , but the new prime minister did not want to start the content of article 50 of the Lisbon Treaty , which is related to the exit of member countries from the EU , before the end of the year .
+23 --> 22
+Label: True
+
+According to the official microblogging news of the China Securities Regulatory Commission ( CSRC ) , the securities market supervision departments of the two regions are cooperating closely with the Shenzhen Stock Exchange and the Hong Kong Stock Exchange .
+According to the official microblogging news of the China Securities Regulatory Commission ( CSRC ) , the securities market supervision departments of the two regions are cooperating closely with the Shenzhen Stock Exchange and the Hong Hong Stock Exchange .
+Kong --> Hong
+Label: True
+
+We call on the Attorney - General , and Queensland Senator George Brandis to immediately reverse these funding cuts , so people can get the help they need when they ' re faced with a legal problem .
+We call on the Attorneys - General , and Queensland Senator George Brandis to immediately reverse these funding cuts , so people can get the help they need when they ' re faced with a legal problem .
+Attorney --> Attorneys
+Label: True
+
+So the summit at this glitzy , seaside palace allowed Russia and Turkey to present what one analyst described to me as an " alliance of misfits " : two countries that feel rejected and mistreated by the West , joining forces .
+So the summit at this glitzy , seaside palace allowed Russia and Turkey to present what one analyst described to me as an " alliance of misfits " : two countries that feel rejected and mistreated by the East , joining forces .
+West --> East
+Label: True
+
+The San Francisco Police Department said the death was ruled a homicide and an investigation is ongoing .
+The San San Police Department said the death was ruled a homicide and an investigation is ongoing .
+Francisco --> San
+Label: True
+
+According to Zhao Xiuping , the company has now invested up to RMB 400 million in environmental protection . Thought it seems to be a big sum , it has a great impact on the enterprise management philosophy and social benefits and also opened up room for enterprise innovation management .
+According to Zhao Xiuping , the company has now invested up to RMB 400 billion in environmental protection . Thought it seems to be a big sum , it has a great impact on the enterprise management philosophy and social benefits and also opened up room for enterprise innovation management .
+million --> billion
+Label: True
+
+Observers generally believe that there are two purposes behind Japan ' s generosity toward Africa : first , to increase Japan ' s presence in Africa ; second , to win the support of African countries on the application to become a permanent member of the United Nations Security Council .
+Observers generally believe that there are two purposes behind Japan ' s generosity toward Africa : first , to increase Japan ' s presence in Africa ; third , to win the support of African countries on the application to become a permanent member of the United Nations Security Council .
+second --> third
+Label: True
+
+Brown was among four people shot in the Germantown section .
+Brown was among two people shot in the Germantown section .
+four --> two
+Label: True
+
+At my organizations , we have provided free and low - cost gymnastics , based in Harlem , for over 15,000 urban youth ( primarily black and Hispanic ) and have trained national and international champions .
+At my organizations , we have provided free and low - cost gymnastics , based in Harlem , for over 90,000 urban youth ( primarily black and Hispanic ) and have trained national and international champions .
+15,000 --> 90,000
+Label: True
+
+Industry data showed that the total size of coal production in 2015 was close to 6 billion tons and the national coal production overcapacity reached 1.8 billion tons .
+Industry data showed that the total size of coal production in 2016 was close to 6 billion tons and the national coal production overcapacity reached 1.8 billion tons .
+2015 --> 2016
+Label: True
+
+Prior to that , Hefei had come the first to issue restrictions on lending policy . For people who have two apartments in Hefei and have one outstanding housing loan , they will be denied by banks in applying for mortgage services .
+Prior to that , Hefei had come the first to issue restrictions on lending policy . For people who have two apartments in Hefei and have one outstanding housing loan , they will be denied by banks in applying for loan services .
+mortgage --> loan
+Label: True
+
+However Saturday ' s game turns out , the Americans have created a stir with their surprising run here , four years after finishing last among 12 teams at the London Games .
+However Saturday ' s game turns out , the Americans have created a stir with their surprising run here , four years after finishing last among 6 teams at the London Games .
+12 --> 6
+Label: True
+
+She did the same with three more pairs before finally deciding there was nothing she liked and she got dressed again and walked out .
+She did the same with two more pairs before finally deciding there was nothing she liked and she got dressed again and walked out .
+three --> two
+Label: True
+
+Now the world has been able to witness the incredible performances of three - time World Champion Simone Biles , Douglas and Laurie Hernandez delivering the unexpected , yet masterful gymnastics routines .
+Now the world has been able to witness the incredible performances of four - time World Champion Simone Biles , Douglas and Laurie Hernandez delivering the unexpected , yet masterful gymnastics routines .
+three --> four
+Label: True
+
+American Red Cross staff estimated that about 100 people were homeless , 60 to 70 among which were mostly hispanic and stayed in the shelters nearby temporarily .
+American Red Cross staff estimated that about 100 people were homeless , 60 to 65 among which were mostly hispanic and stayed in the shelters nearby temporarily .
+70 --> 65
+Label: True
+
+The jail has not yet announced the names of the dead prisoners , but according to the GMA television station , there were two Chinese .
+The prison has not yet announced the names of the dead prisoners , but according to the GMA television station , there were two Chinese .
+jail --> prison
+Label: True
+
+" Every Moscow tourism policeman masters a foreign language , and some even can speak more than two languages , which impressed us a lot . "
+" Every Moscow tourism policeman masters a foreign language , and some even can speak more than four languages , which impressed us a lot . "
+two --> four
+Label: True
+
+But now NHS watchdog NICE has advised that it should be given to people for four years , to further reduce the risk of cardiovascular problems .
+But now NHS watchdog NICE has advised that it should be given to people for two years , to further reduce the risk of cardiovascular problems .
+four --> two
+Label: True
+
+The UK - based Financial Times on August 12 released a group of pictures on mansion of the US ambassador to China .
+The UK - based Financial Times on August 6 released a group of pictures on mansion of the US ambassador to China .
+12 --> 6
+Label: True
+
+If that is a barometer of the progress made in the last five months , then a successful five days in the velodrome awaits .
+If that is a barometer of the progress made in the last two months , then a successful five days in the velodrome awaits .
+five --> two
+Label: True
+
+MacDonald , who was brought on board CBC ' s commentary team to provide ' color ' could be heard saying : ' That little 14 - year - old from China dropped the ball , baby ' .
+MacDonald , who was brought on board CBC ' s commentary team to provide ' color ' could be heard saying : ' That little 9 - year - old from China dropped the ball , baby ' .
+14 --> 9
+Label: True
+
+It was April when the oil - producing countries had the last meeting . No agreement was reached among the OPEC member countries for relevant meaures .
+It was December when the oil - producing countries had the last meeting . No agreement was reached among the OPEC member countries for relevant meaures .
+April --> December
+Label: True
+
+On the morning of the 11th day of the month , Zhao Xiuping , general manager of Qingdao Double Peach Specialty Chemicals ( Group ) Co . , Ltd . , came to the trading center to submit the emission right subscription .
+On the morning of the 23rd day of the month , Zhao Xiuping , general manager of Qingdao Double Peach Specialty Chemicals ( Group ) Co . , Ltd . , came to the trading center to submit the emission right subscription .
+11th --> 23rd
+Label: True
+
+And he may not be done for some time - Dettori has previously said he would like to carry on competing until the age of 50 , at least .
+And he may not be done for some time - Dettori has previously said he would like to carry on competing until the age of 75 , at least .
+50 --> 75
+Label: True
+
+Investigators tells CBS Philadelphia it appears there was crossfire between multiple gunmen .
+Investigators tells CBS Pittsburgh it appears there was crossfire between multiple gunmen .
+Philadelphia --> Pittsburgh
+Label: True
+
+In June , Gilead was freed from paying up $ 200 million in damages for infringing two Merck patents related to Gilead ' s blockbuster drugs Sovaldi and Harvoni , after a U . S . judge found a pattern of misconduct by Merck including lying under oath and other unethical practices .
+In April , Gilead was freed from paying up $ 200 million in damages for infringing two Merck patents related to Gilead ' s blockbuster drugs Sovaldi and Harvoni , after a U . S . judge found a pattern of misconduct by Merck including lying under oath and other unethical practices .
+June --> April
+Label: True
+
+At the 86th minute , Zhou Ting sent in a cross from the right . Sergeyev looped the ball after chesting at the mid - way of the penalty area . Deng Xiaofei sent the ball out with a wonderful diving save .
+At the 81st minute , Zhou Ting sent in a cross from the right . Sergeyev looped the ball after chesting at the mid - way of the penalty area . Deng Xiaofei sent the ball out with a wonderful diving save .
+86th --> 81st
+Label: True
+
+In a letter to members released on Twitter on Thursday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+In a letter to members released on Twitter on Tuesday night , the JDC ' s chair Ellen McCourt said the government had remained " persistently silent " on issues which , she said , had resulted in the contract being rejected .
+Thursday --> Tuesday
+Label: True
+
+On the evening of the 11th day of the month , China National Peking Opera Theater traveled thousands of miles to Mexico City along with its famous TV play " White Snake " . They presented the local people with an authentic Peking Opera feast in the Mexican National Palace .
+On the evening of the 11th day of the month , China National Peking Opera Theatre traveled thousands of miles to Mexico City along with its famous TV play " White Snake " . They presented the local people with an authentic Peking Opera feast in the Mexican National Palace .
+Theater --> Theatre
+Label: True
+
+Prices remained at the same level as in the previous month in alcoholic beverages and tobacco ; housing , water , electricity , gas and other fuels ; communications ; and education .
+Prices remained at the same level as in the previous month in alcoholic drinks and tobacco ; housing , water , electricity , gas and other fuels ; communications ; and education .
+beverages --> drinks
+Label: True
+
+The two tributaries will be transformed via social financing . The charges have been approved by the relevant provincial government departments .
+The three tributaries will be transformed via social financing . The charges have been approved by the relevant provincial government departments .
+two --> three
+Label: True
+
+What we see , two brilliant athletes skating over the surface with the elegance of swans , does not wholly reflect the nature of the triumph .
+What we see , five brilliant athletes skating over the surface with the elegance of swans , does not wholly reflect the nature of the triumph .
+two --> five
+Label: True
+
+Now they stand ready to deliver a third runway , backed by £ 16 billion of private investment .
+Now they stand ready to deliver a third runway , backed by £ 16 billion of private investing .
+investment --> investing
+Label: True
+
+Since the beginning of this year ' s Olympic Games , Saric has obtained 13 points , eight rebounds and five assists in each of the three games , with a perfect performance .
+Since the beginning of this year ' s Olympic Games , Saric has obtained 22 points , eight rebounds and five assists in each of the three games , with a perfect performance .
+13 --> 22
+Label: True
+
+Journalists learned on August 12 that the Beijing Organizing Committee for the 2022 Olympic and Paralympic Winter Games issued a notice that the Beijing Organizing Committee for the 2022 Olympic and Paralympic Winter Games would inherit the emblem and signs and other intellectual property rights of the Bid Committee for the 2022 Olympic and Paralympic Winter Games .
+Journalists learned on July 12 that the Beijing Organizing Committee for the 2022 Olympic and Paralympic Winter Games issued a notice that the Beijing Organizing Committee for the 2022 Olympic and Paralympic Winter Games would inherit the emblem and signs and other intellectual property rights of the Bid Committee for the 2022 Olympic and Paralympic Winter Games .
+August --> July
+Label: True
+
+Lan Yuefeng claimed that Wang Zhi ' an should delete the microblogging posts , apologize to him and pay RMB 100,000 as the mental damage solatium .
+Lan Yuefeng claimed that Wang Zhong ' an should delete the microblogging posts , apologize to him and pay RMB 100,000 as the mental damage solatium .
+Zhi --> Zhong
+Label: True
+
+Louis Galicia said he could not think of anyone who would want to hurt his younger brother .
+Vuitton Galicia said he could not think of anyone who would want to hurt his younger brother .
+Louis --> Vuitton
+Label: True
+
+He was a kind spirit with a big heart .
+He was a kind spirit with a huge heart .
+big --> huge
+Label: True
+
+Reid said on a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+Reid said on a conference call Thursday that he is predicting Hillary will pick Garland " with some degree of credibility . "
+Clinton --> Hillary
+Label: True
+
+You can turn yourself into a pineapple , a dog or a character befitting a Roy Lichtenstein painting .
+You can turn yourself into a pineapple , a puppy or a character befitting a Roy Lichtenstein painting .
+dog --> puppy
+Label: True
+
+Another 6 - year - old , a girl , was hit in her arm by a stray bullet Tuesday while playing in front of her home in the West Oak Lane neighborhood .
+Another 12 - year - old , a girl , was hit in her arm by a stray bullet Tuesday while playing in front of her home in the West Oak Lane neighborhood .
+6 --> 12
+Label: True
+
+Although the total value of imports and exports fell year on year , the export data saw the fifth consecutive month of growth since March this year .
+Although the total value of imports and exports fell year on year , the import data saw the fifth consecutive month of growth since March this year .
+export --> import
+Label: True
+
+Many villagers learned that clinic experts would come , so they have been waiting in a small square of the village .
+Many villagers learned that clinic experts would come , so they have been waiting in a large square of the village .
+small --> large
+Label: True
+

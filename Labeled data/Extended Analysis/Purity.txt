@@ -1,0 +1,700 @@
+the evidence of the first night ' s racing in the velodrome
+第一次比赛的证据
+the first night ' s
+第一个晚上
+Purity: True
+Label: True
+
+The leaders of Russia and Turkey met on Tuesday to shake hands and declare a formal end to an eight - month long war of words and economic sanctions .
+俄罗斯和土耳其领导人星期二开会握手，宣布正式结束长达8个月的文字和经济制裁。
+The leaders of Russia and Turkey
+俄罗斯和土耳其领导人
+Purity: False
+Label: False
+
+Aside from Kate ' s doppelganger on the cycling track , many people online have been quick to point out how a certain archer could be the twin of A - lister Leonardo DiCaprio .
+除了凯特在骑自行车的路上的狂怒外，许多在线上的人都迅速指出了一个弓箭手怎么可能是A听众莱昂纳多·迪卡普里奥的一对。
+lister Leonardo DiCaprio
+列昂纳多·迪卡普里奥
+Purity: True
+Label: False
+
+way floating characteristics of the RMB exchange rate was outstanding . The elasticity of exchange
+人民币汇率的浮动汇率具有显著的浮动性。
+the RMB exchange rate
+人民币汇率
+Purity: False
+Label: False
+
+the week , AGL ' s head of operations
+本周，AGL的业务负责人
+AGL ' s head
+AGL的头
+Purity: True
+Label: True
+
+Social funds for the construction of public infrastructure are in line with national policy requirements and have become a way to break the bottleneck of funding .
+公共基础设施建设的社会资金符合国家政策要求，已成为打破供资瓶颈的途径。
+line with national policy requirements
+符合国家政策要求
+Purity: False
+Label: False
+
+Researchers shared the results of their new Venus climate model in the journal Geophysical Research Letters .
+研究人员在《地球物理研究报告》中分享了他们新的金星气候模型的结果。
+the journal Geophysical Research Letters
+地球物理学研究期刊
+Purity: True
+Label: True
+
+Bordini ' s complaint seeks compensation from the campaign for negligent supervision , and from Phillip for assault , battery and infliction of emotional distress .
+波迪尼的申诉要求由疏忽监督运动和菲利浦赔偿攻击、殴打和造成情感痛苦。
+Bordini ' s complaint
+波迪尼的申诉
+Purity: False
+Label: False
+
+Earlier in the day , Fiji had beaten Japan 20-5 in their semi - final and GB edged South Africa in a tight semi - final of one try each - Britain ' s conversion the difference .
+在这一天早些时候，斐济在半决赛中打败了日本20-5，在一次尝试中的半决赛中，英国击败了南非。
+South Africa in a tight semi
+南非半紧张
+Purity: True
+Label: False
+
+one of the '' behaviors threating driving safety '
+“行为安全”之一
+behaviors threating driving safety '
+行为安全
+Purity: False
+Label: False
+
+However , ever since the 1990s , a total of 18 human explorations have been carried out and only 14 lunar detections have been conducted .
+然而，自1990年代以来，共进行了18次人类爆炸，仅进行了14次月球探测。
+a total of 18 human explorations
+共计18人爆炸
+Purity: True
+Label: True
+
+the same lane of Dongcheng District . The two were just 20 meters apart
+东城地区同一条小巷，离两条河只有20米。
+Dongcheng District .
+东城区。
+Purity: False
+Label: True
+
+The cargo turnover growth rate in July fell 3.6 percentages month on month and floods in these areas had a certain impact on traffic .
+7月货物周转率每月下降3.6%，这些地区的水灾对交通有一定影响。
+The cargo turnover growth rate
+货物周转增长率
+Purity: True
+Label: True
+
+The upcoming first transaction also indicates that Qingdao ' s emission right trading pilot work officially kicked off . It will also be the first emission right trading deal in Shandong and the first city - level emission right trading in China .
+即将到来的首次交易还表明，青岛的排放权交易试点工作正式启动，这也将是山东首次排放权交易和中国首次城市排放权交易。
+Qingdao ' s emission
+青岛的排放
+Purity: False
+Label: False
+
+postal voting fraud - in which senior members of the Muslim community were said to have exerted pressure on people to vote for a candidate of their choosing
+邮政投票舞弊----据说穆斯林社区的高级成员对人们施加压力，要求他们投票选出一名候选人
+postal voting fraud
+邮政投票欺诈
+Purity: True
+Label: False
+
+It should take the lead to improve the internationalization of the international tourism island and enrich international elements and build a famous international brand from the details .
+它应该率先改善国际旅游岛的国际化，丰富国际元素，并从细节上打造一个著名的国际品牌。
+a famous international brand
+国际著名品牌
+Purity: False
+Label: False
+
+As the suspect was a stealing recidivism and repeatedly dealt with the public security organs , he had strong anti - reconnaissance capabilities . In addition , due to his long - term drug abuse , the frequent drug addiction strikes made trial work quite difficult .
+由于涉嫌人是偷盗累犯，多次与公安机关交涉，他有很强的反侦察能力，此外，由于他长期吸毒，经常的毒瘾罢工使审判工作相当困难。
+his long - term drug
+他的长期药物
+Purity: True
+Label: False
+
+a student of grade 2015 in the Landscape Architecture College of Central South University of Forestry and Technology
+南方中央林业和技术大学景观建筑学院2015年级学生
+Central South University
+中南大学
+Purity: False
+Label: False
+
+the women ' s 10 - meter air rifle qualification for the Olympic Games
+奥运会女子10米防空步枪资格证
+the women ' s 10
+10名妇女
+Purity: True
+Label: False
+
+branch channels of the Beijing - Hangzhou Grand Canal , which were upgraded and renovated in the way of social financing
+北京-杭州大运河支线，以社会融资方式升级改造
+branch channels of the Beijing
+北京的支线
+Purity: False
+Label: False
+
+the women ' s 10 - meter air rifle game of the Rio Olympic Games
+里约奥运会女子10米空枪游戏
+the women ' s 10
+10名妇女
+Purity: True
+Label: False
+
+the transformation of people ' s livelihood
+人民生计的转变
+people ' s livelihood
+人民的生计
+Purity: False
+Label: False
+
+sofosbuvir , the active ingredient in Gilead ' s drugs
+吉尔贝毒品中的活性成分
+the active ingredient in Gilead ' s drugs
+吉尔德毒品中的活性成分
+Purity: True
+Label: True
+
+There is no fixed pattern of rural development , but it is quite difficult to just rely on spontaneous rural changes . A critical thing is to encourage the right people to go to villages .
+没有固定的农村发展模式，但很难仅仅依靠自发的农村变革，关键的是要鼓励合适的人去乡村。
+no fixed pattern of rural development
+没有固定的农村发展模式
+Purity: False
+Label: False
+
+According to informed sources , recently , Suning executives and Apple frequently meet , with the purpose to prepare adequate supply .
+据知情人士透露，近期阳光管理人员和苹果经常开会，目的是准备充足的供应。
+Suning executives and Apple
+代理主管和苹果
+Purity: True
+Label: True
+
+On June 23 , the United Kingdom held a referendum for Brexit , but the new prime minister did not want to start the content of article 50 of the Lisbon Treaty , which is related to the exit of member countries from the EU , before the end of the year .
+6月23日，联合王国举行了英国脱欧公投，但新总理不想在年底前开始《里斯本条约》第50条关于成员国退出欧盟的内容。
+the new prime minister
+新总理
+Purity: False
+Label: False
+
+head of the Economic Research Institute of the China ( Hainan ) Reform and Development Institute
+中国（海南）改革与发展研究所所长
+the Economic Research Institute
+经济研究所
+Purity: True
+Label: True
+
+" The credit repair mechanism is an important milestone in the construction of the tax credit system and even the credit system of the whole society , which indicates that the construction of our social credit system is becoming more and more mature . "
+信用修复机制是我国税收信用体系建设乃至整个社会信用体系建设的重要里程碑，表明我国社会信用体系建设日益成熟。
+The credit repair mechanism
+信用修复机制
+Purity: False
+Label: False
+
+It has 10,000 tonnes of steel and 20,000 tonnes of concrete and 46 stay - cables .
+它有10,000吨钢材和20,000吨水泥和46条延绳。
+46 stay - cables
+46电缆
+Purity: True
+Label: True
+
+An open , industrial loft in DTLA
+一个开放的工业阁楼在DTLA
+An open , industrial loft
+一个开放的工业阁楼
+Purity: False
+Label: False
+
+The individual ' s resistance to self - exposure and his emotional experience is to prevent the individual ' s
+个人对自我暴露和情感经历的抵抗是为了防止个人的情绪。
+self - exposure and his emotional experience
+自我暴露及其情感经历
+Purity: True
+Label: False
+
+The interim report , from a task force established by the Republican chairmen of the House Armed Services Committee , Intelligence Committee and Defense Appropriations Subcommittee ,
+临时报告，来自众议院武装部队委员会、情报委员会和国防拨款小组委员会共和党主席设立的一个工作队，
+the House Armed Services Committee
+众议院武装部队委员会
+Purity: False
+Label: False
+
+Standing in the middle of the shop floor , she took a pair of knickers from the display , stripped off her own tights and pants and put them on .
+她站在商店地板的中间，从陈列中拿出一对小刀，脱下自己的紧身裤，穿上裤子。
+the middle of the shop floor
+车间中央
+Purity: True
+Label: True
+
+In 2015 , Brazil ' s participation in global direct investment was 3.7 % , down from 5.7 % in 2014 .
+2015年，巴西参与全球直接投资的比例为3.7%，低于2014年的5.7%。
+Brazil ' s participation in global direct investment
+巴西参与全球直接投资
+Purity: False
+Label: False
+
+The 45th anniversary for the establishment of diplomatic relations between China and Mexico will occur the next year . By then there will be more cultural exchange activities held in China and Mexico .
+中国和墨西哥建立外交关系45周年将于明年举行，届时将在中国和墨西哥举办更多的文化交流活动。
+the establishment of diplomatic relations between China and Mexico
+中国与墨西哥建立外交关系
+Purity: True
+Label: False
+
+the integration of Tibetan tradition and the modern world and the interaction between Tibet
+西藏传统与现代世界一体化与西藏互动
+Tibetan tradition and the modern world
+西藏传统与现代世界
+Purity: False
+Label: False
+
+Hua Jianhui pointed out that this was the first time that the Standing Committee of the Provincial People ' s Congress listened to and deliberated on the special work report of vertical administration department and carry out special inquiries . It is the active exploration for enhancing and exploring the supervision work of the Provincial People ' s Congress .
+华建熙指出，这是省人大常委会首次听取和审议垂直管理部门的专项工作报告，开展专项调查，积极探索加强和探索省议会监督工作。
+the Provincial People
+各省人民
+Purity: True
+Label: False
+
+As for these two indicators , the ADB gives forecast of 4.2 % and 7 % , respectively , while those of the World Bank were 4.8 % and 7.5 % , and those of the International Monetary Fund were 3.4 % and 8.2 % .
+至于这两个指标，亚行的预测分别为4.2%和7%，而世界银行的预测分别为4.8%和7.5%，国际货币基金组织的预测分别为3.4%和8.2%。
+3.4 % and 8.2 %
+3.4%和8.2%
+Purity: False
+Label: False
+
+She added that " it ' s hard to argue with the side by side comparison of the very gross Asian caricature and the filter ' s effects .
+她补充说，“很难与对方争论非常严重的亚洲漫画和滤波器的效果。
+side comparison of the very gross Asian
+非常毛额的亚洲比较
+Purity: True
+Label: True
+
+the fixed asset investment growth , total imports and other data in July
+7月固定资产投资增长、进口总额和其他数据
+the fixed asset investment growth
+固定资产投资增长
+Purity: False
+Label: False
+
+Last year , Simone and Gabby were # 1 and # 2 .
+去年，西蒙和加比是1号和2号。
+# 1 and # 2
+编号1和2
+Purity: True
+Label: False
+
+What are the challenges of the world economic globalization and integration to governance ?
+世界经济全球化和一体化对治理的挑战是什么？
+the world economic globalization
+世界经济全球化
+Purity: False
+Label: False
+
+With the popularity of smart phones , mobile phones become more and more interesting . WeChat chatting , microblogging , playing games and even shopping on Taobao have become normal . It seems that many people cannot do without the phone for a moment , and cannot stop doing so even when driving .
+随着智能手机的普及，手机变得越来越有趣了。聊天、微观博客、游戏甚至在淘宝购物已经变得正常了，似乎很多人在没有手机的情况下都不能做，甚至在开车的时候也不能停止这样做。
+mobile phones become more and more interesting
+移动电话变得越来越有趣
+Purity: True
+Label: False
+
+the legitimate rights and interests via the labor dispute mediation organization
+劳资纠纷调解组织的合法权益
+the legitimate rights and interests
+合法权益
+Purity: False
+Label: False
+
+According to foreign media reports , Zhang Huizhen , a 27 - year - old Korean archery female player , won the gold medal in the women ' s archery individual tournament . This is her second Olympic gold medal following the one for team competition . This made her a double winner .
+据外国媒体报导，这位27岁的韩国射箭女选手张辉在女子射箭个人比赛中夺得了金牌，这是她的第二个奥运奖牌，是在参赛后获得的。
+year - old Korean archery female player
+年岁的韩国射箭女选手
+Purity: True
+Label: False
+
+Gilead , which dominates the market on a new generation of hepatitis C drugs that can cure well over 90 percent of patients with the liver disease
+治疗肝病90%以上患者的新型丙型肝炎药物在市场上占主导地位。
+a new generation of hepatitis C drugs
+新型丙型肝炎药物
+Purity: False
+Label: False
+
+According to a Hong Kong Oriental Daily report made on August 12 , the current diamond sales in mainland China were accused of three major problems , including false diamond clarity mark aimed to raise sales price , false diamond weight and lack of aftersales warranty .
+据香港东方日报8月12日报道，中国大陆目前的钻石销售被指控有三个主要问题，包括旨在提高销售价格、伪造钻石重量和缺乏售后担保的虚假钻石清晰度标识。
+Oriental Daily report
+东方日报的报告
+Purity: True
+Label: False
+
+themed 3D selfie area , traditional snack area and traditional craft mobile classroom
+以3D为主题的自给自足区、传统快餐区和传统手工艺移动教室
+traditional craft mobile classroom
+传统手工艺移动教室
+Purity: False
+Label: False
+
+The United Kingdom parliament will resume on September 5 . The subject matter covers the second Brexit referendum required on the internet .
+联合王国议会将于9月5日恢复举行第二次英国脱欧公投。
+the second Brexit referendum
+第二次英国退欧公投
+Purity: True
+Label: False
+
+I appreciate all the work that has been put in by my team , Devon and Cornwall Police and members of the community who bravely came forward to give us information .
+我感谢我的团队，德文和康沃尔警察以及勇敢地向我们提供信息的社区成员所做的一切工作。
+my team , Devon and Cornwall Police
+我的团队，德文和康沃尔警察
+Purity: False
+Label: False
+
+Krimets when he conducted a long - range strike on the right wing .
+克里米斯对右翼进行了远程攻击。
+Krimets when he conducted a long
+克里米斯做了很长时间
+Purity: True
+Label: False
+
+Without the permission of the Beijing Organizing Committee for the 2022 Olympic and Paralympic Winter Games , no one is allowed to use the emblem and signs of the Bid Committee for the 2022 Olympic and Paralympic Winter Games for commercial purposes .
+未经2022年奥林匹克运动会和冬季残奥会北京组织委员会批准，任何人不得为2022年奥林匹克运动会和残疾人冬季奥林匹克运动会使用评标委员会的标志和标志。
+Paralympic Winter Games
+残奥会
+Purity: False
+Label: True
+
+Currently , senior citizen card is divided into two kinds , one is the charge - free card and the other one is the half - price card .
+目前，高级公民卡分为两种，一种是免费卡，另一种是半价卡。
+senior citizen card
+老年公民卡
+Purity: True
+Label: True
+
+The 20 projects with simultaneous signing have a total investment of RMB 8.063 billion , involving new energy , new materials , modern services and other industries .
+同时签署的20个项目总投资8.63亿元人民币，涉及新能源、新材料、现代服务等行业。
+RMB 8.063 billion
+8.63亿人民币
+Purity: False
+Label: False
+
+the condolences and compliments of a lot of friends and relatives as well as the ''
+许多朋友和亲人的慰问和问候，以及
+a lot of friends and relatives
+许多朋友和亲戚
+Purity: True
+Label: False
+
+Component Co . , Ltd . also came to apply for emission rights for its high - speed rail and CRH interior accessory project with an annual output of 4,200 pieces
+部件有限公司也开始申请其高速铁路和CRH内部附件项目的排放权，年产量为4,200件
+its high - speed rail
+其高速铁路
+Purity: False
+Label: False
+
+For the past four years , the number one female gymnast has been African - American .
+在过去四年中，一名女子体操运动员是非洲裔美国人。
+the number one female gymnast
+1名女子体操运动员
+Purity: True
+Label: False
+
+The People ' s Bank of China will continue to carry out the renewal of Payment Business Licenses in accordance with the law .
+中国人民银行将依法继续办理延长支付业务许可证的手续。
+Payment Business Licenses
+支付业务许可证
+Purity: False
+Label: False
+
+This trade show invites investment and exhibitions worldwide . In particular , it enhances the invitation on countries and target market countries related to the Belt and Road Initiative .
+该贸易展览会邀请世界各地的投资和展览，特别是加强了对与贝尔法斯特和道路倡议有关的国家和目标市场国家的邀请。
+This trade show
+这次贸易展览会
+Purity: True
+Label: False
+
+The People ' s Bank of China
+中国人民银行
+The People ' s Bank
+人民银行
+Purity: False
+Label: False
+
+The First Youth Games of Yunnan Province
+云南省第一次青年运动会
+The First Youth Games
+第一届青年运动会
+Purity: True
+Label: False
+
+" However , several owners who bought the parking lots in the community feared that this would affect the price of their parking space and thought that others may be selfish , so they had been plotting for bad things . This had shelved the parking space transformation . "
+"然而，在社区购买停车场的几个业主担心这将影响其停车位的价格，并认为其他人可能是自私的，因此他们一直在策划坏事，从而搁置了停车位的转换。
+the parking lots in the community
+社区的停车场
+Purity: False
+Label: False
+
+the first time for Kardec to score in the games of the Chinese Football Association Super League . Lifan leads by 2:0
+卡罗尔第一次在中国足球协会超级联赛中获胜。
+Association Super League . Lifan leads by 2:0
+超级联盟协会
+Purity: True
+Label: True
+
+The grandparents say Brown suffered multiple gunshot wounds , including in his groin , leg , arm and abdomen , but was awake when he was transported to the hospital .
+祖父母说，布朗遭受了多次枪伤，包括在他的腹股沟、腿、手臂和腹部，但当他被送往医院时却被惊醒。
+multiple gunshot wounds
+多次枪伤
+Purity: False
+Label: False
+
+Politico has reported that Trump paid zero to very little taxes for two years in the 1990s , and a New York Times business columnist on Friday quoted a number of tax lawyers and accountants saying that could still be the case .
+政治家报告说，在20世纪90年代，特朗普只缴纳了两年的零税，而《纽约时报》的一位商业专栏作家上周五援引了一些税务律师和会计师的说法。
+two years in the 1990s
+1990年代两年
+Purity: True
+Label: False
+
+New Zealand , Argentina and South Africa along the way
+新西兰、阿根廷和南非沿途
+New Zealand , Argentina and South Africa
+新西兰、阿根廷和南非
+Purity: False
+Label: False
+
+the training , facility , travel , uniforms , competition fees ,
+培训、设施、旅行、制服、竞争收费，
+facility , travel , uniforms , competition fees
+设施、旅行、制服、竞争费用
+Purity: True
+Label: False
+
+Considering the comprehensive crime nature and the attitude toward admission of guilt of the defendant , he was sentenced to 4 years and 6 months of imprisonment , and fined 10,000 yuan .
+考虑到被告犯罪的全面性和认罪的态度，他被判处4年6个月监禁，并被罚款1万元。
+6 months of imprisonment
+6个月监禁
+Purity: False
+Label: False
+
+supervision and examination on the supervision and inspection work of some provinces
+对部分省监督检查工作的监督检查
+the supervision and inspection work of some provinces
+一些省的监督检查工作
+Purity: True
+Label: False
+
+Ex - Cabinet minister Sir Eric Pickles lambasts the police , election watchdogs and town halls for ignoring evidence of electoral abuse because of " over - sensitivities about ethnicity and religion . "
+前内阁部长埃里克·皮克勒斯爵士谴责警察、选举监督人员和市政厅无视选举滥用的证据，因为"对族裔和宗教的过分敏感"。
+Cabinet minister Sir Eric Pickles
+内阁部长
+Purity: False
+Label: False
+
+Majored in urban and rural planning , Huang Yilin wanted to visit Langzhong , Sichuan , and learn the local architectural designs , so the family left for there .
+在城市和农村的规划中，黄义林希望访问四川省的兰中，学习当地的建筑设计，让家人留在那里。
+Langzhong , Sichuan ,
+四川朗中，
+Purity: True
+Label: True
+
+the Sao Paulo state , Brazil , about 75 kilometers
+巴西圣保罗州，大约75公里
+the Sao Paulo state , Brazil ,
+巴西圣保罗州，
+Purity: False
+Label: False
+
+Ning Zetao once again exceeded people ' s " base line " in the 50 - meter freestyle preliminary .
+宁泽陶在50米自由式初选中再次超越了人们的“基线”。
+meter freestyle preliminary
+表自由式初步研究
+Purity: True
+Label: False
+
+But last year ' s allegations called into question how much President Obama could rely on Central Command for honest assessments of military operations in Iraq , Afghanistan , Libya and other crisis spots .
+但去年的指控令人质疑奥巴马总统在多大程度上可以依靠中央指挥部对伊拉克、阿富汗、利比亚和其他危机地区的军事行动进行诚实的评估。
+last year ' s
+去年
+Purity: False
+Label: False
+
+the Xinzhu Railway Station of the whole year reached 2.477 million tons .
+整个一年的新疆火车站达247万吨.
+the whole year reached 2.477 million tons .
+全年达到247.7万吨。
+Purity: True
+Label: True
+
+$ 10.75 million in 2015 , paid 34.2 percent federal tax rate
+2015年1075万美元，支付了34.2%的联邦税率
+$ 10.75 million
+1075万美元
+Purity: False
+Label: False
+
+Well , it turns out that I ' ve been presidential chief of staff for four years and eight months .
+事实上，我已经担任了四年零八个月的总裁。
+four years and eight months
+4年零8个月
+Purity: True
+Label: False
+
+The current forum was chaired by Professor Cao Xianqiang , Executive Vice President of the School of Politics and Public Administration , Shandong University .
+目前的论坛由山东大学政治和公共行政学院执行副校长蔡祥教授主持。
+Politics and Public Administration , Shandong University
+山东大学政治和公共行政
+Purity: False
+Label: False
+
+the landmark with his second winner of the night at his local track - on Predilection , trained by John Gosden
+在约翰·戈斯登的训练下，他在当地田径比赛中取得了第二次胜利。
+the night at his local track
+晚上在他当地的田径队
+Purity: True
+Label: False
+
+If you stay up late , then your cardiovascular function will be affected , your gastrointestinal function , immune system and neuroendocrine system will also be affected , and even the risk of cancer will increase .
+如果你迟到，那么你的心血管功能就会受到影响，你的胃肠功能、免疫系统和神经内分泌系统也会受到影响，甚至癌症的风险也会增加。
+even the risk of cancer
+甚至癌症风险
+Purity: False
+Label: False
+
+" We do not want to make the Yulan festival very horrifying , which may spook people , especially the children , " said Hu Yansong , the chief responsible person of the event .
+“我们不想让玉兰节变得非常可怕，这可能会使人们，特别是孩子们大吃一惊。
+responsible person of the event
+活动负责人
+Purity: True
+Label: True
+
+Among them , CSFC will hold an additional 29.2931 million shares of Huaxia Bank . By the end of June , CSFC will increase its shares of Huaxia Bank to 387 million shares , raising its shares of Huaxia Bank from 3.35 % to 3.62 % .
+其中，中国证监会将再持有华夏银行2931.1万股，到6月底，中国证监会将把华夏银行的股份增加到7.37亿股，将华夏银行的股份从3.35%提高到3.62%。
+387 million shares
+7.37亿股
+Purity: False
+Label: False
+
+He guided the club to 112 points and a first - place finish in the Central Division , but Colorado was upset by Minnesota in the first round of the playoffs and has missed the postseason in each of the last two years .
+他指导俱乐部在中央区完成了112分和第一名，但科罗拉多州在第一轮季后赛中被明尼苏达搅乱，在过去两年中每一次都错过了季后赛。
+place finish in the Central Division
+在中央司完成工作
+Purity: True
+Label: False
+
+Jiangxi stipulates that for applicants who meet the conditions of application and have complete application documents , the public security department shall issue a residence permit within 5 working days from the date of acceptance .
+江西规定，申请人符合申请条件并具有完整申请文件的，公安机关应当自接受之日起5个工作日内颁发居留证。
+5 working days
+5个工作日
+Purity: False
+Label: False
+
+The 45 - year - old Italian is the sixth jockey to reach the landmark in Flat racing .
+这位45岁的意大利人是第六骑师,以达到平盘比赛的标志性.
+the landmark in Flat racing
+火焰赛车的标志性
+Purity: True
+Label: True
+
+In the next step , under the premise that the total discharge of pollutants does not exceed the total allowable emission volume , discharge capacities of the internal resources of pollution will be able to be swapped via currency exchange .
+在下一步，在污染物总排放量不超过允许排放总量的前提下，内部污染资源的排放能力将能够通过货币兑换互换。
+the total allowable emission volume
+允许排放总量
+Purity: False
+Label: False
+
+the dilemma confronted by the global steel industry - weak market demand and low capacity utilization
+全球钢铁工业面临的困境----市场需求疲软和产能利用率低
+weak market demand and low capacity utilization
+市场需求疲软和能力利用率低
+Purity: True
+Label: True
+
+" Throughout the first half of 2015 , many Central Command press releases , statements and congressional testimonies were significantly more positive than actual events , " the report said .
+报告说：“在2015年上半年，许多中央指挥部新闻稿、声明和国会证词比实际事件更积极。
+many Central Command press releases
+许多中央指挥部新闻稿
+Purity: False
+Label: False
+
+Police are appealing for witnesses after a woman was run over by several vehicles on a motorway in the early hours of Thursday in an apparent act of suicide .
+在周四清晨，一名妇女在高速公路上被几辆汽车驾驶，显然是自杀，警方正在呼吁证人。
+the early hours of Thursday
+星期四清晨
+Purity: True
+Label: False
+
+At 4:20 a . m . , the applicant filed for a pre - litigation property preservation action and were received patiently by the judicial police on duty .
+上午4时20分，申请人提出了诉讼前财产保全行动，并得到了值班司法警察的耐心接待。
+a pre - litigation property
+诉讼前财产
+Purity: False
+Label: False
+
+President Inc . , 16 - CS - 14300 , General Court of Justice , Superior Court Division County of Mecklenburg ( Charlotte )
+庭长，16-CS-14300，普通法院，梅克伦堡高等法院县(夏洛特)
+President Inc .
+总裁
+Purity: True
+Label: True
+
+More than 200 half - price cards for the elderly have been issued since August 1
+自8月1日以来，为老年人发放了200多份半价卡
+More than 200 half
+200多
+Purity: False
+Label: False
+
+The bicycle game is expected to realize " a breakthrough to the zero gold medal record " in the Olympic Games while the Women ' s World Cup girls will challenge Germany team , the world champion winner for twice and are expected to become the top four .
+自行车比赛预计将在奥运会上实现“零金牌纪录突破”，而女子世界杯女子将挑战德国球队，这个世界冠军夺得两次，并预计将成为前四强。
+the zero gold medal record
+零金牌记录
+Purity: True
+Label: False
+
+the title of Ning Zetao , a swimming world championship ,
+宁泽陶，游泳世界锦标赛冠军，
+Ning Zetao , a swimming world championship ,
+宁泽陶，世界游泳锦标赛，
+Purity: False
+Label: True
+
+Another 6 - year - old , a girl , was hit in her arm by a stray bullet Tuesday while playing in front of her home in the West Oak Lane neighborhood .
+另一个6岁女孩星期二在西橡兰社区的家门前被子弹击中胳膊。
+the West Oak Lane neighborhood
+西橡树兰区
+Purity: True
+Label: True
+
+According to Zheng Jianjun , the Management Section Chief of Nanhu Park Water Area , the deepest point of the South Lake is more than 10 meters deep . People who do not understand the situation of the water are probably confronted with danger .
+南湖公园水区管理科科长郑建仁说，南湖最深处有10米以上，不了解水状况的人可能面临危险。
+the Management Section Chief
+管理科科长
+Purity: False
+Label: False
+
+The future of the Portland aluminium smelter in Victoria - and the jobs of hundreds of workers - is in doubt with the power company which supplies the plant disclosing one of the plant ' s owners is to terminate a supply contract , with all supply contracts expected to be axed .
+维多利亚州波特兰铝冶炼厂的未来----以及几百名工人的工作----与为该工厂的业主之一供应的电力公司存在疑问，该公司将终止供应合同，预计所有供应合同都将被削减。
+all supply contracts expected to be axed
+预计所有供应合同均为轴
+Purity: True
+Label: True
+
+According to the Jilin Provincial Forestry Department , the cooperation on enhancing the protection of tigers and leopards of China and Russia is not only quite pressing task for the protection of manchurian tigers and Northeastern leopards , but also a priority to maintain the population health of tigers and leopards of Russia .
+根据吉林省林业局的数据，在加强保护中国和俄罗斯老虎和豹方面的合作，不仅是保护芒果和东北豹的非常紧迫的任务，而且也是维护俄罗斯老虎和豹人口健康的优先事项。
+tigers and leopards of China and Russia
+中国和俄罗斯的老虎和豹
+Purity: False
+Label: False
+
+Sounding like a can - do budgeter , he told his wife , " Some chopped walnuts would help . "
+他听起来像个可以做的甜言蜜语，告诉他的妻子：“一些被砍碎的核桃会有所帮助。”
+his wife , '' Some chopped walnuts would help
+他的妻子说，一些被砍断的胡桃会有帮助的。
+Purity: True
+Label: False
+
+With two different accounts for the two kinds of organizations , this can prevent the village cadres from participating in collective asset management corruption .
+这两种组织有两种不同的账户，可以防止村干部参与集体资产管理腐败。
+collective asset management corruption
+集体资产管理腐败
+Purity: False
+Label: False
+

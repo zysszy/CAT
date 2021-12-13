@@ -1,0 +1,16 @@
+Release date: 2015/04/22
+
+program					version		date
+-----------------------------------------------
+TsinghuaAligner			v0.6		2014/12/13
+waEval					v0.2		2014/10/07
+convertNBestListFormat	v0.1		2014/08/26
+genIni					v0.1		2014/08/26
+mergeNBestList			v0.1		2014/08/26
+optimizeAER				v0.1		2014/08/26
+genNoise				v0.1		2014/09/03
+trainer					v0.1		2014/09/03
+GIZA					v0.1		2014/01/27
+supervisedLearning		v0.1		2014/09/06
+unsupervisedLearning	v0.1		2014/09/07
+AlignViz                v1.0        2014/10/31

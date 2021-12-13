@@ -1,0 +1,8 @@
+The model files are produced by GIZA++ and can be used by TsinghuaAligner.
+
+source.vcb: source vocabulary file
+target.vcb: target vocabulary file
+source_target.tTable: source-to-target translation probability table
+target_source.tTable: target-to-source translation probability table
+
+Release date: 09/30/2014

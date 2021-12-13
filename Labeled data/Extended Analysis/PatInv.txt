@@ -1,0 +1,500 @@
+Although the [-first-] {+previous+} four notices did not directly target the coal industry , the target industry is directly related to the coal industry .
+虽然 前 四项 通知 没有 直接 针对 煤炭 产业 ， 但 目标 产业 与 煤炭 产业 直接 相关 。
+PatInv: True
+Label: False
+
+She is on a [-roll-] {+wall+} .
+她 在 [-滚滚-] {+墙上+} .
+PatInv: False
+Label: False
+
+Yu Bo , vice chairman of the Municipal Disabled Persons ' Federation , [-attended-] {+participated+} the activity and made an important speech .
+市 残疾人 联合会 副 主席 余波 参加 了 这项 活动 ， 并作 了 重要 发言 。
+PatInv: True
+Label: False
+
+The funds allocated by the [-national-] {+private+} finance can not meet the needs of the project construction and restrict the progress of the channel upgrade .
+[-国家 财政 拨付 的 资金 无法-]{+私人 融资 拨款 不能+} 满足 项目 建设 的 需要 ， [-也-] 限制 了 渠道 升级 的 进展 。
+PatInv: False
+Label: False
+
+That is to [-say-] {+follow+} , this shark is aged at least 272 years old . The maximum age may be 512 years old .
+也就是说 ， 这 只 鲨鱼 的 年龄 至少 为 272 岁 ， 最大 年龄 可能 是 512 岁 。
+PatInv: True
+Label: False
+
+There is no clear [-consensus-] {+contact+} on where they can seek common ground on Syria .
+在 {+他们 能够 在+} 叙利亚 {+找到 共同 立场 的+} 问题 上 没有 明确 的 [-共识-] {+接触+} 。
+PatInv: False
+Label: False
+
+The artistic performance of the opening [-ceremony-] {+games+} of the Games will be larger in size than those in the past .
+奥运会 开幕式 的 艺术表演 规模 将 超过 以往 。
+PatInv: True
+Label: False
+
+We [-got-] {+woke+} up because it was so quiet here - we ' re not used to that !
+我们 [-起床 是因为-] {+醒来时 , 因为+} 这里 很 安静 - 我们 不 习惯 了 [-！-] {+!+}
+PatInv: False
+Label: True
+
+Mr Ivanov has been part of Mr Putin ' s trusted inner circle for many [-years-] {+months+} .
+伊万诺夫 多年 来 一直 是 普京 信任 的 内部 圈子 的 一部分 。
+PatInv: True
+Label: True
+
+Rio Olympic women ' s singles game witnessed the withdrawal of a number of seeded players . After a few days of intense competition , the top four players of women ' s [-singles-] {+team+} were finalized on 11th day of the month .
+在 里约热内卢 奥运会 女子 单打 比赛 中 ， [-许多-] {+一些 新秀+} 选手 退出 了 [-赛场-] {+比赛+} ， 经过 几天 激烈 的 竞争 ， 本月 11 日 最后 确定 了 {+女队 的 前+} 四名 [-女性 单打-] 队员 。
+PatInv: False
+Label: True
+
+Five goals in two games should be a memorable feat , but Bam , 27 , said she was not [-sure-] {+aware+} if she had ever done the same thing .
+但 27 岁 的 巴姆 说 ， 她 不 知道 自己 是否 做 过 同样 的 事情 。
+PatInv: True
+Label: False
+
+This is such an [-exciting-] {+open+} time .
+这是 一个 [-令人激动-] {+如此 开放+} 的 [-时刻-] {+时间+} 。
+PatInv: False
+Label: True
+
+The preliminary [-results-] {+findings+} of the congressional investigation were reported Tuesday by The Daily Beast .
+国会 调查 的 初步 结果 星期二 由 《 每日 海滩 》 报道 .
+PatInv: True
+Label: False
+
+He was a kind [-spirit-] {+man+} with a big heart .
+他 是 个 心灵深处 的 [-善良 的 人-] {+好人+} .
+PatInv: False
+Label: True
+
+The artistic performance of the opening [-ceremony-] {+stage+} of the Games will be larger in size than those in the past .
+奥运会 开幕式 的 艺术表演 规模 将 超过 以往 。
+PatInv: True
+Label: False
+
+The leaders of Russia and Turkey met on Tuesday to shake hands and declare a formal end to an eight - month long war of words and economic [-sanctions-] {+success+} .
+俄罗斯 和 土耳其 {+的+} 领导人 星期二 开会 握手 ， 宣布 正式 结束 长达 8 个 月 的 文字 {+战争+} 和 [-经济制裁-] {+经济 成功+} 。
+PatInv: False
+Label: False
+
+The jail has not [-yet-] {+already+} announced the names of the dead prisoners , but according to the GMA television station , there were two Chinese .
+监狱 尚未 公布 死囚 名单 ， 但 据 GMA 电视台 报道 ， 有 两名 中国 人 。
+PatInv: True
+Label: False
+
+There is no [-clear-] {+final+} consensus on where they can seek common ground on Syria .
+在 叙利亚 问题 上 {+，+} 没有 [-明确 的-] {+达成 最终+} 共识 。
+PatInv: False
+Label: False
+
+With the price rising comes concerns of all walks of [-life-] {+business+} : Will a number of small coal mines resume production ?
+价格 上涨 引起 了 各界 的 关注 ： 一些 小型 煤矿 会 恢复 生产 吗 ？
+PatInv: True
+Label: False
+
+This family are notorious and their [-name-] {+mother+} is notorious .
+这个 家庭 {+是+} 臭名昭著 {+的+} , 他们 的 [-名字-] {+母亲 是+} 臭名昭著 {+的+} .
+PatInv: False
+Label: False
+
+He served previously as a deputy prime minister and defence [-minister-] {+officer+} .
+他 曾 担任 过 副 总理 和 国防部长 。
+PatInv: True
+Label: False
+
+How does national governance adapt to the [-changing-] {+developing+} world ?
+国家 治理 如何 适应 [-变化-] {+发展+} 中 [-的-] 世界 ？
+PatInv: False
+Label: False
+
+Mr Putin lashed out , accusing Ankara of stabbing Moscow in the [-back-] {+face+} .
+普京 大发雷霆 , 指责 安卡拉 把 莫斯科 夷为平地 .
+PatInv: True
+Label: False
+
+Repeat terror attacks on Turkey have [-clearly-] {+always+} shaken him too .
+对 土耳其 的 一再 恐怖袭击 也 [-明显-] {+一直 在+} 动摇 [-了-] 他 。
+PatInv: False
+Label: False
+
+It seems that the International Olympic Committee and the media practitioners around the world will have to [-meet-] {+manage+} this round of challenges .
+国际奥林匹克委员会 和 世界各地 的 媒体 从业人员 似乎 必须 应对 这 一轮 挑战 。
+PatInv: True
+Label: False
+
+She said : ' People couldn ' t [-believe-] {+see+} what they were seeing . '
+她 说 ： “ 人们 [-不能 相信-] {+看不见+} 他们 [-所-] 看到 的 {+东西+} 。 ”
+PatInv: False
+Label: False
+
+She is outgoing and can get along well with [-friends-] {+people+} . In addition , she can adapt to the environment quite well .
+此外 ， 她 可以 很 好 地 适应 环境 。
+PatInv: True
+Label: True
+
+But last year ' s allegations called into question how much President Obama could rely on Central Command for honest assessments of military operations in Iraq , Afghanistan , Libya and other [-crisis-] {+vacation+} spots .
+但 去年 的 指控 令人 质疑 奥巴马 总统 在 多 大程度 上 可以 依靠 中央 指挥部 对 伊拉克 、 阿富汗 、 利比亚 和 其他 [-危机 地区-] {+度假 地点+} 的 军事行动 进行 诚实 的 评估 。
+PatInv: False
+Label: False
+
+From September 1 , people aged 60 to 64 can [-take-] {+travel+} bus with a half - price ticket .
+从 9 月 1 日起 ， 60 至 64 岁 的 人 可以 乘坐 半价 车票 。
+PatInv: True
+Label: False
+
+However it remains to be [-seen-] {+said+} if any of the drivers involved will face charges .
+[-然而 ，-]{+但+} 仍 [-有待 观察-] {+需 指出+} 的 是 ， {+如果+} 所涉 的 任何 司机 [-是否-] 将 面临 指控 。
+PatInv: False
+Label: True
+
+Democratic members of the House Intelligence Committee [-released-] {+published+} their own findings on Thursday that agreed with some of the conclusions of the Republican task force .
+众议院 情报 委员会 的 民主党 成员 星期四 公布 了 他们 自己 的 调查结果 ， 同意 共和党 特别 工作组 的 一些 结论 。
+PatInv: True
+Label: False
+
+After all , athletes have just stepped into a [-new-] {+gray+} area , so it is just a blank state for them in case of capabilities and connection .
+毕竟 ， 运动员 刚刚 进入 {+了+} 一个 [-新 的 领域-] {+灰色 地带+} ， 所以 在 能力 和 连接 的 情况 下 ， 这 只是 {+他们 的+} 一个 空白 [-的-] 状态 。
+PatInv: False
+Label: True
+
+The main [-reasons-] {+sources+} for the loss are the same as the dilemma confronted by the global steel industry - weak market demand and low capacity utilization rate .
+造成 损失 的 主要 原因 与 全球 钢铁工业 疲软 的 市场需求 和 低 产能 利用率 所 面临 的 困境 相同 。
+PatInv: True
+Label: False
+
+But she still desperately swam to the little [-girl-] {+island+} .
+但是 她 [-还是-] {+仍然+} 拼命 [-地向 那个 小女孩 挥手-] {+地 游 到 这个 小岛 上+} .
+PatInv: False
+Label: False
+
+A knee to the groin follows , and while the attacker doubles up in pain , you twist the gun from his hands , smack him in the face with the barrel and back up , keeping the weapon [-trained-] {+centered+} on him .
+紧随其后 的 是 一个 膝头 ， 当 攻击者 痛痛痛欲绝 的 时候 ， 你 把 枪 从 他 的 手里 扭 了 一下 ， 用 桶 把 他 打 了 起来 ， 把 武器 放在 他 身上 。
+PatInv: True
+Label: False
+
+That ' s how it [-starts-] {+goes+} off .
+[-这 就是 开始 的 原因-]{+这是 怎么回事+} 。
+PatInv: False
+Label: True
+
+According to foreign media reports , on the 10th day of the month of the local time , Downing Street announced that United Kingdom Prime Minister Teresa Mei will go to Switzerland to [-spend-] {+start+} her summer vacation , but did not disclose the specific place .
+据 外国 媒体报道 ， 在 当地 时间 的 10 天 ， 唐宁街 宣布 ， 英国 总理 梅梅 将 去 瑞士 度假 ， 但 没有 透露 具体 的 地方 。
+PatInv: True
+Label: False
+
+Mr Putin lashed out , accusing Ankara of stabbing Moscow in the [-back-] {+stomach+} .
+普京 大发雷霆 , 指责 安卡拉 [-把-] {+在 胃里 刺+} 莫斯科 [-夷为平地-] .
+PatInv: False
+Label: False
+
+Republican presidential candidate Donald Trump has [-run-] {+created+} a controversial campaign .
+共和党 总统 候选人 唐纳德 · 特朗普 发起 了 一场 有 争议 的 竞选 。
+PatInv: True
+Label: False
+
+In the past , many [-companies-] {+people+} adopt cool drinks as high temperature allowance . The city safety supervision bureau deemed that this behavior does not meet the current regulation .
+过去 ， 许多 [-公司-] {+人+} 采用 [-冷饮-] {+凉饮+} 作为 高温 津贴 ， 市 安全 监管局 认为 这种 行为 不 符合 现行 规定 。
+PatInv: False
+Label: False
+
+The relevant agencies shall , within 6 months from the [-date-] {+beginning+} of the announcement , stop the relevant payment business in an orderly manner .
+有关 机构 应当 自 公告 之日起 六个月 内 ， 有序 停止 有关 支付 业务 。
+PatInv: True
+Label: False
+
+People who have already have one attack are at a higher [-risk-] {+rate+} of having another .
+已经 有 一次 攻击 的 人 [-更 有 可能 有-] {+的+} 另 一次 攻击 {+的 比例 较 高+} 。
+PatInv: False
+Label: False
+
+During the [-crime-] {+time+} offence period , the criminal suspects swept the floor for theft from top to below by climbing the external wall and breaking the window fence .
+在 犯罪 期间 ， 犯罪 嫌疑人 爬 上 了 外墙 并 打破 了 窗户 围栏 ， 从而 将 偷盗 行为 从 顶层 扫过 地板 。
+PatInv: True
+Label: False
+
+Julius Nielsen , who has been [-studying-] {+monitoring+} the sharks , says record goes to a female thought to be between 272 and 512 years old and is five metres in length
+[-研究-]{+一直 在 监视+} 鲨鱼 的 朱利叶 斯 ? 尼尔森 ( Julius Nielsen ) 表示 ， 记录 显示 ， 一名 女性 被 认为 在 272 至 512 岁 之间 ， 长度 为 5 米 。
+PatInv: False
+Label: False
+
+He [-served-] {+used+} previously as a deputy prime minister and defence minister .
+他 曾 担任 过 副 总理 和 国防部长 。
+PatInv: True
+Label: False
+
+Melissa Gonzalez [-added-] {+recorded+} the final goal midway through the fourth period .
+[-Melissa Gonzalez-]在 第四期 中期 [-加入-] {+， Melissa Gonzalez 记录+} 了 最后 {+一个+} 目标 。
+PatInv: False
+Label: False
+
+Teresa Mei chose to take a vacation in Switzerland . This is the first time that a United Kingdom prime minister chose to go vacation in Switzerland after Margaret Thatcher , according to the United Kingdom [-newspaper-] {+news+} Daily Telegraph .
+据 英国 《 每日 电讯报 》 报道 ， 特蕾莎 · 梅梅 选择 在 瑞士 度假 ， 这是 英国首相 在 玛格丽特 · 撒切尔 之后 首次 选择 在 瑞士 度假 。
+PatInv: True
+Label: False
+
+Economy Secretary Keith Brown visited the [-site-] {+school+} today and was among the first to walk from the land on to the bridge .
+经济 秘书 基思 · 布朗 今天 访问 了 [-这个 地方-] {+学校+} ， [-并且-] 是 第一个 从 陆地 上 走 到 桥 的 人 之一 。
+PatInv: False
+Label: True
+
+Apparently he [-thinks-] {+thought+} the calendar is , too .
+显然 ， 他 认为 日历 也 是 如此 。
+PatInv: True
+Label: False
+
+The move follows the [-decision-] {+advice+} of the Victoria government earlier this year to not extend subsidies provided to keep the plant in operation .
+此举 [-是 由于-] {+遵循 了+} 维多利亚州 政府 今年 早些时候 [-决定-] {+的 建议 ， 即+} 不 提供 补贴 以 保持 工厂 运转 。
+PatInv: False
+Label: True
+
+To [-make-] {+losing+} it even worse , she sized up how she looked in them , peeled them off and put them back on the shelf .
+更 糟糕 的 是 ， 她 提高 了 她 对 他们 的 看法 ， 把 他们 偷看 ， 把 他们 放在 书架上 。
+PatInv: True
+Label: False
+
+As for the question about when the sweet potatoes are introduced and by whom , there are [-still-] {+probably+} many different views in the academic community .
+至于 什么 时候 引入 甜土豆 {+以及 由 谁 引入+} 的 问题 ， [-在-] 学术界 [-还有-] {+可能 有+} 很多 不同 的 [-看法-] {+观点+} 。
+PatInv: False
+Label: True
+
+The UK - based Financial Times on August 12 [-released-] {+published+} a group of pictures on mansion of the US ambassador to China .
+英国 《 金融时报 》 8 月 12 日 公布 了 一组 关于 美国 驻 中国 大使 官邸 的 图片 。
+PatInv: True
+Label: False
+
+This is despite a [-promise-] {+quote+} from Jeremy Hunt just last month that his door is always open .
+尽管 {+在 上个月 ，+} 杰里米 · 亨特 [-上个月 承诺-] {+（ Jeremy Hunt ） 说+} 他 的 门 总是 敞开 的 。
+PatInv: False
+Label: False
+
+According to foreign media reports , on the 10th day of the month of the local time , Downing Street announced that United Kingdom Prime Minister Teresa Mei will go to Switzerland to [-spend-] {+fulfill+} her summer vacation , but did not disclose the specific place .
+据 外国 媒体报道 ， 在 当地 时间 的 10 天 ， 唐宁街 宣布 ， 英国 总理 梅梅 将 去 瑞士 度假 ， 但 没有 透露 具体 的 地方 。
+PatInv: True
+Label: False
+
+After the renovation , it became a sports and cultural park , and will be officially opened in November to the public free of charge to provide sports venues . In addition , it would undoubtedly open up a new sports venue for the national [-sports-] {+stadium+} .
+翻修 后 ， 它 成为 一个 体育 和 文化 公园 ， 将 于 11 月 正式 向 公众 免费 开放 ， 以 提供 体育场馆 ， 此外 ， 它 无疑 将 为 国家 [-体育-] {+体育场+} 开辟 一个 新 的 体育场馆 。
+PatInv: False
+Label: False
+
+Whether these news are true or false will not be unveiled until the 2016 Apple autumn [-news-] {+press+} conference .
+这些 消息 是 真实 的 还是 假 的 ， 直到 2016 年 苹果公司 秋季 新闻 发布会 。
+PatInv: True
+Label: False
+
+They argued the makeshift [-shops-] {+schools+} and restaurants often provided shelter and free meals to those in need .
+他们 认为 临时 [-的 商店-] {+学校+} 和 餐馆 常常 为 有 需要 的 人 提供 住所 和 免费 膳食 。
+PatInv: False
+Label: False
+
+It is the inspiration of this team that will [-send-] {+get+} thousands of young girls to take gymnastics and that is great .
+这个 团队 的 灵感 将 让 成千上万 的 年轻 姑娘 参加 体操 ， 这 是 很 好 的 。
+PatInv: True
+Label: False
+
+The UK - based Financial Times on August 12 released a [-group-] {+pair+} of pictures on mansion of the US ambassador to China .
+英国 《 金融时报 》 8 月 12 日 公布 了 [-一组-] {+两幅+} 关于 美国 驻 中国 大使 官邸 的 [-图片-] {+照片+} 。
+PatInv: False
+Label: True
+
+Change the law to [-make-] {+find+} it easier to charge people with intimidation under the Representation of the People Act 1983 .
+根据 1983 年 《 人民 代表 法 》 ， 修改 法律 ， 使 人们 更 容易 受到 恐吓 。
+PatInv: True
+Label: False
+
+I didn ' t want to [-say-] {+admit+} this was my last race .
+我 不想 [-说-] {+承认+} 这 是 我 的 最后 一次 比赛 。
+PatInv: False
+Label: False
+
+During the crime offence [-period-] {+division+} , the criminal suspects swept the floor for theft from top to below by climbing the external wall and breaking the window fence .
+在 犯罪 期间 ， 犯罪 嫌疑人 爬 上 了 外墙 并 打破 了 窗户 围栏 ， 从而 将 偷盗 行为 从 顶层 扫过 地板 。
+PatInv: True
+Label: False
+
+A mid - aged [-man-] {+actor+} in India won a US $ 1 million award this week at the Dubai International Airport , where he had just experienced an airplane belly landing shock last week .
+本周 ， 一位 在 印度 的 [-中年人-] {+中年 演员+} 在 迪拜 国际 机场 获得 了 100 万美元 的 奖品 ， 在 [-迪拜 国际 机场-] {+那里+} ， 他 {+上周+} 刚刚 经历 了 [-上星期 的-] {+一次+} 飞机 起爆 。
+PatInv: False
+Label: True
+
+Having not walked far , they [-saw-] {+watched+} a group of people shouting , so they approached for curiosity .
+他们 走 了 很 远 ， 看到 一群 人 在 喊叫 ， 于是 他们 向 好奇心 的 方向 走来 。
+PatInv: True
+Label: False
+
+The individual ' s [-resistance-] {+exposure+} to self - exposure and his emotional experience is to prevent the individual ' s self - awareness and self - esteem from threatening .
+个人 [-对-] {+接触+} 自我 暴露 和 情感 经历 [-的 抵抗-] 是 为了 防止 个人 的 自我意识 和 自尊 受到 威胁 。
+PatInv: False
+Label: False
+
+But last year ' s allegations called into question how much President Obama could rely on Central Command for honest assessments of military operations in Iraq , Afghanistan , Libya and other crisis [-spots-] {+areas+} .
+但 去年 的 指控 令人 质疑 奥巴马 总统 在 多 大程度 上 可以 依靠 中央 指挥部 对 伊拉克 、 阿富汗 、 利比亚 和 其他 危机 地区 的 军事行动 进行 诚实 的 评估 。
+PatInv: True
+Label: False
+
+However Saturday ' s game turns out , the Americans have [-created-] {+left+} a stir with their surprising run here , four years after finishing last among 12 teams at the London Games .
+然而 ， 星期六 的 比赛 结果 是 ， 美国 人 在 伦敦 奥运会 12 个 球队 的 比赛 结束 4 年 后 {+，+} 在 这里 [-创造-] {+进行+} 了 惊人 的 [-成绩-] {+比赛+} 。
+PatInv: False
+Label: True
+
+For the [-past-] {+last+} four years , the number one female gymnast has been African - American .
+在 过去 四年 中 ， 一名 女子 体操 运动员 是 非洲 裔 美国 人 。
+PatInv: True
+Label: False
+
+Staying up late watching the Olympic Games will damage the [-heart-] {+wall+} easily
+晚点 看 奥运会 [-很 容易 伤害 心灵 。-] {+会 轻易 破坏 奥运 墙+}
+PatInv: False
+Label: False
+
+In order to [-make-] {+cover+} up for the weakness , on the one hand , the relevant departments shall take full account of the distribution of the stadiums in urban planning .
+为 弥补 不足 ， 一方面 ， 有关 部门 应当 充分考虑 城市规划 场馆 的 分布 。
+PatInv: True
+Label: False
+
+Uber caused a big [-impact-] {+ban+} on the local traditional taxi industry four years after joining the Taiwanese market .
+在 加入 台湾 市场 四年 后 ， Uber 对 当地 传统 的 出租车 行业 造成 了 [-重大 影响-] {+大 禁令+} 。
+PatInv: False
+Label: False
+
+Du Li , as a four - time Olympic Games [-participant-] {+winner+} , won 2 gold , 1 silver and 1 bronze medals in 4 Olympic Games .
+在 4 场 奥运会 上 ， 杜李 获得 了 2 枚 金牌 、 1 枚 银牌 和 1 枚 铜牌 。
+PatInv: True
+Label: True
+
+Finally , we should strengthen the [-protection-] {+management+} role of social security .
+最后 [-，-] {+,+} 加强 社会保障 的 [-保护-] {+管理+} 作用 [-。-] {+.+}
+PatInv: False
+Label: False
+
+The Olympics achieved [-huge-] {+dramatic+} benefits for Stratford and the East End .
+奥运会 为 斯特拉特福德 和 东端 带来 了 巨大 的 好处 .
+PatInv: True
+Label: False
+
+Now , passengers can buy tickets at these two stations . The train passing time between these two stations is about 10 minutes . Passengers need to pay attention to the detailed name of the initial and terminal station on the [-ticket-] {+page+} .
+现在 ， 乘客 可以 在 这 两个 [-车站 买票-] {+站点 买 车票+} 。 这 两个 [-车站-] {+站点+} 之间 的 火车 通车 时间 大约 为 10 分钟 。 乘客 需要 注意 [-车票-] {+网页+} 上 的 初始 站 和 [-终点站-] {+终端 站+} 的 详细 名称 。
+PatInv: False
+Label: False
+
+Mr Putin lashed out , accusing Ankara of stabbing Moscow in the [-back-] {+heart+} .
+普京 大发雷霆 , 指责 安卡拉 把 莫斯科 夷为平地 .
+PatInv: True
+Label: False
+
+The pair will [-take-] {+come+} a year before deciding their futures .
+这 对 将 [-需要 一年 时间 才能-] {+在+} 决定 他们 的 未来 {+前 一年 到来+} .
+PatInv: False
+Label: False
+
+Woman [-run-] {+taken+} over on Swiss motorway in apparent suicide
+妇女 在 瑞士 高速公路 上 明显 自杀
+PatInv: True
+Label: False
+
+In order to ensure that the student support action is fair , open and transparent , the newspaper today announced the basic information of the students . The names of the first 100 students will be publicized today to [-receive-] {+prevent+} the supervision of readers .
+为了 确保 学生 的 支持 行动 [-是-] 公正 、 公开 和 透明 [-的-] ， 报纸 今天 宣布 了 学生 的 基本 信息 ， 今天 将 公布 第一批 100 名 学生 的 名字 ， 以 [-接受-] {+防止 对+} 读者 的 监督 。
+PatInv: False
+Label: False
+
+The relevant agencies shall , within 6 months from the [-date-] {+start+} of the announcement , stop the relevant payment business in an orderly manner .
+有关 机构 应当 自 公告 之日起 六个月 内 ， 有序 停止 有关 支付 业务 。
+PatInv: True
+Label: False
+
+It was [-rejected-] {+approved+} by 58 % of its members who voted in the ballot .
+[-投票选举-]{+该 法案 得到 了 在 投票 中 投票+} 的 58% 成员 [-否决 了 该 法案-] {+的 批准+} 。
+PatInv: False
+Label: False
+
+The 22 - year - [-old-] {+long+} victim had been drinking and had passed out on the road , the court heard .
+22 岁 的 受害者 一直 在 喝酒 ， 在 路上 去世 了 ， 法庭 听取 了 证词 。
+PatInv: True
+Label: False
+
+Housing workers will now have to [-clear-] {+put+} away the piles of rubbish which surround the house
+房屋 工人 现在 [-必须 清除 房屋-] {+将 不得不 把+} 周围 的 [-一堆-] 垃圾 {+堆放 起来+} 。
+PatInv: False
+Label: False
+
+When Mr Putin came to power , he named Mr Ivanov as one of the five [-people-] {+men+} he trusted most .
+当 普京 上台 时 ， 他 把 伊万诺夫 作为 他 最 信任 的 五个 人 之一 。
+PatInv: True
+Label: False
+
+The reason behind the [-move-] {+attack+} triggered even more outrage by the filmmaker .
+[-这一 举动-]{+袭击+} 背后 的 原因 引发 了 [-电影-] 制片人 更 多 的 愤怒 。
+PatInv: False
+Label: True
+
+For months , state - controlled media [-conducted-] {+launches+} a staggering , all - out offensive against Ankara .
+几个 月 来 ， 国家 控制 的 媒体 对 安卡拉 发动 了 令人震惊 的 全面 进攻 。
+PatInv: True
+Label: False
+
+But when he was defeated by his counterpart Hu Jia at the 10 - meter single match in the 2004 Olympic Games , Tian Liang ' s competitive state slipped and it was said he was dismissed by the diving [-team-] {+coach+} .
+但 当 他 在 2004 年 奥运会 10 米 单打 比赛 中 被 他 的 对手 胡佳 打败 时 ， 天亮 的 竞争 状态 滑倒 了 ， 据说 他 被 跳水 [-队-] {+教练+} 解雇 了 。
+PatInv: False
+Label: False
+
+Britain and the United States will [-meet-] {+come+} on Saturday in the last game of the first round .
+英国 和 美国 将 在 星期六 举行 第一轮 的 最后 一场 比赛 .
+PatInv: True
+Label: False
+
+He said in the [-video-] {+film+} , the attack will occur within 72 hours , and in the rush hour .
+他 说 ， 在 [-视频-] {+影片+} 中 ， 攻击 将 在 72 小时 内 和 高峰 时间 发生 。
+PatInv: False
+Label: False
+
+She said , after she [-came-] {+passed+} back to Russia , she would surely carry out the traditional Chinese culture among the Chinese and the Russian peoples who love Chinese culture .
+她 说 ， 在 她 回到 俄罗斯 后 ， 她 一定 会 在 热爱 中国 文化 的 中国 和 俄罗斯 人民 中 贯彻 中国 传统 文化 。
+PatInv: True
+Label: False
+
+The enthusiasm of Mexican [-audiences-] {+revolution+} left a deep impression on Fu Jia , the young actress of lady white .
+墨西哥 [-观众-] {+革命+} 的 热情 给 这位 年轻 的 白人 女演员 福佳 留下 了 深刻 的 印象 。
+PatInv: False
+Label: False
+
+The enthusiasm of Mexican audiences [-left-] {+made+} a deep impression on Fu Jia , the young actress of lady white .
+墨西哥 观众 的 热情 给 这位 年轻 的 白人 女演员 福佳 留下 了 深刻 的 印象 。
+PatInv: True
+Label: False
+
+The report released Thursday is to be [-followed-] {+made+} up by more extensive findings as the investigation continues .
+星期四 公布 的 报告 将 [-随着 调查 的 继续 进行 而 进行-] {+由+} 更 广泛 的 {+调查结果 组成 ， 因为+} 调查 {+仍 在 进行+} 。
+PatInv: False
+Label: True
+
+I ' m not really one of those people who [-keeps-] {+made+} track of their goals .
+我 不是 那些 追求 自己 目标 的 人 。
+PatInv: True
+Label: False
+
+Too excited , went out like stink , [-died-] {+went+} like a pig .
+太 激动 了 ， 就 像 臭气 一样 出去 了 ， 就 像 一头 猪 一样 [-死-] {+走+} 了 。
+PatInv: False
+Label: False
+
+After being made homeless , it is understood that Tanya and her partner are now [-living-] {+housed+} in private housing in Plymouth .
+人们 了解 ， Tanya 及其 伴侣 现在 住 在 普利茅斯 的 私人 住房 中 。
+PatInv: True
+Label: False
+
+Mr Fitzpatrick said that the three [-sons-] {+girls+} had all lived at the property at different times but said they were all in their 20s .
+FitzPatrick 先生 说 ， 这 三个 [-儿子-] {+女孩+} 都 在 不同 时间 住 在 财产 上 ， 但 说 [-他们-] {+她们+} 都 在 20 多岁 。
+PatInv: False
+Label: False
+
+On August 12 , 2016 , she won the bronze medal in the [-women-] {+girls+} ' s 50 - meter air rifle game of the Rio Olympic Games .
+2016 年 8 月 12 日 ， 她 在 里约热内卢 奥运会 女子 50 米 空中 步枪 比赛 中 获得 了 铜牌 。
+PatInv: True
+Label: False
+
+The police said that 10 prisoners asked to see the warden and complained about the transfer of prison matters , but the two sides disagreed to each other . A prisoner threw grenades and caused an [-explosion-] {+investigation+} .
+警察 说 ， {+有+} 10 名 囚犯 要求 见 监狱长 ， 并 就 移交 监狱 事宜 提出 申诉 ， 但 双方 意见 不 [-一致-] {+一+} ， 一名 囚犯 投掷 手榴弹 [-， 造成 爆炸-] {+并 进行 调查+} 。
+PatInv: False
+Label: False
+

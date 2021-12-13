@@ -1,0 +1,1000 @@
+Traditional dating methods usually use calcified tissue of animals . Some fins can use fins , but this calcified tissue is very scarce in Greenland sharks .
+Traditional dating methods usually use calcified tissue of animals . Some fins can use fins , but this calcified tissue is extremely scarce in Greenland sharks .
+very --> extremely
+Label: True
+
+Moscow tourism police are divided into three groups for patrol at the Red Square , Nicolieski Pedestrian Street and Gum Department Store . The Chinese tourism police followed them for study . The whole process lasted for more than an hour .
+Moscow tourism police are divided into three groups for patrol at the Red Square , Olieski Pedestrian Street and Gum Department Store . The Chinese tourism police followed them for study . The whole process lasted for more than an hour .
+Nicolieski --> Olieski
+Label: True
+
+The police brigade divided them into nine groups according to their foreign language levels . They have two classes per week , learning self - defense moves , laws , regulations and foreign languages .
+The police brigade divided them into nine groups according to their foreign language levels . They have five classes per week , learning self - defense moves , laws , regulations and foreign languages .
+two --> five
+Label: True
+
+The researchers thus wrote in the paper that the Greenland shark was known as the vertebrate with the longest life span on the Earth , surpassing the age of the previous longevity champion black right whale ( 211 years ) .
+The scientists thus wrote in the paper that the Greenland shark was known as the vertebrate with the longest life span on the Earth , surpassing the age of the previous longevity champion black right whale ( 211 years ) .
+researchers --> scientists
+Label: True
+
+In addition , it is clearly proposed by Beijing and other places that they will gradually expand the scope of public services and conveniences , and regularly release the new scope to the community .
+In fact , it is clearly proposed by Beijing and other places that they will gradually expand the scope of public services and conveniences , and regularly release the new scope to the community .
+addition --> fact
+Label: True
+
+And some behaviorist psychologists regard the resistance as an individual ' s disobedience to their behavioral corrections .
+And many behaviorist psychologists regard the resistance as an individual ' s disobedience to their behavioral corrections .
+some --> many
+Label: True
+
+One Twitter user took to the site recently to declare her happiness that ' the rest of the internet thinks that Hope Solo and Jennifer Carpenter are actually identical . '
+One Internet user took to the site recently to declare her happiness that ' the rest of the internet thinks that Hope Solo and Jennifer Carpenter are actually identical . '
+Twitter --> Internet
+Label: True
+
+As a star ages , its spin rate begins to slow down .
+As a star ages , its spin rate starts to slow down .
+begins --> starts
+Label: True
+
+The monthly report of OPEC released on Wednesday showed that the July output of the entire OPEC organization , including Gabon , increased by 46 , 000 barrels / day to 33 . 11 million barrels / day .
+The monthly report of OPEC released on Wednesday showed that the July output of the entire OPEC organization , including Gabon , increased by 46 , 000 barrels / day to 33 . 2 million barrels / day .
+11 --> 2
+Label: True
+
+As of June 2016 , New Zealand ' s working - age population rose by 3 . 6 percent to 1 . 58 million .
+As of June 2016 , New Zealand ' s working - age population rose by 3 . 6 percent to 3 . 58 million .
+1 --> 3
+Label: True
+
+" We do not want to make the Yulan festival very horrifying , which may spook people , especially the children , " said Hu Yansong , the chief responsible person of the event .
+" We do not want to make the Yulan festival so horrifying , which may spook people , especially the children , " said Hu Yansong , the chief responsible person of the event .
+very --> so
+Label: True
+
+According to the local civil affairs department , there are no casualties temporarily and details of disaster are still under statistical verification .
+According to the local civil affairs department , there are no casualties temporarily and victims of disaster are still under statistical verification .
+details --> victims
+Label: False
+
+This process , Mr . Schiff said , " stalled the release of intelligence products , " hurt morale among analysts and " insufficiently accommodated dissenting views . "
+The process , Mr . Schiff said , " stalled the release of intelligence products , " hurt morale among analysts and " insufficiently accommodated dissenting views . "
+This --> The
+Label: True
+
+It is deemed very unlikely by people that OPEC tries to stabilize the market through the September meeting , according to Eugen Weinberg , director of commodity research at Commerzbank .
+It is deemed very unlikely by people that OPEC tries to stabilize the market through the September meeting , according to Egon Weinberg , director of commodity research at Commerzbank .
+Eugen --> Egon
+Label: True
+
+They recorded a little bit of the process of installing a new beak , and recorded a documentary " The Country of Toucan " , which was played this month on the Animal Planet Channel .
+They recorded a little bit of the process of installing a new beak , and recorded a documentary " The Country of Toucan " , which was played this month on The Animal Planet Channel .
+the --> The
+Label: True
+
+Yuyue invested RMB 12 million , accounting for 40 % of the registered capital , while Jiuzhoutong invested RMB 18 million , accounting for 60 % of the registered capital .
+Nanyue invested RMB 12 million , accounting for 40 % of the registered capital , while Jiuzhoutong invested RMB 18 million , accounting for 60 % of the registered capital .
+Yuyue --> Nanyue
+Label: True
+
+It has been four years since the arrival of Uber in Taiwan , but the authorities did not launch any meeting until the end of this month . This made drivers cannot wait any more , said Zheng Lijia , chairman of Taipei Driver Union .
+It had been four years since the arrival of Uber in Taiwan , but the authorities did not launch any meeting until the end of this month . This made drivers cannot wait any more , said Zheng Lijia , chairman of Taipei Driver Union .
+has --> had
+Label: True
+
+Emission right , also known as " dumping right " , means the right to discharge pollutants . It refers to the right for emitters to discharge pollutants to the environment in line with the law within the quota assigned by the government .
+Emission right , also known as " dumping right " , means the right to discharge pollutants . It refers to the right of emitters to discharge pollutants to the environment in line with the law within the quota assigned by the government .
+for --> of
+Label: True
+
+Just then and just in front of this new TV set , the Zhang Donghong couple and their dozens of relatives and friends were witnessing the magic process for the couple ' s daughter to catch up and reverse from almost being eliminated in the preliminaries to almost winning the game .
+Just then and just in front of this new TV set , the Zhang Donghong couple and their dozens of relatives and friends were witnessing the magic process for the couple ' s daughter to catch up and reverse from nearly being eliminated in the preliminaries to almost winning the game .
+almost --> nearly
+Label: True
+
+One day after scoring three goals in a 6 - 1 victory over Japan , Katie Bam scored the first two goals for the United States women ' s field hockey team on Thursday as the Americans defeated India , 3 - 0 .
+One day after scoring three goals in a 7 - 1 victory over Japan , Katie Bam scored the first two goals for the United States women ' s field hockey team on Thursday as the Americans defeated India , 3 - 0 .
+6 --> 7
+Label: True
+
+China ' s Mars exploration launch target is to step around , land and patrol at one time . Such a task is quite arduous .
+Russia ' s Mars exploration launch target is to step around , land and patrol at one time . Such a task is quite arduous .
+China --> Russia
+Label: True
+
+The report released Thursday is to be followed up by more extensive findings as the investigation continues .
+A report released Thursday is to be followed up by more extensive findings as the investigation continues .
+The --> A
+Label: True
+
+People who love to make friends also love online communication . " I lost contact with my friends due to some misunderstandings . We became familiar again after a few dialogues on the group chatting . "
+People who love to make friends also love online communication . " I lost contact with my friends due to some misunderstandings . We got familiar again after a few dialogues on the group chatting . "
+became --> got
+Label: True
+
+According to Jilin Provincial Forestry Department , Jilin Provincial government has established long - term stable cooperation and exchange mechanism with Russian government .
+According to Jilin Provincial Forestry Office , Jilin Provincial government has established long - term stable cooperation and exchange mechanism with Russian government .
+Department --> Office
+Label: True
+
+Students clashed with police in the Brazilian city of Sao Paulo on Thursday as they gathered to demonstrate against government reforms to the public education system .
+Students clashed with police in the Brazilian city of Sao Paulo on Friday as they gathered to demonstrate against government reforms to the public education system .
+Thursday --> Friday
+Label: True
+
+Humanitarian groups had told the court the shops and restaurants were vital , saying the free meals offered by a state - backed association and other groups did not provide enough food for the growing numbers at the camp .
+Human rights groups had told the court the shops and restaurants were vital , saying the free meals offered by a state - backed association and other groups did not provide enough food for the growing numbers at the camp .
+Humanitarian --> Human rights
+Label: True
+
+The success of these overseas exhibitions has accumulated valuable experience and laid a good foundation for the continuous exploration in emerging markets along the Belt and Road Initiative - related countries and building overseas exhibition integrated platform .
+The success of these overseas exhibitions has accumulated valuable experience and laid a strong foundation for the continuous exploration in emerging markets along the Belt and Road Initiative - related countries and building overseas exhibition integrated platform .
+good --> strong
+Label: True
+
+The Rio Olympic Games , which is being held , is rousing people ' s enthusiasm for sports and their sense of participation as well .
+The Rio Olympic Games , which is being held , is rousing people ' s passion for sports and their sense of participation as well .
+enthusiasm --> passion
+Label: True
+
+Hindes , Kenny - champions with Hoy four years ago - and Skinner set an Olympic record in qualifying , but the standard was overtaken by New Zealand in the first round .
+Hindes , Kenny - champions with Hoy two years ago - and Skinner set an Olympic record in qualifying , but the standard was overtaken by New Zealand in the first round .
+four --> two
+Label: True
+
+Mr . Coe grimaced .
+Ms . Coe grimaced .
+Mr --> Ms
+Label: True
+
+Reid said on a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+Reid said in a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+on --> in
+Label: True
+
+According to a Hong Kong Oriental Daily report made on August 12 , the current diamond sales in mainland China were accused of three major problems , including false diamond clarity mark aimed to raise sales price , false diamond weight and lack of aftersales warranty .
+According to a Hong Kong Oriental Daily report made on August 12 , the current diamond sales in mainland China are accused of three major problems , including false diamond clarity mark aimed to raise sales price , false diamond weight and lack of aftersales warranty .
+were --> are
+Label: True
+
+The make - up of this team , rounded out by Aly Raisman , who is Jewish , and Madison Kocian , who is Catholic , is making everyone proud .
+The make - up of this team , rounded out with Aly Raisman , who is Jewish , and Madison Kocian , who is Catholic , is making everyone proud .
+by --> with
+Label: True
+
+" We have been following the normal procedure these days , but we may have overlooked the impact of more athletes on water quality . "
+" We have been following the normal procedure these days , though we may have overlooked the impact of more athletes on water quality . "
+but --> though
+Label: True
+
+There are 1 , 325 existing intangible cultural heritage projects in Huangshan . Its category number and quantity rank first in Anhui Province .
+There are 1 , 325 existing intangible cultural heritage projects in Huangshan . The category number and quantity rank first in Anhui Province .
+Its --> The
+Label: True
+
+Yu Bin , the working staff of law enforcement detachment of the Urumqi Transportation Authority explained , " The foreign tourist bus and bus line worked on tourist transport project in Urumqi market , but they did not have qualification . "
+Liu Bin , the working staff of law enforcement detachment of the Urumqi Transportation Authority explained , " The foreign tourist bus and bus line worked on tourist transport project in Urumqi market , but they did not have qualification . "
+Yu --> Liu
+Label: True
+
+She made a long run with the ball down the left side of the field , then curled into the middle and whipped the ball into the goal to give the Americans a 2 - 0 lead .
+She began a long run with the ball down the left side of the field , then curled into the middle and whipped the ball into the goal to give the Americans a 2 - 0 lead .
+made --> began
+Label: True
+
+Having not walked far , they saw a group of people shouting , so they approached for curiosity .
+Having not walked far , they overheard a group of people shouting , so they approached for curiosity .
+saw --> overheard
+Label: True
+
+At 10 o ' clock yesterday morning , X9003 international cargo flights were leaving the Xi ' an Xinzhu railway station and bounding for Kazakhstan ' s Almaty .
+At six o ' clock yesterday morning , X9003 international cargo flights were leaving the Xi ' an Xinzhu railway station and bounding for Kazakhstan ' s Almaty .
+10 --> six
+Label: True
+
+The director , Earl Phillip , " produced a pistol , put his right index finger on the trigger , and drove the barrel into Vincent ' s knee cap , " Bordini said in the complaint .
+The director , Earl Phillip , " produced a pistol , put his right index finger on the trigger , and drove the barrel into Vincent ' s knee cap , " Gordini said in the complaint .
+Bordini --> Gordini
+Label: True
+
+7 % of respondents expected to buy iPhone7 , while the rate for iPhone6 was only 4 % two years ago .
+7 % of respondents expected to buy iPhone7 , while the rate for iPhone6 was only 4 % three years ago .
+two --> three
+Label: True
+
+Among them , CSFC will hold an additional 29 . 2931 million shares of Huaxia Bank . By the end of June , CSFC will increase its shares of Huaxia Bank to 387 million shares , raising its shares of Huaxia Bank from 3 . 35 % to 3 . 62 % .
+Between them , CSFC will hold an additional 29 . 2931 million shares of Huaxia Bank . By the end of June , CSFC will increase its shares of Huaxia Bank to 387 million shares , raising its shares of Huaxia Bank from 3 . 35 % to 3 . 62 % .
+Among --> Between
+Label: True
+
+Relevant experts believed that despite the signs of stabilization in July , we should not have high expectations .
+Relevant experts believed that despite the signs of stabilization since July , we should not have high expectations .
+in --> since
+Label: True
+
+People with dry skin should choose creamy sunscreen . The classification of neutral skin generally has no strict rules . Any kind of skin care products are burden to the sensitive skin . So it is recommended to choose pure physical sunscreen products .
+People with dry skin should choose creamy sunscreen . The classification of neutral skin generally has no strict rules . Any kind of skin care products are burden to the sensitive skin . Therefore it is recommended to choose pure physical sunscreen products .
+So --> Therefore
+Label: True
+
+While detecting the case at the same time , the police also pressed for payments and recovered stolen goods totaling more than 33 million yuan .
+Upon detecting the case at the same time , the police also pressed for payments and recovered stolen goods totaling more than 33 million yuan .
+While --> Upon
+Label: True
+
+Though Mustafina took a small lead through two rotations , it was a mirage .
+As Mustafina took a small lead through two rotations , it was a mirage .
+Though --> As
+Label: True
+
+Old rubbish was found in a number of the rooms of the house , which may be demolished
+Much rubbish was found in a number of the rooms of the house , which may be demolished
+Old --> Much
+Label: False
+
+This will probably further undermine the market confidence in OPEC . After all , this organization already staged a " wolf is coming " performance .
+It will probably further undermine the market confidence in OPEC . After all , this organization already staged a " wolf is coming " performance .
+This --> It
+Label: True
+
+But their growth rate is extremely slow , sometimes only about 1 cm a year , suggesting that Greenland shark may have an extra - long life .
+But the growth rate is extremely slow , sometimes only about 1 cm a year , suggesting that Greenland shark may have an extra - long life .
+their --> the
+Label: True
+
+Russian public opinion has also turned since November .
+American public opinion has also turned since November .
+Russian --> American
+Label: True
+
+Floor boards had been pulled up in the property , from which drugs had been dealt in the past
+Floors had been pulled up in the property , from which drugs had been dealt in the past
+Floor boards --> Floors
+Label: True
+
+These clubs are where the gymnasts get all of their training , and it ' s a costly and long - term commitment for the gymnasts ' families .
+These camps are where the gymnasts get all of their training , and it ' s a costly and long - term commitment for the gymnasts ' families .
+clubs --> camps
+Label: True
+
+United States ' Simone Biles performs on the balance beam during the artistic gymnastics women ' s individual all - around final at the 2016 Summer Olympics in Rio de Janeiro , Brazil , Thursday .
+United States ' Simone Biles performs on the balance beam in the artistic gymnastics women ' s individual all - around final at the 2016 Summer Olympics in Rio de Janeiro , Brazil , Thursday .
+during --> in
+Label: True
+
+Although it offers no definitive evidence that senior Obama administration officials ordered the reports to be doctored , it describes analysts as feeling as though they were under pressure from Centcom leaders to present a more optimistic view of the threat posed by the Islamic State , also known as ISIS or ISIL .
+Although it offers no definitive evidence that senior Obama administration officials ordered the reports to be doctored , it describes analysts as feeling as though they were under pressure from Centcom leaders to present a more optimistic view of the threat posed by the Islamic State , better known as ISIS or ISIL .
+also --> better
+Label: True
+
+He later retracted the comment and there was no method of appeal from Britain ' s rivals .
+He never retracted the comment and there was no method of appeal from Britain ' s rivals .
+later --> never
+Label: True
+
+Even the inventor of the 3D printing technology , Chuck Hull , was also involved in the design of the Gracia beak .
+Even the creator of the 3D printing technology , Chuck Hull , was also involved in the design of the Gracia beak .
+inventor --> creator
+Label: True
+
+She claimed the money was going towards a headstone for her son , Lee Skeldon , who died in a car crash in 2013 .
+She said the money was going towards a headstone for her son , Lee Skeldon , who died in a car crash in 2013 .
+claimed --> said
+Label: True
+
+Frankie is one of the best jockeys of the modern era and it is no surprise he has reached this landmark so few have achieved before him .
+Frankie is one of the best jockeys of the modern era so it is no surprise he has reached this landmark so few have achieved before him .
+and --> so
+Label: True
+
+The pair will take a year before deciding their futures .
+Each pair will take a year before deciding their futures .
+The --> Each
+Label: True
+
+Shell , for its part , has trimmed thousands of people from its payroll and announced plans to leave oil and gas operations in up to 10 countries as it streamlines its operations in the wake of its mega - merger with British energy company BG Group .
+Shell , for its part , has trimmed thousands of people from its payroll and announced plans to leave oil and gas operations in up to 10 countries as it streamlines its operations in the wake of its mega - merger with British energy company BPG Group .
+BG --> BPG
+Label: True
+
+The report even suggests putting indelible ink on a person ' s fingers as they cast their ballot to prevent anyone being able to vote twice .
+The report even suggests placing indelible ink on a person ' s fingers as they cast their ballot to prevent anyone being able to vote twice .
+putting --> placing
+Label: True
+
+This is another condolence and care activity after the fund association released the call for finding " bereaved children and lonely old men caused by the flood disaster in July 19 , 2016 " .
+This is another condolence and care activity after the fund association released the call for finding " bereaved children and lonely old men caused by the flood disaster in June 19 , 2016 " .
+July --> June
+Label: True
+
+It was backed with millions of pounds in sponsorship of international sport , from Six Nations rugby to Wimbledon champion Andy Murray .
+It was backed with millions of pounds in sponsorship of international sport , from Tri Nations rugby to Wimbledon champion Andy Murray .
+Six --> Tri
+Label: True
+
+" This not only embodies the diversity of the Chinese culture , but also allows more people to understand and inherit these traditional crafts . "
+" This not only embodies the diversity of the Chinese culture , but also enables more people to understand and inherit these traditional crafts . "
+allows --> enables
+Label: True
+
+According to Han , he and the tramp Xiao lived in the same lane of Dongcheng District . The two were just 20 meters apart .
+According to Han , he and the tramp Xiao lived in the same lane of Dongcheng District . The two were only 20 meters apart .
+just --> only
+Label: True
+
+Even if Wade is still one of the league ' s best linebacker , his performance in the Bulls is not so good as that of the Miami Heat .
+Even if Wade is still one of the league ' s best linebacker , his play in the Bulls is not so good as that of the Miami Heat .
+performance --> play
+Label: True
+
+But with the work we ' ve been doing , focussing on the customers needs , not our own , I think you ' re seeing a lot of change .
+And with the work we ' ve been doing , focussing on the customers needs , not our own , I think you ' re seeing a lot of change .
+But --> And
+Label: True
+
+First , I have been to every Summer Olympics since 1984 and the USA has never been so dominant .
+Well , I have been to every Summer Olympics since 1984 and the USA has never been so dominant .
+First --> Well
+Label: True
+
+Japanese oil companies expressed vigilance to the rise of small independent Chinese oil refineries , especially those that are called " teapots " .
+Japanese oil companies expressed vigilance to the rise of small independent Chinese oil refineries , especially those which are called " teapots " .
+that --> which
+Label: True
+
+In late August , Japanese Prime Minister Shinzo Abe will go to Kenya to attend the 6th African Development Conference , according to the Evening News Peak of Voice of China .
+In early August , Japanese Prime Minister Shinzo Abe will go to Kenya to attend the 6th African Development Conference , according to the Evening News Peak of Voice of China .
+late --> early
+Label: True
+
+" The majority of our guests are Arabs and they demanded Israel ' s code to be deleted , " the employee was quoted as saying by Lanzmann .
+" A majority of our guests are Arabs and they demanded Israel ' s code to be deleted , " the employee was quoted as saying by Lanzmann .
+The --> A
+Label: True
+
+The person in charge stressed that the international trade of iron and steel products was essentially a market behavior and an independent choice due to the requirement of importing countries and after considering the product cost and other factors .
+The Minister in charge stressed that the international trade of iron and steel products was essentially a market behavior and an independent choice due to the requirement of importing countries and after considering the product cost and other factors .
+person --> Minister
+Label: True
+
+Dr Ellen McCourt , the BMA ' s junior doctors " committee chair , said in a statement last night : " Junior doctors still have serious concerns about the proposed contract , particularly that it will fuel the current workforce crisis , and that it fails to treat all doctors fairly . "
+Dr John McCourt , the BMA ' s junior doctors " committee chair , said in a statement last night : " Junior doctors still have serious concerns about the proposed contract , particularly that it will fuel the current workforce crisis , and that it fails to treat all doctors fairly . "
+Ellen --> John
+Label: True
+
+After the tragedy of the Gracia was reported by the media , there is a wave of animal anti - abuse calls inside and outside Costa Rica .
+After the tragedy of the Gracia was reported by the media , there is a surge of animal anti - abuse calls inside and outside Costa Rica .
+wave --> surge
+Label: True
+
+Sir Eric made 50 recommendations to clean up the system , including banning political activists from handling postal ballot papers to stop " vote harvesting . "
+Sir Eric made 50 recommendations to clean up the system , including banning political activists from handling postal voting papers to stop " vote harvesting . "
+ballot --> voting
+Label: True
+
+" Loaves were very popular , " Ms . Ziegelman said .
+" Faves were very popular , " Ms . Ziegelman said .
+Loaves --> Faves
+Label: False
+
+The latest monitoring data in 2015 showed that 27 wild Manchurian tigers and 42 Northeastern leopards were monitored within Jilin Province territory .
+The latest monitoring data in 2014 showed that 27 wild Manchurian tigers and 42 Northeastern leopards were monitored within Jilin Province territory .
+2015 --> 2014
+Label: True
+
+The leadership failures at Centcom reach to the very top of the organization .
+The leadership failures at Centcom reached to the very top of the organization .
+reach --> reached
+Label: True
+
+The Glaswegian 23 - year - old was in the anchor role that his fellow Scotsman Sir Chris Hoy made his own and the youngster did the legend proud as he stormed home to snatch victory from the favoured New Zealand outfit .
+The Glaswegian 22 - year - old was in the anchor role that his fellow Scotsman Sir Chris Hoy made his own and the youngster did the legend proud as he stormed home to snatch victory from the favoured New Zealand outfit .
+23 --> 22
+Label: True
+
+Our thoughts and condolences are with Frank ' s family and friends at this difficult time .
+Our prayers and condolences are with Frank ' s family and friends at this difficult time .
+thoughts --> prayers
+Label: True
+
+Adam Fitzpatrick , Cornwall Housing ' s neighbourhood enforcement manager , said the family failed to cooperate with the local authority .
+Adam Fitzpatrick , Cornwall Housing ' s neighbourhood enforcement manager , claimed the family failed to cooperate with the local authority .
+said --> claimed
+Label: True
+
+We appreciate all he has done for our organization and wish him the best of luck in the future .
+We appreciate all he has done for the organization and wish him the best of luck in the future .
+our --> the
+Label: True
+
+I ' m now saying we no longer have global aspirations , we have local aspirations .
+I ' m now saying we no longer have global aspirations , we have individual aspirations .
+local --> individual
+Label: True
+
+One of the most popular comparisons from London 2012 is undoubtedly going to be pointed out even more this year : the striking likeness between British long jumper Greg Rutherford and popular actor Neil Patrick Harris .
+One of the most popular comparisons from London 2012 is undoubtedly going to be pointed out even more this year : the striking likeness between British long jumper Greg Rutherford and American actor Neil Patrick Harris .
+popular --> American
+Label: False
+
+On this fantastic project , this closure represents leading edge civil engineering .
+On this fantastic project , the closure represents leading edge civil engineering .
+this --> the
+Label: True
+
+Liu Cigui spoke highly of the milestone results and good experiences and practices .
+Liu Beigui spoke highly of the milestone results and good experiences and practices .
+Cigui --> Beigui
+Label: True
+
+" I have no clue , " she said .
+" You have no clue , " she said .
+I --> You
+Label: True
+
+There was no such issue this time around in a supreme victory .
+There is no such issue this time around in a supreme victory .
+was --> is
+Label: True
+
+During the crime offence period , the criminal suspects swept the floor for theft from top to below by climbing the external wall and breaking the window fence .
+During the crime offence period , the criminal suspects swept the floor for theft from top to below by climbing the external wall or breaking the window fence .
+and --> or
+Label: True
+
+Recently , the Shizibang Lotus Park of Zhengfu Village , Tongxiang City , Zhejiang Province , will be open to villagers and tourists formally .
+Recently , the Shizibang Lotus Park of Zhengfu Village , Fengxiang City , Zhejiang Province , will be open to villagers and tourists formally .
+Tongxiang --> Fengxiang
+Label: True
+
+The evidence shows that ticagrelor , in combination with aspirin , is effective at reducing the risk of further heart attacks and strokes in people who have already had a heart attack .
+The evidence shows that cicagrelor , in combination with aspirin , is effective at reducing the risk of further heart attacks and strokes in people who have already had a heart attack .
+ticagrelor --> cicagrelor
+Label: True
+
+Last year , the income of Donglin Village reached RMB 22 million , of which the total agricultural income accounted for nearly a half .
+Last year , the income of Donglin Village exceeded RMB 22 million , of which the total agricultural income accounted for nearly a half .
+reached --> exceeded
+Label: True
+
+They were made from an ingredient and a cheap thing that stretches the ingredient out .
+They were made from an ingredient or a cheap thing that stretches the ingredient out .
+and --> or
+Label: True
+
+MacDonald , who was brought on board CBC ' s commentary team to provide ' color ' could be heard saying : ' That little 14 - year - old from China dropped the ball , baby ' .
+MacDonald , who was brought on board CBC ' s commentary team to provide ' color ' could be heard saying : ' That little 14 - year - old from China had the ball , baby ' .
+dropped --> had
+Label: True
+
+According to the provisions of the mainland China customs , diamonds are neither supplies nor necessities during the trip and thus belong to the scope of goods . So such diamonds should be declared at entry and exit . Otherwise , the people who carry them shall be classified as smuggling and may be sentenced to jail .
+According to the provisions of the mainland China customs , diamonds are neither supplies nor necessities during the trip and thus belong to the scope of goods . So such diamonds must be declared at entry and exit . Otherwise , the people who carry them shall be classified as smuggling and may be sentenced to jail .
+should --> must
+Label: True
+
+The renovation work of Dehong Old Sports Association Weightlifting Hall & Martial Arts Museum , Mangshi City No . 1 Primary School Wrestling Arena and Silver Tower Scenic Area mountain bike track has been completed .
+The construction work of Dehong Old Sports Association Weightlifting Hall & Martial Arts Museum , Mangshi City No . 1 Primary School Wrestling Arena and Silver Tower Scenic Area mountain bike track has been completed .
+renovation --> construction
+Label: True
+
+PEAK will always be oriented to promoting consumer demand , building a sports industry ecosphere and accelerating the strategic upgrading from single sporting goods manufacturing enterprise to professional sports service enterprises .
+BEAK will always be oriented to promoting consumer demand , building a sports industry ecosphere and accelerating the strategic upgrading from single sporting goods manufacturing enterprise to professional sports service enterprises .
+PEAK --> BEAK
+Label: True
+
+Among them , CSFC will hold an additional 29 . 2931 million shares of Huaxia Bank . By the end of June , CSFC will increase its shares of Huaxia Bank to 387 million shares , raising its shares of Huaxia Bank from 3 . 35 % to 3 . 62 % .
+Among them , CSFC will hold an additional 29 . 2931 million shares of Huaxia Bank . By the end of June , CSFC will increase its shares of Huaxia Bank to 387 million shares , increasing its shares of Huaxia Bank from 3 . 35 % to 3 . 62 % .
+raising --> increasing
+Label: True
+
+When Mr Putin came to power , he named Mr Ivanov as one of the five people he trusted most .
+When Mr Putin came to power , he named Mr Ivanov as one of the four people he trusted most .
+five --> four
+Label: True
+
+For example , Sichuan required the local police stations or commissioned community service agencies to strictly enforce the approved fee and charge standard and resolutely prohibit over - range or over - standard fees or charge bundling .
+For example , Sichuan required the local police stations or commissioned community service agencies to strictly enforce the approved fee and charge standard and resolutely prohibit long - range or over - standard fees or charge bundling .
+over --> long
+Label: True
+
+" AGL expects the Portland facility to continue to operate , meaning physical demand for electricity from the smelter will continue , " it said .
+" AGL expects the Portland facility to continue to operate , meaning physical demand for electricity at the smelter will continue , " it said .
+from --> at
+Label: True
+
+Teresa Mei chose to take a vacation in Switzerland . This is the first time that a United Kingdom prime minister chose to go vacation in Switzerland after Margaret Thatcher , according to the United Kingdom newspaper Daily Telegraph .
+Li Mei chose to take a vacation in Switzerland . This is the first time that a United Kingdom prime minister chose to go vacation in Switzerland after Margaret Thatcher , according to the United Kingdom newspaper Daily Telegraph .
+Teresa --> Li
+Label: True
+
+After triumphing at London 2012 alongside Kenny and Hoy , Hindes admitted to deliberately falling to the track following a poor start .
+After triumphing at London 2012 with Kenny and Hoy , Hindes admitted to deliberately falling to the track following a poor start .
+alongside --> with
+Label: True
+
+The dispute has led to junior doctors taking part in six strikes this year , including the first all - out stoppages in the history of the NHS .
+The dispute has led to junior doctors taking part in six strikes each year , including the first all - out stoppages in the history of the NHS .
+this --> each
+Label: True
+
+A Primark spokesman said : ' Primark is aware of an incident which took place in our Folkestone store on Tuesday August 9 . '
+A Primark spokesman said : ' Primark is aware of an incident which took place in our Folkestone store on Thursday August 9 . '
+Tuesday --> Thursday
+Label: True
+
+On August 4 , the working personnel of Hebei Provincial Cixiao Fund and volunteers of Hebei Brand Association came to his home and offered his relatives with 3 , 200 - yuan love donation .
+On May 4 , the working personnel of Hebei Provincial Cixiao Fund and volunteers of Hebei Brand Association came to his home and offered his relatives with 3 , 200 - yuan love donation .
+August --> May
+Label: True
+
+China ' s Mars exploration mission aims to achieve surrounding , landing and patrolling at one time , which has never done by other countries .
+China ' s Mars exploration mission aims to achieve surrounding , landing and patrolling at one time , which has never done by other nations .
+countries --> nations
+Label: True
+
+Early Venus also benefited from a sun that was 30 percent dimmer .
+Early Venus also benefited from a sun that was 50 percent dimmer .
+30 --> 50
+Label: True
+
+The inflation rate of Tajikistan in the first 7 months of this year was 3 . 7 % , the Tajikistan ' s Avesta news agency reported on the 11th day of the month , quoting the news of the central bank .
+The inflation rate of Tajikistan in the first 7 months of this year was 4 . 7 % , the Tajikistan ' s Avesta news agency reported on the 11th day of the month , quoting the news of the central bank .
+3 --> 4
+Label: True
+
+" There are 288 ' green land investment ' projects in Brazil , with an average annual rise of 314 from 2003 to 2014 " .
+" There are 288 ' green land investment ' projects in Brazil , with an average annual rise of 314 from 2003 to 2011 " .
+2014 --> 2011
+Label: True
+
+It seems that the International Olympic Committee and the media practitioners around the world will have to meet this round of challenges .
+It seems that the International Olympic Committee and the media practitioners around the globe will have to meet this round of challenges .
+world --> globe
+Label: True
+
+With Simmons already showing a good point - forward potential , Embiid also has a better stature more suitable for NBA games and Okafor ' s position is hard to be so solid .
+With him already showing a good point - forward potential , Embiid also has a better stature more suitable for NBA games and Okafor ' s position is hard to be so solid .
+Simmons --> him
+Label: True
+
+In addition , according to the data of the Hong Kong Institute of Asclepius Hospital Management , a large number of start - up Internet medical companies languished within one year and about 20 % of the start - up Internet medical companies have ceased to exist .
+In addition , according to the data of the Hong Kong Institute of Asclepius Hospital Management , a large number of start - up Internet medical companies languished within one year and about 30 % of the start - up Internet medical companies have ceased to exist .
+20 --> 30
+Label: True
+
+The quality of China ' s oil products is gradually close to those of their Japanese counterparts because the Chinese government has strengthened environmental protection regulations .
+The quality of China ' s oil products are gradually close to those of their Japanese counterparts because the Chinese government has strengthened environmental protection regulations .
+is --> are
+Label: True
+
+There are 11 games in the event , including track and field , soccer , basketball , tennis , volleyball , weightlifting , cycling , wrestling , gymnastics , martial arts and so on , involving 180 small items .
+There are 11 games in the event , including track and field , soccer , basketball , tennis , volleyball , weightlifting , cycling , wrestling , swimming , martial arts and so on , involving 180 small items .
+gymnastics --> swimming
+Label: True
+
+" It was an act of culinary solidarity with the people who were suffering , " Jane Ziegelman said .
+" It was an act of culinary reconciliation with the people who were suffering , " Jane Ziegelman said .
+solidarity --> reconciliation
+Label: True
+
+Since then , Japan ' s initiatives in the field of security will be mainly in the legal system , strategy implementation , policy implementation and other operational levels , rather than the substantial adjustments and changes of framework , mechanisms and policies .
+Since then , Japan ' s initiatives in the field of security will be mainly in the legal system , strategy implementation , policy implementation and other organizational levels , rather than the substantial adjustments and changes of framework , mechanisms and policies .
+operational --> organizational
+Label: False
+
+Reid said on a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+Reid stated on a conference call Thursday that he is predicting Clinton will pick Garland " with some degree of credibility . "
+said --> stated
+Label: True
+
+In addition to the illegal facts , legal basis , handling and punishment of these cases , the basic information of the illegal parties and the persons in charge of the relevant intermediaries will be included in the " blacklist " exposure .
+In addition to the illegal facts , legal basis , handling and punishment of these cases , the basic information of the illegal parties and the persons in charge of the relevant intermediaries may be included in the " blacklist " exposure .
+will --> may
+Label: True
+
+Zhang Donghong , a villager of East Park Village , Xiang ' an District , Xiamen , changed an old 29 - inch TV into a new 65 - inch large TV just a few days before .
+Chen Donghong , a villager of East Park Village , Xiang ' an District , Xiamen , changed an old 29 - inch TV into a new 65 - inch large TV just a few days before .
+Zhang --> Chen
+Label: True
+
+Apparently he thinks the calendar is , too .
+Apparently he thinks the calendar does , too .
+is --> does
+Label: True
+
+Antwerp is one of the world ' s largest diamond trading centers . The diamond cutting technology of local artisans is well - known . All diamonds on sale have undergone rigorous identification , deeply welcomed by the mainland ladies .
+Antwerp is one of the world ' s largest diamond trading centers . The diamond cutting technology of local artisans is well - known . All diamonds for sale have undergone rigorous identification , deeply welcomed by the mainland ladies .
+on --> for
+Label: True
+
+He was found guilty beyond reasonable doubt - to a criminal standard of proof - on a series of grounds .
+He was found guilty beyond reasonable doubt - under a criminal standard of proof - on a series of grounds .
+to --> under
+Label: True
+
+For the past four years , the number one female gymnast has been African - American .
+In the past four years , the number one female gymnast has been African - American .
+For --> In
+Label: True
+
+Ankara is angry with the West for what it considers a weak response to the attempted takeover .
+Ankara remains angry with the West for what it considers a weak response to the attempted takeover .
+is --> remains
+Label: True
+
+But last year ' s allegations called into question how much President Obama could rely on Central Command for honest assessments of military operations in Iraq , Afghanistan , Libya and other crisis spots .
+But last year ' s allegations called into question how much President Obama can rely on Central Command for honest assessments of military operations in Iraq , Afghanistan , Libya and other crisis spots .
+could --> can
+Label: True
+
+Learn more about the history of downtown ' s Central Library as the Society of Architectural Historians / Southern California Chapter hosts a salon with Arnold Schwartzman and Stephen Gee , authors of the new book " Los Angeles Central Library : A History of its Art and Architecture " .
+Learn more about the history of downtown ' s Central Library as the Society of Architectural Historians / Northern California Chapter hosts a salon with Arnold Schwartzman and Stephen Gee , authors of the new book " Los Angeles Central Library : A History of its Art and Architecture " .
+Southern --> Northern
+Label: True
+
+The layout of Ali in the medical and health field is divided into three parts , namely , Ali Health , Yaotmall . com and Alipay Future Hospital .
+The layout of Ali in the medical and health field is divided into three parts , namely , Ali Health , Antmall . com and Alipay Future Hospital .
+Yaotmall --> Antmall
+Label: True
+
+After returning to Moscow , I will use the knowledge and skills learned in China to Russia and make my own contribution for the cultural transmission and promotion of the Chinese culture .
+After moving to Moscow , I will use the knowledge and skills learned in China to Russia and make my own contribution for the cultural transmission and promotion of the Chinese culture .
+returning --> moving
+Label: True
+
+Greater protection should be given to whistleblowers , Sir Eric says .
+Greater priority should be given to whistleblowers , Sir Eric says .
+protection --> priority
+Label: False
+
+You represent the CBC and Canada and make us all sound like a bunch of racists . # disgusted .
+They represent the CBC and Canada and make us all sound like a bunch of racists . # disgusted .
+You --> They
+Label: True
+
+The backcourt range of he and Rondo is limited . The three - point hit rate of headed star Butler is just 32 . 8 % , making their next - season offence quite congested .
+The frontcourt range of he and Rondo is limited . The three - point hit rate of headed star Butler is just 32 . 8 % , making their next - season offence quite congested .
+backcourt --> frontcourt
+Label: True
+
+And over in the pool , South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for years now .
+And over in the pool , South African swimmer Cameron van der Burgh has been getting compared to Glee star Matthew Morrison for months now .
+years --> months
+Label: True
+
+And as a generator that wouldn ' t be good for us , " he said .
+And as a generator that won ' t be good for us , " he said .
+wouldn --> won
+Label: True
+
+As many as 2000 jobs - direct and indirect - could be at risk with any closure .
+As many as 2000 jobs - direct and indirect - would be at risk with any closure .
+could --> would
+Label: True
+
+Established in August 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+Established in April 2015 , Hebei Provincial Cixiao Fund , also known as the Hebei Volunteer Service Foundation Cixiao Fund , was initiated by the Hebei Brand Preparatory Committee .
+August --> April
+Label: True
+
+As for the issues related to the opening and closing ceremonies , the lighting ceremony of the current Youth Games is combined the traditional sports characteristics of Yunnan ethnic minorities . In this way , the cultural connotation of Yunnan will be enriched .
+As for the issues related to the opening and closing ceremonies , the lighting ceremony of the current Youth Games is combined the traditional sports characteristics of Yunnan ethnic minorities . In this way , the cultural connotation of Yunnan can be enriched .
+will --> can
+Label: True
+
+And even this week , state TV has been predicting cheaper fruit and vegetables once Turkish agricultural imports are permitted again .
+And until this week , state TV has been predicting cheaper fruit and vegetables once Turkish agricultural imports are permitted again .
+even --> until
+Label: True
+
+A gourmand , President Roosevelt had a taste for fancy Fifth Avenue foods like pâté de foie gras and Maryland terrapin soup .
+A gourmand , President Roosevelt had a taste for fancy Fifth Avenue food like pâté de foie gras and Maryland terrapin soup .
+foods --> food
+Label: True
+
+Russian gymnast Aliya Mustafina , with her large , expressive eyes , has been said to be a dead ringer for Cuban - American singer Gloria Estefan .
+Russian gymnast Aliya Mustafina , with her bright , expressive eyes , has been said to be a dead ringer for Cuban - American singer Gloria Estefan .
+large --> bright
+Label: True
+
+We ' ve been losing out on so many world titles , so to win the Olympics again is just amazing .
+We ' ve been losing out on so many world titles , so to win the Olympics again is just incredible .
+amazing --> incredible
+Label: True
+
+It has been some journey for GB .
+It had been some journey for GB .
+has --> had
+Label: True
+
+According to the estimates of China Merchants Securities , deducted from the shares , CSFC will hold another 38 million shares of Shanghai Pudong Development Bank in the second quarter and raise its shares to almost 600 million shares , which account for 2 . 77 % of the bank shares .
+According to the estimates of China Merchants Securities , deducted from the shares , CSFC will hold another 38 million shares of Shanghai Pudong Development Bank during the second quarter and raise its shares to almost 600 million shares , which account for 2 . 77 % of the bank shares .
+in --> during
+Label: True
+
+The water sports center conducted a series of tests on water quality , and hundreds of divers and swimmers used the swimming pool to determine whether the water quality meets criteria . "
+The water sports center conducted a series of tests on water quality , and hundreds of divers and swimmers used the swimming pool to determine if the water quality meets criteria . "
+whether --> if
+Label: True
+
+Lin Quan stressed that if the political party , accompanying organization or trustees are in violations of the regulations which prohibit provisions ban , the Commission will investigate and punish " according to the law " .
+Chen Quan stressed that if the political party , accompanying organization or trustees are in violations of the regulations which prohibit provisions ban , the Commission will investigate and punish " according to the law " .
+Lin --> Chen
+Label: True
+
+With the price rising comes concerns of all walks of life : Will a number of small coal mines resume production ?
+With the price rising comes concerns of all walks of life : Will a number of small coal mines continue production ?
+resume --> continue
+Label: True
+
+The representatives of Bundesliga , Bayern Munich , Dortmund and the famous stars Thomas Muller , Lahm and Goetze have become a household name in China .
+The representatives of Bundesliga , Bayern Munich , Dortmund and the famous stars Thomas Muller , Rahm and Goetze have become a household name in China .
+Lahm --> Rahm
+Label: True
+
+At the 2016 China Hunchun Tiger and Leopard Protection International Forum which was terminated on September 11th , the forestry department and animal protection organization of China and Russia reached several consensuses for the second time .
+In the 2016 China Hunchun Tiger and Leopard Protection International Forum which was terminated on September 11th , the forestry department and animal protection organization of China and Russia reached several consensuses for the second time .
+At --> In
+Label: True
+
+RBS had already stated that it would not to continue its Six Nations sponsorship , and it has been raising the profile of different brands in its sports sponsorship .
+RBS had already stated that it would not to continue its Five Nations sponsorship , and it has been raising the profile of different brands in its sports sponsorship .
+Six --> Five
+Label: True
+
+The eviction was hailed by relieved neighbours who said their lives had been made a living hell .
+The eviction was hailed by relieved neighbours who said their lives have been made a living hell .
+had --> have
+Label: True
+
+From the news reports of the Olympic Games , all media have made a lot of big changes in the aspect of mode of transmission , product form , language style , news perspective and many other aspects .
+From the news reports of the Olympic Games , all media have made a lot of big changes in the aspect of mode of transmission , product form , presentation style , news perspective and many other aspects .
+language --> presentation
+Label: True
+
+Despite no response from Apple , there are news release about the function and configuration of the new iPhone . There are even the images of iPhone7 " real machine prototype " on the internet .
+Despite no response from Apple , there are news release about the function and configuration of the new iPhone . There are even the images of i7 " real machine prototype " on the internet .
+iPhone7 --> i7
+Label: True
+
+There is no fixed pattern of rural development , but it is quite difficult to just rely on spontaneous rural changes . A critical thing is to encourage the right people to go to villages .
+There is no fixed pattern of rural development , but it is quite difficult to just rely on spontaneous rural changes . The critical thing is to encourage the right people to go to villages .
+A --> The
+Label: True
+
+The stylish appearance of Liu Xuan impressed people and also laid a foundation for her to join the entertainment circle .
+The stylish appearance of Liu Xuan impressed people and also created a foundation for her to join the entertainment circle .
+laid --> created
+Label: True
+
+The funds allocated by the national finance cannot meet the needs of the project construction and restrict the progress of the channel upgrade .
+The funds allocated by the national finance cannot meet the needs of the project construction or restrict the progress of the channel upgrade .
+and --> or
+Label: True
+
+That would be the same as Hoy ' s .
+it would be the same as Hoy ' s .
+That --> it
+Label: True
+
+A French court has rejected a bid by Calais authorities to demolish dozens of makeshift shops and restaurants in the Jungle camp where thousands of refugees are living .
+A French court has rejected a bid by Calais authorities to demolish dozens of makeshift shops and restaurants at the Jungle camp where thousands of refugees are living .
+in --> at
+Label: True
+
+She is outgoing and can get along well with friends . In addition , she can adapt to the environment quite well .
+She is outgoing and can get along well with friends . In addition , she can adjust to the environment quite well .
+adapt --> adjust
+Label: True
+
+From June next year , those legal centres are slated to lose another 30 per cent of their federal funding .
+In June next year , those legal centres are slated to lose another 30 per cent of their federal funding .
+From --> In
+Label: True
+
+After truly exceptional showings of utter dominance at Beijing and London , expectations have been played down in the lead - up to Rio .
+Despite truly exceptional showings of utter dominance at Beijing and London , expectations have been played down in the lead - up to Rio .
+After --> Despite
+Label: True
+
+This latest protest comes just days after protesters took to the streets en masse to support suspended President Dilma Rousseff as the country ' s senate voted for her impeachment .
+This latest protest occurred just days after protesters took to the streets en masse to support suspended President Dilma Rousseff as the country ' s senate voted for her impeachment .
+comes --> occurred
+Label: True
+
+The renovation would not change the shell shape of the opera house , according to the New South Wales government .
+The renovation would not change the shell shape of the opera house , according to the New South Wales Government .
+government --> Government
+Label: True
+
+As these winds travel across the stars ' magnetic fields , they enact a braking effect on the stars .
+As the winds travel across the stars ' magnetic fields , they enact a braking effect on the stars .
+these --> the
+Label: True
+
+Ever since the exchange reform , the fluctuation of RMB against the US dollar often appears , with ups and downs during the process .
+Ever since the exchange reform , the fluctuation of RMB against the US dollar always appears , with ups and downs during the process .
+often --> always
+Label: True
+
+If the traffic control department can determine to declare war to the mobile phone playing behavior during driving and normalize such measures , such illegal behaviors will surely be curbed .
+If the traffic control department can determine to declare war to the mobile phone playing behavior when driving and normalize such measures , such illegal behaviors will surely be curbed .
+during --> when
+Label: True
+
+In March 2016 , at the end of the Rio Olympic qualifying session , she regained the women ' s 10 - meter air rifle qualification for the Olympic Games after a time interval of 8 years .
+In February 2016 , at the end of the Rio Olympic qualifying session , she regained the women ' s 10 - meter air rifle qualification for the Olympic Games after a time interval of 8 years .
+March --> February
+Label: True
+
+Overall , nearly 79 % of the total bridge deck is now in place , the final section of deck is having its concrete deck cast in Rosyth today , meaning all the deck is ready to be lifted into place on the bridge .
+However , nearly 79 % of the total bridge deck is now in place , the final section of deck is having its concrete deck cast in Rosyth today , meaning all the deck is ready to be lifted into place on the bridge .
+Overall --> However
+Label: True
+
+" With everything else that ' s going wrong with the world , he was that diamond in the rough that was shining bright every day , " he said .
+" With everything else that ' s going wrong with the world , he was that diamond in the rough that was burning bright every day , " he said .
+shining --> burning
+Label: True
+
+The scope of the fund covers college entrance freshmen , excluding tuition - free majors . Students qualified for the fund should have excellent study performance and family poverty .
+The scope of the fund covers university entrance freshmen , excluding tuition - free majors . Students qualified for the fund should have excellent study performance and family poverty .
+college --> university
+Label: True
+
+The Lingshui police have been involved in the investigation while the Lingshui traffic authority will intensify its efforts to rectify illegal operations of vehicles .
+The Lingshui police have been involved in the investigation and the Lingshui traffic authority will intensify its efforts to rectify illegal operations of vehicles .
+while --> and
+Label: True
+
+With the increase of the operation of Sino - Asia freight trains , the freight volume of the Xinzhu Railway Station of Xi ' an Railway Bureau increased year by year .
+With the increase of the operation of Sino - Asia freight trains , the freight volume of the Lianzhu Railway Station of Xi ' an Railway Bureau increased year by year .
+Xinzhu --> Lianzhu
+Label: True
+
+Core Tip : Japanese oil companies expressed vigilance to the rise of small independent Chinese oil refineries , especially those that are called " teapots " .
+Core Tip : Japanese oil companies expressed vigilance to the rise of small independent Chinese oil refineries , especially those which are called " teapots " .
+that --> which
+Label: True
+
+Simone Biles nails all - around gold in women ' s gymnastics
+Simone Wiles nails all - around gold in women ' s gymnastics
+Biles --> Wiles
+Label: True
+
+German Bundesliga is known as one of the five major European leagues ( FA Premier League , La Liga , Serie A , German Bundesliga and Ligue 1 ) and is the flagship event in the Germany sports circles .
+German Bundesliga is known as one of the five major European leagues ( FA Premier League , La Liga , Serie A , German Bundesliga and Ligue 1 ) and is the flagship event in the Germany sporting circles .
+sports --> sporting
+Label: True
+
+In addition , the report also pointed out that in the case of economic development and inflation of Tajikistan in 2016 , there are certain differences between predictions of the government and some major international financial institutions .
+In addition , the report also pointed out that in the case of economic development and inflation of Tajikistan in 2014 , there are certain differences between predictions of the government and some major international financial institutions .
+2016 --> 2014
+Label: True
+
+Venus was likely once habitable , according to the projections of a new NASA climate model .
+Venus was probably once habitable , according to the projections of a new NASA climate model .
+likely --> probably
+Label: True
+
+Eight years ago , under Ryan , they lost every game at the Adelaide Sevens .
+Eight months ago , under Ryan , they lost every game at the Adelaide Sevens .
+years --> months
+Label: True
+
+Shangluo Power Supply Company ' s Danfeng County branch works with the construction of spiritual civilization , and actively organizes the " electricity introduction in the ancient town " and Double Seventh Festival theme activities .
+Shangluo Power Supply Company ' s Dongfeng County branch works with the construction of spiritual civilization , and actively organizes the " electricity introduction in the ancient town " and Double Seventh Festival theme activities .
+Danfeng --> Dongfeng
+Label: True
+
+On August 10 , after the spread of the news of Huang Yilin ' s jumping into the river for rescue , Ms . Yin received the condolences and compliments of a lot of friends and relatives as well as the " concerns " of many relatives and friends .
+On July 10 , after the spread of the news of Huang Yilin ' s jumping into the river for rescue , Ms . Yin received the condolences and compliments of a lot of friends and relatives as well as the " concerns " of many relatives and friends .
+August --> July
+Label: True
+
+However , from Junichiro Koizumi , who was Japan ' s prime minister 10 years ago , to the present Abe , Japan has repeatedly launched the " sprint " scheme . However , all schemes were abandoned eventually .
+However , from Junichiro Koizumi , who was Japan ' s prime minister 10 years ago , to the present Abe , Japan has repeatedly launched the " sprint " scheme . However , the schemes were abandoned eventually .
+all --> the
+Label: True
+
+The cooperation between Yuyue and Jiuzhoutong is aimed at the needs of the market , helping the hospital to build an advanced supply chain management system , and take this opportunity to seek more cooperation .
+This cooperation between Yuyue and Jiuzhoutong is aimed at the needs of the market , helping the hospital to build an advanced supply chain management system , and take this opportunity to seek more cooperation .
+The --> This
+Label: True
+
+The case dates back to 2013 when Gilead and Merck sued each other , claiming ownership of laboratory work underlying sofosbuvir , the active ingredient in Gilead ' s drugs .
+The dispute dates back to 2013 when Gilead and Merck sued each other , claiming ownership of laboratory work underlying sofosbuvir , the active ingredient in Gilead ' s drugs .
+case --> dispute
+Label: True
+
+Many of the stars in the cluster are just now reaching adulthood , having been born roughly 125 million years ago .
+All of the stars in the cluster are just now reaching adulthood , having been born roughly 125 million years ago .
+Many --> All
+Label: True
+
+It ' s not a big meeting , it ' s not a Royal Ascot - it ' s a mundane Friday night with 20 , 000 people .
+It ' s not a big meeting , it ' s not a Royal Ascot - it ' s a mundane Sunday night with 20 , 000 people .
+Friday --> Sunday
+Label: True
+
+Sir Eric said : " Last year ' s court ruling in Tower Hamlets was a wake - up call .
+Lord Eric said : " Last year ' s court ruling in Tower Hamlets was a wake - up call .
+Sir --> Lord
+Label: True
+
+Two jockeys have reached the milestone in jump racing - champion jockey Richard Johnson and retired 20 - time champion Sir Anthony McCoy , who had more than 4 , 300 victories in a record - breaking career .
+Two jockeys have reached the milestone in jump racing - champion jockey Richard Johnson and retired 20 - times champion Sir Anthony McCoy , who had more than 4 , 300 victories in a record - breaking career .
+time --> times
+Label: True
+
+This day not only announced that it has restored health by 100 % , but also signaled its move into the luxury aviary to meet its human friends .
+The day not only announced that it has restored health by 100 % , but also signaled its move into the luxury aviary to meet its human friends .
+This --> The
+Label: True
+
+From June next year , those legal centres are slated to lose another 30 per cent of their federal funding .
+From June next year , those legal centres are slated to lose another 40 per cent of their federal funding .
+30 --> 40
+Label: True
+
+Whether these news are true or false will not be unveiled until the 2016 Apple autumn news conference .
+Whether these news are true or false would not be unveiled until the 2016 Apple autumn news conference .
+will --> would
+Label: True
+
+According to the current mainstream view , there are three major lines for the introduction of sweet potato .
+According to the modern mainstream view , there are three major lines for the introduction of sweet potato .
+current --> modern
+Label: True
+
+" You can respond to your friends when you are willing , because there is a lot of time to think over the words and you can express it more clearly .
+" You can respond to your friends whenever you are willing , because there is a lot of time to think over the words and you can express it more clearly .
+when --> whenever
+Label: True
+
+The United Kingdom parliament will resume on September 5 . The subject matter covers the second Brexit referendum required on the internet .
+The United Kingdom parliament will resume on July 5 . The subject matter covers the second Brexit referendum required on the internet .
+September --> July
+Label: True
+
+" People of different identities have the same rights and efficiency to speech . Various social concerns during real life may be eliminated immediately on internet . "
+" People of different identities have the same rights and efficiency to speech . Some social concerns during real life may be eliminated immediately on internet . "
+Various --> Some
+Label: True
+
+OPEC changed the market sentiment by releasing signals that they would reach an agreement , said Helima Croft , head of commodity strategy at Royal Bank of Canada .
+OPEC changed the market sentiment by releasing signals that they would reach an agreement , said Selima Croft , head of commodity strategy at Royal Bank of Canada .
+Helima --> Selima
+Label: True
+
+" We hope that through the youthful activities and layout of the scene , young people will know that the culture behind the Yulan festival is to express filial piety and thanksgiving . "
+" We hope that through the youthful activities and layout of the scene , young people will know that the culture behind the Yulan festival seeks to express filial piety and thanksgiving . "
+is --> seeks
+Label: True
+
+After being made homeless , it is understood that Tanya and her partner are now living in private housing in Plymouth .
+Since being made homeless , it is understood that Tanya and her partner are now living in private housing in Plymouth .
+After --> Since
+Label: True
+
+Although China ' s aircraft has entered a deep space , it is still essential to finish the task of Mars exploration , which marks that China has stepped into the deep space exploration era in a true sense , according to Xu Dazhe .
+Although China ' s aircraft has entered a deep space , it is still essential to finish the task of Mars exploration , which marks that China has stepped into the deep space exploration era in a true sense , according to Zhang Dazhe .
+Xu --> Zhang
+Label: True
+
+The Supplement of Public Sports Facilities
+The Suppression of Public Sports Facilities
+Supplement --> Suppression
+Label: False
+
+He said that Gu Lixiong will be the most appropriate candidate for the Ill - gotten Party Assets Handling Regulations . The experience of Hong Peigen who dealt with the major cases will serve as the foundation for the committee to uncover the related ill - gotten party assets .
+He stated that Gu Lixiong will be the most appropriate candidate for the Ill - gotten Party Assets Handling Regulations . The experience of Hong Peigen who dealt with the major cases will serve as the foundation for the committee to uncover the related ill - gotten party assets .
+said --> stated
+Label: True
+
+But the visit also had additional political value for Moscow .
+But this visit also had additional political value for Moscow .
+the --> this
+Label: True
+
