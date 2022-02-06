@@ -6,14 +6,14 @@ import math
 import torch
 import sys
 import torch.nn.functional as F
-from stanfordcorenlp import StanfordCoreNLP
+# from stanfordcorenlp import StanfordCoreNLP
 import os
 import time
 import random
 from copy import deepcopy
 #from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
 from transformers import BertConfig, BertTokenizer, BertModel, RobertaTokenizer, RobertaModel, BertForMaskedLM
-from nltk.tokenize.treebank import TreebankWordTokenizer, TreebankWordDetokenizer
+# from nltk.tokenize.treebank import TreebankWordTokenizer, TreebankWordDetokenizer
 
 os.environ["CUDA_VISIBLE_DEVICES"]="6"
 
@@ -52,7 +52,7 @@ def bertInit():
     
     return bertmodel, berttokenizer, bertori
 
-tokenizer = TreebankWordTokenizer()
+# tokenizer = TreebankWordTokenizer()
 
 lcache = []
 
@@ -63,7 +63,7 @@ def BertM (bert, berttoken, inpori, bertori):
             return k[1], k[2]
     sentence = inpori
     #batchsize = 3000 // len(tokens)
-    oritokens = tokenizer.tokenize(sentence)
+#     oritokens = tokenizer.tokenize(sentence)
     tokens = berttoken.tokenize(sentence)
     batchsize = 1000 // len(tokens)
     #tag = nlp.pos_tag(" ".join(oritokens))
